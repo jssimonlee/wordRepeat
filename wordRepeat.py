@@ -53,7 +53,7 @@ with tab1:
         with col3:
             answCol = st.selectbox("해답열 선택",[1,2,3],1) - 1
         with col4:
-            dilimCol = st.selectbox("열 구분자",["탭","빈칸1개","빈칸2개","콤마"],2)
+            dilimCol = st.selectbox("열 구분자",["탭","빈칸1개","빈칸2개","콤마"],0)
         with col5:
             timeSel = st.selectbox("시간 간격",[1,2,3,4,5,6,8,10,20,30,60],2)
         submitted = st.form_submit_button("시작")
