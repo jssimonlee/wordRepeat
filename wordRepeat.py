@@ -38,16 +38,16 @@ extList = ['txt']
 
 with tab1:
     with st.form("run_Form"):
-        file_list = os.listdir("./resources")
+        file_list = os.listdir()
         file_list_wanted = []
         for file in file_list:
             root, extension = os.path.splitext(file)
             if extension.replace('.','') in extList:
-                file_list_wanted.append(file)
+                if root is not 'requirements':
+                    file_list_wanted.append(file)
         col1,col2,col3,col4,col5 = st.columns([10,4,4,6,4])
         with col1:
             selected_file = st.selectbox('파일선택',file_list_wanted)
-            selected_file = './resources/' + selected_file
         with col2:
             questCol = st.selectbox("질문열 선택",[1,2,3]) - 1
         with col3:
@@ -67,14 +67,14 @@ with tab2:
     with st.form("upload_Form"):
         st.info("* 파일은 txt파일(utf-8로 저장)로 되어 있어야 하고 구분자로 열이 구분되어 있어야 한다.")
         uploaded_file = st.file_uploader("업로드 파일을 선택하세요", type=extList)
-        file_list = os.listdir("./resources")
+        file_list = os.listdir()
         file_list_wanted = []
         for file in file_list:
             root, extension = os.path.splitext(file)
             if extension.replace('.','') in extList:
-                file_list_wanted.append(file)
+                if root is not 'requirements':
+                    file_list_wanted.append(file)
         selected_file = st.selectbox('확인하고 싶은 파일을 선택하세요.',file_list_wanted)
-        selected_file = './resources/' + selected_file
         submitted = st.form_submit_button("파일내용확인")
         if selected_file and submitted:
             try:
@@ -92,14 +92,14 @@ with tab2:
 with tab3:
     with st.form("delete_Form"):
         extList = ['txt']
-        file_list = os.listdir("./resources")
+        file_list = os.listdir()
         file_list_wanted = []
         for file in file_list:
             root, extension = os.path.splitext(file)
             if extension.replace('.','') in extList:
-                file_list_wanted.append(file)
+                if root is not 'requirements':
+                    file_list_wanted.append(file)
         selected_file = st.selectbox('삭제하고 싶은 파일을 선택하세요.',file_list_wanted)
-        selected_file = './resources/' + selected_file
         # button은 한번 실행하면 rerun이 되어서 다음 버튼이 실행이 안된다.
         if "button1" not in st.session_state:
             st.session_state["button1"] = False
@@ -117,14 +117,14 @@ with tab3:
 
 with tab4:
     #form에서는  download_button을 쓸 수 없어서 form 사용 안함
-    file_list = os.listdir("./resources")
+    file_list = os.listdir()
     file_list_wanted = []
     for file in file_list:
         root, extension = os.path.splitext(file)
         if extension.replace('.','') in extList:
-            file_list_wanted.append(file)
-    selected_file_temp = st.selectbox('파일선택',file_list_wanted)
-    selected_file = './resources/' + selected_file_temp
+            if root is not 'requirements':
+                file_list_wanted.append(file)
+    selected_file = st.selectbox('파일선택',file_list_wanted)
     with open(selected_file,'r',encoding='utf-8') as f:
-        if st.download_button('다운로드', f, selected_file_temp):
-            st.success(f'{selected_file_temp} 파일이 다운로드 되었습니다.')
+        if st.download_button('다운로드', f, selected_file):
+            st.success(f'{selected_file} 파일이 다운로드 되었습니다.')
