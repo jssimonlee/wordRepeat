@@ -101,19 +101,20 @@ with tab3:
                     file_list_wanted.append(file)
         selected_file = st.selectbox('삭제하고 싶은 파일을 선택하세요.',file_list_wanted)
         # button은 한번 실행하면 rerun이 되어서 다음 버튼이 실행이 안된다.
-        if "button1" not in st.session_state:
-            st.session_state["button1"] = False
-        if "button2" not in st.session_state:
-            st.session_state["button2"] = False
-        if st.form_submit_button("삭제"):
-            st.session_state["button1"] = not st.session_state["button1"]
-        if st.session_state["button1"]:
-            if st.form_submit_button(f'"{selected_file}" 이 파일을 정말로 삭제하시겠습니까?'):
-                st.session_state["button2"] = not st.session_state["button2"]
-        if st.session_state["button2"]:
-            os.remove(selected_file)
-            st.warning(f'"{selected_file}" 파일이 삭제되었습니다.')
-            st.info("사이트를 다시 로드하세요(재실행)")
+        if selected_file:
+            if "button1" not in st.session_state:
+                st.session_state["button1"] = False
+            if "button2" not in st.session_state:
+                st.session_state["button2"] = False
+            if st.form_submit_button("삭제"):
+                st.session_state["button1"] = not st.session_state["button1"]
+            if st.session_state["button1"]:
+                if st.form_submit_button(f'"{selected_file}" 이 파일을 정말로 삭제하시겠습니까?'):
+                    st.session_state["button2"] = not st.session_state["button2"]
+            if st.session_state["button2"]:
+                os.remove(selected_file)
+                st.warning(f'"{selected_file}" 파일이 삭제되었습니다.')
+                st.info("사이트를 다시 로드하세요(재실행)")
 
 with tab4:
     #form에서는  download_button을 쓸 수 없어서 form 사용 안함
@@ -125,6 +126,7 @@ with tab4:
             if file != 'requirements.txt':
                 file_list_wanted.append(file)
     selected_file = st.selectbox('파일선택',file_list_wanted)
-    with open(selected_file,'r',encoding='utf-8') as f:
-        if st.download_button('다운로드', f, selected_file):
-            st.success(f'{selected_file} 파일이 다운로드 되었습니다.')
+    if selected_file:
+        with open(selected_file,'r',encoding='utf-8') as f:
+            if st.download_button('다운로드', f, selected_file):
+                st.success(f'{selected_file} 파일이 다운로드 되었습니다.')
