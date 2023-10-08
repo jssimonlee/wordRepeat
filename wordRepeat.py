@@ -94,14 +94,14 @@ with tab2:
                 st.warning('파일을 메모장에서 "utf-8"로 다시 저장하세요')
 with tab3:
      with st.form("inputText_Form"):
-        st.info("* 만들 텍스트 화일의 이름과 내용을(Tab으로 구분) 넣고 저장버튼을 누르세요.\(확장자 .txt는 자동 입력\)")
+        st.info("* 만들 텍스트 화일의 이름과 내용을(2칸 띄워서나 Tab으로 구분) 넣고 저장버튼을 누르세요.\(확장자 .txt는 자동 입력\)")
         fName = st.text_input('저장 할 파일 이름을 입력하세요.')
         inputText = st.text_area('저장 할 내용을 입력하세요')
         submitted3 = st.form_submit_button('저장')
         if fName and inputText and submitted3:
             with open(fName + ".txt","w") as f:
                 f.write(inputText)
-                st.info('파일저장 버튼을 눌러서 저장하세요.')
+                st.info('파일이 저장되었습니다.')
                 
 with tab4:
     # with st.form("delete_Form"):
