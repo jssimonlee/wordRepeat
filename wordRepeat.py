@@ -35,8 +35,6 @@ def showWords(data, questCol, answCol, dilimCol, timeSel):
                 time.sleep(timeSel)
 tab1, tab2, tab3, tab4 = st.tabs(['반복학습', "파일 업로드", "파일삭제", "파일 다운로드"])
 extList = ['txt']
-if not os.path.exists("/resources"):
-    os.makedirs("/resources")
 
 with tab1:
     with st.form("run_Form"):
