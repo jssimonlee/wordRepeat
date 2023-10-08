@@ -123,8 +123,8 @@ with tab4:
         root, extension = os.path.splitext(file)
         if extension.replace('.','') in extList:
             file_list_wanted.append(file)
-    selected_file = st.selectbox('파일선택',file_list_wanted)
-    selected_file = './resources/' + selected_file
+    selected_file_temp = st.selectbox('파일선택',file_list_wanted)
+    selected_file = './resources/' + selected_file_temp
     with open(selected_file,'r',encoding='utf-8') as f:
-        if st.download_button('다운로드', f, selected_file):
-            st.success(f'{selected_file} 파일이 다운로드 되었습니다.')
+        if st.download_button('다운로드', f, selected_file_temp):
+            st.success(f'{selected_file_temp} 파일이 다운로드 되었습니다.')
