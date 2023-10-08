@@ -38,7 +38,7 @@ extList = ['txt']
 
 with tab1:
     with st.form("run_Form"):
-        file_list = os.listdir("/resources")
+        file_list = os.listdir("./resources")
         file_list_wanted = []
         for file in file_list:
             root, extension = os.path.splitext(file)
@@ -66,7 +66,7 @@ with tab2:
     with st.form("upload_Form"):
         st.info("* 파일은 txt파일(utf-8로 저장)로 되어 있어야 하고 구분자로 열이 구분되어 있어야 한다.")
         uploaded_file = st.file_uploader("업로드 파일을 선택하세요", type=extList)
-        file_list = os.listdir("/resources")
+        file_list = os.listdir("./resources")
         file_list_wanted = []
         for file in file_list:
             root, extension = os.path.splitext(file)
@@ -90,7 +90,7 @@ with tab2:
 with tab3:
     with st.form("delete_Form"):
         extList = ['txt']
-        file_list = os.listdir("/resources")
+        file_list = os.listdir("./resources")
         file_list_wanted = []
         for file in file_list:
             root, extension = os.path.splitext(file)
@@ -115,7 +115,7 @@ with tab3:
 
 with tab4:
     #form에서는  download_button을 쓸 수 없어서 form 사용 안함
-    file_list = os.listdir("/resources")
+    file_list = os.listdir("./resources")
     file_list_wanted = []
     for file in file_list:
         root, extension = os.path.splitext(file)
