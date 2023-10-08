@@ -41,10 +41,9 @@ with tab1:
         file_list = os.listdir()
         file_list_wanted = []
         for file in file_list:
-            st.write(file,type(file))
             root, extension = os.path.splitext(file)
             if extension.replace('.','') in extList:
-                if file is not 'requirements.txt':
+                if file != 'requirements.txt':
                     file_list_wanted.append(file)
         col1,col2,col3,col4,col5 = st.columns([10,4,4,6,4])
         with col1:
@@ -73,7 +72,7 @@ with tab2:
         for file in file_list:
             root, extension = os.path.splitext(file)
             if extension.replace('.','') in extList:
-                if file is not 'requirements.txt':
+                if file != 'requirements.txt':
                     file_list_wanted.append(file)
         selected_file = st.selectbox('확인하고 싶은 파일을 선택하세요.',file_list_wanted)
         submitted = st.form_submit_button("파일내용확인")
@@ -98,7 +97,7 @@ with tab3:
         for file in file_list:
             root, extension = os.path.splitext(file)
             if extension.replace('.','') in extList:
-                if file is not 'requirements.txt':
+                if file != 'requirements.txt':
                     file_list_wanted.append(file)
         selected_file = st.selectbox('삭제하고 싶은 파일을 선택하세요.',file_list_wanted)
         # button은 한번 실행하면 rerun이 되어서 다음 버튼이 실행이 안된다.
@@ -123,7 +122,7 @@ with tab4:
     for file in file_list:
         root, extension = os.path.splitext(file)
         if extension.replace('.','') in extList:
-            if file is not 'requirements.txt':
+            if file != 'requirements.txt':
                 file_list_wanted.append(file)
     selected_file = st.selectbox('파일선택',file_list_wanted)
     with open(selected_file,'r',encoding='utf-8') as f:
