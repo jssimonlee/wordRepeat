@@ -69,9 +69,9 @@ with tab2:
         uploaded_file = st.file_uploader("업로드 파일을 선택하세요", type=extList)
         
         if uploaded_file is not None:
-            st.write(uploaded_file.name,uploaded_file.size)
-            with open(uploaded_file.name,"wb") as f:
-                f.write(uploaded_file.getbuffer())
+            # st.write(uploaded_file.name,uploaded_file.size)
+            # with open(uploaded_file.name,"wb") as f:
+            #     f.write(uploaded_file.getbuffer())
         file_list = os.listdir()
         file_list_wanted = []
         for file in file_list:
@@ -80,7 +80,7 @@ with tab2:
                 if file != 'requirements.txt':
                     file_list_wanted.append(file)
         selected_file = st.selectbox('확인하고 싶은 파일을 선택하세요.',file_list_wanted)
-        submitted = st.form_submit_button("파일내용확인")
+        submitted = st.form_submit_button("파일저장/내용확인")
         if selected_file and submitted:
             try:
                 with open(selected_file,'r', encoding='utf-8') as f:
