@@ -101,12 +101,12 @@ with tab3:
                     file_list_wanted.append(file)
         selected_file = st.selectbox('삭제하고 싶은 파일을 선택하세요.',file_list_wanted)
         # button은 한번 실행하면 rerun이 되어서 다음 버튼이 실행이 안된다.
-        if selected_file:
+        submitted1 = st.form_submit_button("삭제")
+        if submitted1 and selected_file:
             if "button1" not in st.session_state:
                 st.session_state["button1"] = False
             if "button2" not in st.session_state:
                 st.session_state["button2"] = False
-            submitted1 = st.form_submit_button("삭제")
             if submitted1:
                 st.session_state["button1"] = not st.session_state["button1"]
             if st.session_state["button1"]:
