@@ -33,7 +33,7 @@ def showWords(data, questCol, answCol, dilimCol, timeSel):
                         
                 st.success(disTxt)
                 time.sleep(timeSel)
-tab1, tab2, tab3, tab4 = st.tabs(['반복학습', "파일 업로드", "파일삭제", "파일 다운로드"])
+tab1, tab2, tab3, tab4 = st.tabs(['반복학습', "파일 업로드", "단어 직접입력", "파일삭제", "파일 다운로드"])
 extList = ['txt']
 
 with tab1:
@@ -65,7 +65,7 @@ with tab1:
 
 with tab2:
     with st.form("upload_Form"):
-        st.info("* 파일은 txt파일(utf-8로 저장)로 되어 있어야 하고 구분자(Tab등)로 열이 구분되어 있어야 한다.\n\n 아래 텍스트 상자에 넣어서 저장 할 수도 있다.")
+        st.info("* 파일은 txt파일(utf-8로 저장)로 되어 있어야 하고 구분자(Tab등)로 열이 구분되어 있어야 한다.")
         uploaded_file = st.file_uploader("업로드 파일을 선택하세요", type=extList)
         if uploaded_file is not None:
             with open(uploaded_file.name,"wb") as f:
@@ -92,8 +92,18 @@ with tab2:
                     # st.write(len(f.readlines()))
             except:
                 st.warning('파일을 메모장에서 "utf-8"로 다시 저장하세요')
-
 with tab3:
+     with st.form("inputText_Form"):
+        st.info("* 만들 텍스트 화일의 이름과 내용을(Tab으로 구분) 넣고 저장버튼을 누르세요.\(확장자 .txt는 자동 입력\)")
+        fName = st.text_input('저장 할 파일 이름을 입력하세요.')
+        inputText = st.text_area('저장 할 내용을 입력하세요')
+        submitted3 = st.form_submit_button('저장')
+        if fName and inputText and submitted3:
+            with open(fName + ".txt","w") as f:
+                f.write(inputText)
+                st.info('파일저장 버튼을 눌러서 저장하세요.')
+                
+with tab4:
     # with st.form("delete_Form"):
     extList = ['txt']
     file_list = os.listdir()
@@ -125,7 +135,7 @@ with tab3:
         #     st.warning(f'"{selected_file}" 파일이 삭제되었습니다.')
         #     st.info("사이트를 다시 로드하세요(재실행)")
 
-with tab4:
+with tab5:
     #form에서는  download_button을 쓸 수 없어서 form 사용 안함
     file_list = os.listdir()
     file_list_wanted = []
