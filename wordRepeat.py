@@ -41,6 +41,7 @@ with tab1:
         file_list = os.listdir()
         file_list_wanted = []
         for file in file_list:
+            print(file,type(file))
             root, extension = os.path.splitext(file)
             if extension.replace('.','') in extList:
                 if file is not 'requirements.txt':
