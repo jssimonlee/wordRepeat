@@ -33,7 +33,7 @@ def showWords(data, questCol, answCol, dilimCol, timeSel):
                         
                 st.success(disTxt)
                 time.sleep(timeSel)
-tab1, tab2, tab3, tab4 = st.tabs(['반복학습', "파일 업로드", "단어 직접입력", "파일삭제", "파일 다운로드"])
+tab1, tab2, tab3, tab4, tab5 = st.tabs(['반복학습', "파일 업로드", "단어 직접입력", "파일삭제", "파일 다운로드"])
 extList = ['txt']
 
 with tab1:
