@@ -93,33 +93,33 @@ with tab2:
                 st.warning('파일을 메모장에서 "utf-8"로 다시 저장하세요')
 
 with tab3:
-    with st.form("delete_Form"):
-        extList = ['txt']
-        file_list = os.listdir()
-        file_list_wanted = []
-        for file in file_list:
-            root, extension = os.path.splitext(file)
-            if extension.replace('.','') in extList:
-                if file != 'requirements.txt':
-                    file_list_wanted.append(file)
-        selected_file = st.selectbox('삭제하고 싶은 파일을 선택하세요.',file_list_wanted)
-        # button은 한번 실행하면 rerun이 되어서 다음 버튼이 실행이 안된다.
-        submitted1 = st.form_submit_button("삭제")
-        if submitted1 and selected_file:
-            if "button1" not in st.session_state:
-                st.session_state["button1"] = False
-            if "button2" not in st.session_state:
-                st.session_state["button2"] = False
-            if submitted1:
-                st.session_state["button1"] = not st.session_state["button1"]
-            if st.session_state["button1"]:
-                submitted2 = st.form_submit_button(f'"{selected_file}" 이 파일을 정말로 삭제하시겠습니까?')
-                if submitted2:
-                    st.session_state["button2"] = not st.session_state["button2"]
-            if st.session_state["button2"]:
-                os.remove(selected_file)
-                st.warning(f'"{selected_file}" 파일이 삭제되었습니다.')
-                st.info("사이트를 다시 로드하세요(재실행)")
+    # with st.form("delete_Form"):
+    extList = ['txt']
+    file_list = os.listdir()
+    file_list_wanted = []
+    for file in file_list:
+        root, extension = os.path.splitext(file)
+        if extension.replace('.','') in extList:
+            if file != 'requirements.txt':
+                file_list_wanted.append(file)
+    selected_file = st.selectbox('삭제하고 싶은 파일을 선택하세요.',file_list_wanted)
+    # button은 한번 실행하면 rerun이 되어서 다음 버튼이 실행이 안된다.
+    submitted1 = st.button("삭제")
+    if submitted1 and selected_file:
+        if "button1" not in st.session_state:
+            st.session_state["button1"] = False
+        if "button2" not in st.session_state:
+            st.session_state["button2"] = False
+        if submitted1:
+            st.session_state["button1"] = not st.session_state["button1"]
+        if st.session_state["button1"]:
+            submitted2 = st.button(f'"{selected_file}" 이 파일을 정말로 삭제하시겠습니까?')
+            if submitted2:
+                st.session_state["button2"] = not st.session_state["button2"]
+        if st.session_state["button2"]:
+            os.remove(selected_file)
+            st.warning(f'"{selected_file}" 파일이 삭제되었습니다.')
+            st.info("사이트를 다시 로드하세요(재실행)")
 
 with tab4:
     #form에서는  download_button을 쓸 수 없어서 form 사용 안함
