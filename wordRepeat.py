@@ -69,7 +69,7 @@ with tab2:
         uploaded_file = st.file_uploader("업로드 파일을 선택하세요", type=extList)
         if uploaded_file is not None:
              with open(uploaded_file.name,"wb") as f:
-             f.write(uploaded_file.getbuffer())
+                 f.write(uploaded_file.getbuffer())
         file_list = os.listdir()
         file_list_wanted = []
         for file in file_list:
