@@ -47,7 +47,7 @@ with tab1:
         col1,col2,col3,col4,col5 = st.columns([10,4,4,6,4])
         with col1:
             selected_file = st.selectbox('파일선택',file_list_wanted)
-            selected_file = '.resources/' + selected_file
+            selected_file = './resources/' + selected_file
         with col2:
             questCol = st.selectbox("질문열 선택",[1,2,3]) - 1
         with col3:
@@ -74,7 +74,7 @@ with tab2:
             if extension.replace('.','') in extList:
                 file_list_wanted.append(file)
         selected_file = st.selectbox('확인하고 싶은 파일을 선택하세요.',file_list_wanted)
-        selected_file = '.resources/' + selected_file
+        selected_file = './resources/' + selected_file
         submitted = st.form_submit_button("파일내용확인")
         if selected_file and submitted:
             try:
@@ -99,7 +99,7 @@ with tab3:
             if extension.replace('.','') in extList:
                 file_list_wanted.append(file)
         selected_file = st.selectbox('삭제하고 싶은 파일을 선택하세요.',file_list_wanted)
-        selected_file = '.resources/' + selected_file
+        selected_file = './resources/' + selected_file
         # button은 한번 실행하면 rerun이 되어서 다음 버튼이 실행이 안된다.
         if "button1" not in st.session_state:
             st.session_state["button1"] = False
@@ -124,7 +124,7 @@ with tab4:
         if extension.replace('.','') in extList:
             file_list_wanted.append(file)
     selected_file = st.selectbox('파일선택',file_list_wanted)
-    selected_file = '.resources/' + selected_file
+    selected_file = './resources/' + selected_file
     with open(selected_file,'r',encoding='utf-8') as f:
         if st.download_button('다운로드', f, selected_file):
             st.success(f'{selected_file} 파일이 다운로드 되었습니다.')
