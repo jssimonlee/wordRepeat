@@ -4,15 +4,26 @@ import random
 import os
 
 def showWords(data, questCol, answCol, dilimCol, timeSel):
-    if dilimCol == "탭": dilimCol = "\t"
-    elif dilimCol == "빈칸1개": dilimCol = " "
-    elif dilimCol == "빈칸2개": dilimCol = "  "
-    elif dilimCol == "콤마": dilimCol = ","
     try:
         with open(selected_file,'r', encoding='utf-8') as f:
             voc = f.readlines()
     except:
         st.warning("파일을 utf-8로 다시 저장해서 업로드 해주세요.")
+    if dilimCol == "자동":
+        if  "\t" in voc[0].strip():
+            dilimCol = "\t"
+        elif "  " in voc[0].strip():
+            dilimCol = "  "
+        elif "," in voc[0].strip():
+            dilimCol = ","
+        elif " " in voc[0].strip():
+            dilimCol = " "
+        else:
+            dilimCol = "    "
+    elif dilimCol == "탭": dilimCol = "\t"
+    elif dilimCol == "빈칸1개": dilimCol = " "
+    elif dilimCol == "빈칸2개": dilimCol = "  "
+    elif dilimCol == "콤마": dilimCol = ","
     placeholder = st.empty()
     try:
         while True:
@@ -67,7 +78,7 @@ with tab1:
         with col3:
             answCol = st.selectbox("해답열 선택",[1,2,3,4],1) - 1
         with col4:
-            dilimCol = st.selectbox("열 구분자",["탭","빈칸1개","빈칸2개","콤마"],0)
+            dilimCol = st.selectbox("열 구분자",["자동","탭","빈칸1개","빈칸2개","콤마"],0)
         with col5:
             timeSel = st.selectbox("시간 간격",[1,2,3,4,5,6,8,10,20,30,60],2)
         submitted = st.form_submit_button("시작")
