@@ -47,7 +47,7 @@ def showWords(data, questCol, answCol, dilimCol, timeSel):
                 st.warning("설정 값을 확인하고 다시 실행하세요.")
         except:
             st.warning("파일이 정상적이지 않습니다.")
-tab1, tab2, tab3, tab4, tab5, tab6 = st.tabs(['반복학습', "파일 업로드/내용확인", "파일편집", "단어 직접입력", "파일삭제", "파일 다운로드"])
+tab1, tab2, tab3, tab4, tab5, tab6 = st.tabs(['🕹️ 반복학습', "파일 업로드/내용확인", "파일편집", "단어 직접입력/단어찾기", "파일삭제", "파일 다운로드"])
 extList = ['txt']
 
 with tab1:
@@ -75,6 +75,7 @@ with tab1:
             showWords(selected_file, questCol, answCol, dilimCol, timeSel)
 
 with tab2:
+    # 파일 업로드/내용확인
     with st.form("upload_Form"):
         st.subheader("파일 업로드")
         st.info("* 파일은 txt파일(utf-8로 저장)로 되어 있어야 하고 구분자(Tab등)로 열이 구분되어 있어야 한다.")
@@ -115,6 +116,7 @@ with tab2:
             except:
                 st.warning('파일을 메모장에서 "utf-8"로 다시 저장하세요')
 with tab3:
+    # 파일편집
     file_list = os.listdir()
     file_list_wanted = []
     for file in file_list:
@@ -132,7 +134,9 @@ with tab3:
             f.write(inputText)
             st.info('파일이 저장되었습니다.')
 with tab4:
+    # 단어 직접입력
     with st.form("inputText_Form"):
+        st.subheader("단어 직접입력")
         st.info("* 만들 텍스트 화일의 이름과 내용을(2칸 띄워서 나열하거나 복사한 것을 붙여넣기) 넣고 저장버튼을 누르세요.")
         fName = st.text_input('저장 할 파일 이름을 입력하세요(.txt는 자동입력)')
         inputText = st.text_area('저장 할 내용을 입력하세요')
@@ -141,7 +145,25 @@ with tab4:
             with open(fName + ".txt","w",encoding="utf-8") as f:
                 f.write(inputText)
                 st.info('파일이 저장되었습니다.')
-                
+    # 단어 찾기
+    with st.form("find_word"):
+        st.subheader("전체에서 단어 찾기")
+        searchWord = st.text_input('찾을 단어를 입력하세요')
+        submittedSearch = st.form_submit_button('찾기')
+        if searchWord and submittedSearch:
+            file_list = os.listdir()
+            file_list_wanted = []
+            for file in file_list:
+                root, extension = os.path.splitext(file)
+                if extension.replace('.','') in extList:
+                    if file != 'requirements.txt':
+                        with open(file,"r",encoding="utf-8") as f:
+                            count = 0
+                            for line in f.readlines():
+                                count += 1
+                                if searchWord in line:
+                                    st.success(f"[{file}] [{count}번라인] : {line}")
+   
 with tab5:
     # with st.form("delete_Form"):
     extList = ['txt']
@@ -176,6 +198,7 @@ with tab5:
 
 with tab6:
     #form에서는  download_button을 쓸 수 없어서 form 사용 안함
+    # 다운로드
     file_list = os.listdir()
     file_list_wanted = []
     for file in file_list:
