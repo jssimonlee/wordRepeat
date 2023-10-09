@@ -8,32 +8,46 @@ def showWords(data, questCol, answCol, dilimCol, timeSel):
     elif dilimCol == "빈칸1개": dilimCol = " "
     elif dilimCol == "빈칸2개": dilimCol = "  "
     elif dilimCol == "콤마": dilimCol = ","
-    with open(selected_file,'r', encoding='utf-8') as f:
-        voc = f.readlines()
+    try:
+        with open(selected_file,'r', encoding='utf-8') as f:
+            voc = f.readlines()
+    except:
+        st.warning("파일을 utf-8로 다시 저장해서 업로드 해주세요.")
     placeholder = st.empty()
-    while True:
-        ranNum = random.randint(0,len(voc)-1)
-        # 마지막 빈 공간이 선택되면 그냥 무시하도록
-        if voc[ranNum].strip() == "":
-            continue
-        with placeholder.container():
-            st.success(voc[ranNum].split(dilimCol)[questCol])
-            st.write(str(ranNum+1) + " / " + str(len(voc)))
-            time.sleep(timeSel)
-            placeholder1 = st.empty()
+    try:
+        while True:
+            ranNum = random.randint(0,len(voc)-1)
+            # 마지막 빈 공간이 선택되면 그냥 무시하도록
+            if voc[ranNum].strip() == "":
+                continue
             with placeholder.container():
-                disTxt = voc[ranNum].split(dilimCol)[questCol] + ' :\t' + voc[ranNum].split(dilimCol)[answCol]
-                # 질문열과 해답열을 제외하고 나머지는 그냥 답에 뒤에 같이 표시
-                if len(voc[ranNum].split(dilimCol)) > 2:
-                    colList = list(range(len(voc[ranNum].split(dilimCol))))
-                    colList.remove(questCol)
-                    colList.remove(answCol)
-                    for i in range(len(voc[ranNum].split(dilimCol))-2):
-                        disTxt = disTxt + "\t" + voc[ranNum].split(dilimCol)[colList[i]]  
-                        
-                st.success(disTxt)
+                st.success(voc[ranNum].split(dilimCol)[questCol])
+                st.write(str(ranNum+1) + " / " + str(len(voc)))
                 time.sleep(timeSel)
-tab1, tab2, tab3, tab4, tab5 = st.tabs(['반복학습', "파일 업로드", "단어 직접입력", "파일삭제", "파일 다운로드"])
+                placeholder1 = st.empty()
+                with placeholder.container():
+                    disTxt = voc[ranNum].split(dilimCol)[questCol] + ' :\t' + voc[ranNum].split(dilimCol)[answCol]
+                    # 질문열과 해답열을 제외하고 나머지는 그냥 답에 뒤에 같이 표시
+                    if len(voc[ranNum].split(dilimCol)) > 2:
+                        colList = list(range(len(voc[ranNum].split(dilimCol))))
+                        colList.remove(questCol)
+                        colList.remove(answCol)
+                        for i in range(len(voc[ranNum].split(dilimCol))-2):
+                            disTxt = disTxt + "\t" + voc[ranNum].split(dilimCol)[colList[i]]  
+                            
+                    st.success(disTxt)
+                    time.sleep(timeSel)
+    except:
+        try:
+            if "  " in voc[0].strip():
+                st.warning("열구분자를 빈칸2개로 설정하세요(또는 열선택을 확인하세요)")
+            elif "\t" in voc[0].strip():
+                st.warning("열구분자를 탭으로 설정하세요(또는 열선택을 확인하세요)")
+            else:
+                st.warning("설정 값을 확인하고 다시 실행하세요.")
+        except:
+            st.warning("파일이 정상적이지 않습니다.")
+tab1, tab2, tab3, tab4, tab5, tab6 = st.tabs(['반복학습', "파일 업로드/내용확인", "파일편집", "단어 직접입력", "파일삭제", "파일 다운로드"])
 extList = ['txt']
 
 with tab1:
@@ -57,20 +71,22 @@ with tab1:
         with col5:
             timeSel = st.selectbox("시간 간격",[1,2,3,4,5,6,8,10,20,30,60],2)
         submitted = st.form_submit_button("시작")
-        try:
-            if submitted:
-                showWords(selected_file, questCol, answCol, dilimCol, timeSel)
-        except:
-            st.warning("설정 값을 확인하고 다시 실행하세요.")
+        if submitted:
+            showWords(selected_file, questCol, answCol, dilimCol, timeSel)
 
 with tab2:
     with st.form("upload_Form"):
+        st.subheader("파일 업로드")
         st.info("* 파일은 txt파일(utf-8로 저장)로 되어 있어야 하고 구분자(Tab등)로 열이 구분되어 있어야 한다.")
         uploaded_file = st.file_uploader("업로드 파일을 선택하세요", type=extList)
         if uploaded_file is not None:
             with open(uploaded_file.name,"wb") as f:
                 f.write(uploaded_file.getbuffer())
-                st.info('파일저장 버튼을 눌러서 저장하세요.')
+        submitted = st.form_submit_button("파일저장")
+        if submitted:
+            st.info(f'{uploaded_file.name}이 업로드 되었습니다.')
+    with st.form("check_file"):
+        st.subheader("파일 간단 내용확인")
         file_list = os.listdir()
         file_list_wanted = []
         for file in file_list:
@@ -79,31 +95,54 @@ with tab2:
                 if file != 'requirements.txt':
                     file_list_wanted.append(file)
         selected_file = st.selectbox('확인하고 싶은 파일을 선택하세요.',file_list_wanted)
-        submitted = st.form_submit_button("파일저장/내용확인")
+        submitted = st.form_submit_button("내용확인")
         if selected_file and submitted:
             try:
                 with open(selected_file,'r', encoding='utf-8') as f:
                     firstline = f.readline().replace("  ","{2칸}").replace("\t","{tab}")
                     secondline = f.readline().strip().replace("  ","{2칸}").replace("\t","{tab}")
+                    kbyteSize = int(os.path.getsize(selected_file)/1024)
+                    kbyteSizeStr = str(kbyteSize) + " Kbytes"
+                    if kbyteSize < 10:
+                        kbyteSize = os.path.getsize(selected_file)
+                        kbyteSizeStr = str(kbyteSize) + " bytes"
                     dispTxt = f"""[1번째라인] {firstline}
 [2번째라인] {secondline}\n
-[총 라인수] {len(f.readlines())}"""
+[총 라인수] {len(f.readlines())}\n
+[파일사이즈] {kbyteSizeStr}"""
                     st.success(dispTxt)
                     # st.write(len(f.readlines()))
             except:
                 st.warning('파일을 메모장에서 "utf-8"로 다시 저장하세요')
 with tab3:
-     with st.form("inputText_Form"):
-        st.info("* 만들 텍스트 화일의 이름과 내용을(2칸 띄워서 나열하거나 복사한 것을 붙여넣기) 넣고 저장버튼을 누르세요.\n\n* 확장자 .txt는 자동 입력")
-        fName = st.text_input('저장 할 파일 이름을 입력하세요.')
+    file_list = os.listdir()
+    file_list_wanted = []
+    for file in file_list:
+        root, extension = os.path.splitext(file)
+        if extension.replace('.','') in extList:
+            if file != 'requirements.txt':
+                file_list_wanted.append(file)
+    selected_file = st.selectbox('편집하고 싶은 파일을 선택하세요.',file_list_wanted)
+    with open(selected_file,'r', encoding='utf-8') as f:
+        vocTxt = f.read()
+    inputText = st.text_area("파일내용",vocTxt,250)
+    submitted = st.button("저장")
+    if submitted and inputText:
+        with open(selected_file,"w",encoding="utf-8") as f:
+            f.write(inputText)
+            st.info('파일이 저장되었습니다.')
+with tab4:
+    with st.form("inputText_Form"):
+        st.info("* 만들 텍스트 화일의 이름과 내용을(2칸 띄워서 나열하거나 복사한 것을 붙여넣기) 넣고 저장버튼을 누르세요.")
+        fName = st.text_input('저장 할 파일 이름을 입력하세요(.txt는 자동입력)')
         inputText = st.text_area('저장 할 내용을 입력하세요')
         submitted3 = st.form_submit_button('저장')
         if fName and inputText and submitted3:
-            with open(fName + ".txt","w") as f:
+            with open(fName + ".txt","w",encoding="utf-8") as f:
                 f.write(inputText)
                 st.info('파일이 저장되었습니다.')
                 
-with tab4:
+with tab5:
     # with st.form("delete_Form"):
     extList = ['txt']
     file_list = os.listdir()
@@ -135,7 +174,7 @@ with tab4:
         #     st.warning(f'"{selected_file}" 파일이 삭제되었습니다.')
         #     st.info("사이트를 다시 로드하세요(재실행)")
 
-with tab5:
+with tab6:
     #form에서는  download_button을 쓸 수 없어서 form 사용 안함
     file_list = os.listdir()
     file_list_wanted = []
