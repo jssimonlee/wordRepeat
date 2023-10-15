@@ -1,732 +1,730 @@
-skirmish	"소규모 접전, 작은 충돌"
-irreparably	"돌이킬 수 없을 만큼, 회복할 수 없을 정도로"
+skirmish	소규모 접전, 작은 충돌
+irreparably	돌이킬 수 없을 만큼, 회복할 수 없을 정도로
 heyday	전성기
 nostalgia	향수
-inscrutable	"불가해한, 헤아리기 어려운"
-evanescent	"쉬이 사라지는, 덧없는, 무상한"
-lightning-in-a-bottle	"불가능한 일, 대단한 성취"
+inscrutable	불가해한, 헤아리기 어려운
+evanescent	쉬이 사라지는, 덧없는, 무상한
+lightning-in-a-bottle	불가능한 일, 대단한 성취
 vested in	부여된
-exert	"가하다, 있는 힘껏 노력하다"
-entice	"유도하다, 유인하다"
+exert	가하다, 있는 힘껏 노력하다
+entice	유도하다, 유인하다
 in place of	~을 대신해서
-result in something	"(결과적으로) ~을 낳다, ~을 야기하다, 그 결과 ~가 되다"
-dissertation	"(특히 대학 학위)논문, thesis"
-inherent	"내재하는, 고유한"
-wryly	"냉담하게, 비꼬는 투로"
-contrivance	"억지로 짜 맞춘 것, 부자연스러움, 장치, 재간"
-intellectual	"지식인, 지적인"
-under the guise of	"~을 가장하여, ~을 구실로"
-amity	"우호, 친선"
-even-tempered	"(성격이)침착한, 차분한"
-short-tempered	"성급한, 성 잘 내는, 성마른"
-impetuous	"성급한, 충동적인"
-myopic	"근시의, 근시안적인[?ma?|
-?:p?k?]"
-sovereignty	"통치권, 자주권, 자주 [|
-s?ːvr?nti]"
-despicable	"비열한, 야비한"
-horoscope	"점성술, 별점"
-enmity	"원한, 증오, 적대감"
-partake	"먹다, 마시다, 참석하다"
-genealogy	"가계도, 계보학, 족보학[ ?d?iːni?æl?d?i ]"
+result in something	(결과적으로) ~을 낳다, ~을 야기하다, 그 결과 ~가 되다
+dissertation	(특히 대학 학위)논문, thesis
+inherent	내재하는, 고유한
+wryly	냉담하게, 비꼬는 투로
+contrivance	억지로 짜 맞춘 것, 부자연스러움, 장치, 재간
+intellectual	지식인, 지적인
+under the guise of	~을 가장하여, ~을 구실로
+amity	우호, 친선
+even-tempered	(성격이)침착한, 차분한
+short-tempered	성급한, 성 잘 내는, 성마른
+impetuous	성급한, 충동적인
+myopic	근시의, 근시안적인
+sovereignty	통치권, 자주권, 자주
+despicable	비열한, 야비한
+horoscope	점성술, 별점
+enmity	원한, 증오, 적대감
+partake	먹다, 마시다, 참석하다
+genealogy	가계도, 계보학, 족보학
 credo	신조
-loafer	"빈둥거리며 시간을 보내는 사람, 가죽신"
-courteous	"공손한, 정중한"
-sow	"씨를 뿌리다, 심다"
-practitioner	"(전문직 종사자 특히) 의사, 변호사"
-rough-and-ready	"급조한, 임시변통, 세련되지 않고 거친"
-stray	"제 위치를 벗어나다, 옆길로 새다"
-sheer	"순전한, 순수한"
-prevalence	"널리 퍼짐, 유행"
-unscrupulous	"부도덕한, 사악한"
-tribalism	"부족 중심주의, 부족 제도"
-tramp	"부랑자, 떠돌이, 터벅터벅 걷다"
-transgression	"위반, 범죄 , 죄"
-honoree	"수상자, 수상작"
-atrocious	"형편없는, 끔찍한, 극악무도한"
+loafer	빈둥거리며 시간을 보내는 사람, 가죽신
+courteous	공손한, 정중한
+sow	씨를 뿌리다, 심다
+practitioner	(전문직 종사자 특히) 의사, 변호사
+rough-and-ready	급조한, 임시변통, 세련되지 않고 거친
+stray	제 위치를 벗어나다, 옆길로 새다
+sheer	순전한, 순수한
+prevalence	널리 퍼짐, 유행
+unscrupulous	부도덕한, 사악한
+tribalism	부족 중심주의, 부족 제도
+tramp	부랑자, 떠돌이, 터벅터벅 걷다
+transgression	위반, 범죄 , 죄
+honoree	수상자, 수상작
+atrocious	형편없는, 끔찍한, 극악무도한
 oblivious	의식하지 못하는
 attention hog	관종
 be a reflection on	~의 불명예가 되다
-equity	"공정, 공평, (회사의)자기 자본, 순수가치"
-replenish	"다시 채우다, 보충하다"
-overhaul	"점검, 정비, 점검하다"
-validation	"확인, 비준"
+equity	공정, 공평, (회사의)자기 자본, 순수가치
+replenish	다시 채우다, 보충하다
+overhaul	점검, 정비, 점검하다
+validation	확인, 비준
 debilitating	쇠약하게 하는
-scathing	"통렬한, 가차 없는"
+scathing	통렬한, 가차 없는
 no good deed goes unpunished	좋은 일을 해도 인정받지 못하고 오히려 벌을 받는 경우도 있다
-adage	"속담, 격언"
+adage	속담, 격언
 grapple with	~을 해결하려고 노력하다
-psychedelic	"환각제의, 환각을 일으키는"
-scanty	"몸을 가린 듯 만 듯한, 빈약한"
-scantily	"부족한, 모자라는"
-to the fullest	"최대한으로, 완전하게"
+psychedelic	환각제의, 환각을 일으키는
+scanty	몸을 가린 듯 만 듯한, 빈약한
+scantily	부족한, 모자라는
+to the fullest	최대한으로, 완전하게
 equate	동일시하다
 premarital	혼전의
-avert	"방지하다, 피하다, 눈을 돌리다"
-reminisce	"추억에 잠기다, 추억담을 나누다"
-prodigal	"방탕한, 낭비하는"
+avert	방지하다, 피하다, 눈을 돌리다
+reminisce	추억에 잠기다, 추억담을 나누다
+prodigal	방탕한, 낭비하는
 alma mater	모교
-edify	"고양시키다, 교화시키다"
-indefatigable	"포기할 줄 모르는, 지칠 줄 모르는"
-antagonism	"적의, 적대감"
-valiant	"용감한, 용맹한, 단호한"
-inadvertently	"무심코, 우연히, 부주의로"
-liberalism 	"진보주의, 자유주의"
-integrity	"진실성, 고결, 성실, 청렴"
-precaution	"예방책, 조심, 경계, 피임"
-indictment	"(제도·사회 등의) 폐단의 흔적, 기소, 고발장"
-subpar	"보통 이하의, 수준 이하의"
-affectionate	"다정한, 애정 어린"
-compatible	"호환이 되는, 양립될 수 있는, 사이좋게 지낼"
+edify	고양시키다, 교화시키다
+indefatigable	포기할 줄 모르는, 지칠 줄 모르는
+antagonism	적의, 적대감
+valiant	용감한, 용맹한, 단호한
+inadvertently	무심코, 우연히, 부주의로
+liberalism 	진보주의, 자유주의
+integrity	진실성, 고결, 성실, 청렴
+precaution	예방책, 조심, 경계, 피임
+indictment	(제도·사회 등의) 폐단의 흔적, 기소, 고발장
+subpar	보통 이하의, 수준 이하의
+affectionate	다정한, 애정 어린
+compatible	호환이 되는, 양립될 수 있는, 사이좋게 지낼
 teeter	불안정하게 서다
 deride	조롱하다
-adversary	"(언쟁·전투에서)상대방, 적수"
-ballot	"무기명 투표, 투표용지"
-scuffle	"실랑이, 실랑이를 벌이다"
+adversary	(언쟁·전투에서)상대방, 적수
+ballot	무기명 투표, 투표용지
+scuffle	실랑이, 실랑이를 벌이다
 dogmatic	독단적인
 melee	아수라장
-felon	"중죄인, 흉악범"
-in light of	"~에 비추어, ~을 고려하여"
-homestead	"(농장과 땅이 딸린) 주택, 농가"
+felon	중죄인, 흉악범
+in light of	~에 비추어, ~을 고려하여
+homestead	(농장과 땅이 딸린) 주택, 농가
 acreage	에이커(로 잰 면적)
-fend off	"받아넘기다, 막아내다, 피하다"
-overture	"(사교·사업·논의 등을 위한)접근, 서곡"
-affront	"모욕, 상처, 모욕하다, 상처를 주다"
-aghast	"경악한, 겁에 질린"
+fend off	받아넘기다, 막아내다, 피하다
+overture	(사교·사업·논의 등을 위한)접근, 서곡
+affront	모욕, 상처, 모욕하다, 상처를 주다
+aghast	경악한, 겁에 질린
 unpardonable	용서할 수 없는
-elude	"이해할 수가 없다, (교묘히)피하다"
-insolent	"버릇없는, 무례한"
-earnest	"성실한, 진심어린"
+elude	이해할 수가 없다, (교묘히)피하다
+insolent	버릇없는, 무례한
+earnest	성실한, 진심어린
 verbose	장황한
-quack	"돌팔이 의사, 가짜 의사"
+quack	돌팔이 의사, 가짜 의사
 sabbatical	안식 기간(특히 대학 교수들이 일상 업무를 벗어나 연구나 여행을 하는 기간)
 sectarian	종파의
-vanguard	"선봉, 선두"
+vanguard	선봉, 선두
 transcend	초월하다
 have a falling out	사이가 틀어지다
 simmering	당장에라도 폭발할 것 같은
-decree	"법령, 결정, 명하다"
+decree	법령, 결정, 명하다
 metaphorically	은유적으로
-estrange	"떼어 놓다, 사이를 멀어지게 하다"
-advent	"도래, 출현"
+estrange	떼어 놓다, 사이를 멀어지게 하다
+advent	도래, 출현
 prognostication	예언
-dauntless	"불굴의, 겁없는"
-derogatory	"경멸하는, 비판적인"
+dauntless	불굴의, 겁없는
+derogatory	경멸하는, 비판적인
 like-minded	생각이 비슷한
-distinguished	"유명한, 성공한, 기품 있는"
-overt	"명시적인, 공공연한"
+distinguished	유명한, 성공한, 기품 있는
+overt	명시적인, 공공연한
 laureate	(뛰어난 업적으로 훈장·상을 받은) 수상자
 self-esteem	자부심
 lumpectomy	(인체 특히 유방의) 종양 절제술
 prosthetic	보철의
 resent	분개하다
-take the brunt of	"~의 타격을 가장 많이 받다, 정면에서 공격당하다"
+take the brunt of	~의 타격을 가장 많이 받다, 정면에서 공격당하다
 fly off the handle	버럭 화를 내다
-short fuse	"성질이 급함, 화를 잘 냄, 급한 성질"
-bequeath	"물려주다, 남기다"
-bestow	"(존경)수여하다, 부여하다"
-immitigable	"완화하기 힘든, 달래기 힘든"
-down-and-out	"빈털터리, 노숙자, 빈털터리인"
-far-fetched	"황당한, 믿기지 않는, 허무맹랑한"
-hound	"사냥개, 뒤쫓다, 몰아세우다"
+short fuse	성질이 급함, 화를 잘 냄, 급한 성질
+bequeath	물려주다, 남기다
+bestow	(존경)수여하다, 부여하다
+immitigable	완화하기 힘든, 달래기 힘든
+down-and-out	빈털터리, 노숙자, 빈털터리인
+far-fetched	황당한, 믿기지 않는, 허무맹랑한
+hound	사냥개, 뒤쫓다, 몰아세우다
 nightmarish	악몽같은
-specter	"유령, 망령, 귀신"
-lukewarm	"미지근한, 미적지근한, 미온적인"
-irate	"성난, 격분한"
-bliss	"더없는 행복, 지복"
-referral	"(전문적인 도움을 받을 곳으로) 보내기, 소개"
-make do with	"견디다, 임시 변통하다, 때우다"
-dignity	"위엄, 품위, 존엄성"
-spineless	"줏대가 없는, 척추가 없는"
+specter	유령, 망령, 귀신
+lukewarm	미지근한, 미적지근한, 미온적인
+irate	성난, 격분한
+bliss	더없는 행복, 지복
+referral	(전문적인 도움을 받을 곳으로) 보내기, 소개
+make do with	견디다, 임시 변통하다, 때우다
+dignity	위엄, 품위, 존엄성
+spineless	줏대가 없는, 척추가 없는
 obsequious	아부하는
-overbearing	"거만한, 고압적인, 오만한"
-low profile	"주목을 거의 못 받는, 저자세"
+overbearing	거만한, 고압적인, 오만한
+low profile	주목을 거의 못 받는, 저자세
 subservient	복종하는
-imposing	"인상적인, 당당한"
-self-confident	"자신감 있는, 자신 있는"
-pusillanimously	"마음 약하게, 소심하게"
-stately	"위풍당당한, 위엄 있는, 우아한"
-indispensable	"없어서는 안 될, 필수적인"
-wholeheartedly	"진심으로, 전적으로"
-barrage	"일제 엄호 사격, (질문 등의) 세례 "
-incarcerate	"감금하다, 투옥하다"
-volatile	"변덕스러운, 불안한, 휘발성의"
+imposing	인상적인, 당당한
+self-confident	자신감 있는, 자신 있는
+pusillanimously	마음 약하게, 소심하게
+stately	위풍당당한, 위엄 있는, 우아한
+indispensable	없어서는 안 될, 필수적인
+wholeheartedly	진심으로, 전적으로
+barrage	일제 엄호 사격, (질문 등의) 세례 
+incarcerate	감금하다, 투옥하다
+volatile	변덕스러운, 불안한, 휘발성의
 biology	생물학
-masterful	"능수능란한, 거장다운"
-synthesis	"종합, 통합, 합성"
+masterful	능수능란한, 거장다운
+synthesis	종합, 통합, 합성
 anthropology	인류학
-ecology	"생태, 생태학"
+ecology	생태, 생태학
 linguistics	언어학
-epidemiology	"전염병학, 역학(疫學), 유행병학"
-erudite	"학식 있는, 박식한"
-vernacular	"(특정 지역·집단이 쓰는) 말, 토착어, 방언"
+epidemiology	전염병학, 역학(疫學), 유행병학
+erudite	학식 있는, 박식한
+vernacular	(특정 지역·집단이 쓰는) 말, 토착어, 방언
 synopsis	(글·희곡 등의) 개요
-subtlety	"미묘함, 절묘함, 교묘함"
-epochal	"신기원의, 획기적인"
-engrossing	"마음을 사로잡는, 마음을 빼앗는"
+subtlety	미묘함, 절묘함, 교묘함
+epochal	신기원의, 획기적인
+engrossing	마음을 사로잡는, 마음을 빼앗는
 head start	(남보다 일찍 시작해서) 유리함
 preface	서문(저자가 자신의 목적을 기술)
-treatise	논문 [triːt?s;?triːt?z]
+treatise	논문
 causation	(다른 사건의) 야기
-subjugate	"지배하에 두다, 예속시키다"
-incipient	"막 시작된, 시작의, 초기의"
-traction 	"견인, 끌기"
+subjugate	지배하에 두다, 예속시키다
+incipient	막 시작된, 시작의, 초기의
+traction 	견인, 끌기
 preliterate	문자 사용 이전의
 disproportionately	불균형적으로
-invoke	"(법·규칙 등을) 들먹이다, 적용하다, (예를)들다"
+invoke	(법·규칙 등을) 들먹이다, 적용하다, (예를)들다
 mercantilism	상업주의
-idiosyncratic	"특유한, 기이한, 색다른"
+idiosyncratic	특유한, 기이한, 색다른
 instructive	유익한
-tongue in cheek	"조롱조로(말하다), 불성실하게(말하다)"
-customarily	"습관적으로, 관례상, 상습적으로"
-livid	"몹시 화가 난, 격노한, 시퍼런"
- administer	"관리하다, 운영하다, 집행하다"
-mandate	"(정부나 조직의)권한, 통치기간, 명령하다"
-supersede	"대체하다, 대신하다"
+tongue in cheek	조롱조로(말하다), 불성실하게(말하다)
+customarily	습관적으로, 관례상, 상습적으로
+livid	몹시 화가 난, 격노한, 시퍼런
+administer	관리하다, 운영하다, 집행하다
+mandate	(정부나 조직의)권한, 통치기간, 명령하다
+supersede	대체하다, 대신하다
 disparity	(불공평한)차이
-decimate	"대량으로 죽이다, 심하게 훼손하다"
+decimate	대량으로 죽이다, 심하게 훼손하다
 hunter-gatherer	수렵채집인
-metallurgy	"금속공학, 야금학"
+metallurgy	금속공학, 야금학
 Paleolithic	구석기 시대의
 Neolithic	신석기 시대의
-disparate	"다른, 이질적인"
-impersonate	"가장하다, 흉내내다"
+disparate	다른, 이질적인
+impersonate	가장하다, 흉내내다
 ethicist	윤리학자
 sentient	지각이 있는
 unnerve	불안하게 만들다
-solemn	"침통한, 근엄한, 엄숙한"
+solemn	침통한, 근엄한, 엄숙한
 render	(어떤 상태가 되게) 만들다
 portrayal	(그림·연극·책 등에서의) 묘사
 delve into	~을 철저하게 조사하다
-sphere	"(활동·영향·관심) 영역, ~권, 구"
-recurrent	"되풀이되는, 반복되는, 재발되는"
-reconciliation	"화해, 조화"
-epidemic	"유행병, 유행성"
-indigenous	"(어떤 지역) 원산의, 토착의"
-implicit	"암시된, 내포된"
-physician	"의사, 내과의사"
-prominence	"중요성, 명성, 유명함"
-ephemeral	"수명이 짧은, 단명하는"
-statehood	"국가의 지위, (미국·오스트레일리아 등에서) 주의 지위"
-vestige	"자취, 흔적"
-repudiate	"거부하다, 물리치다, 부인하다"
-compelling	"주목하지 않을 수 없는, 눈을 뗄 수 없는, 강렬한"
-hypothesis	"가설, 추정"
+sphere	(활동·영향·관심) 영역, ~권, 구
+recurrent	되풀이되는, 반복되는, 재발되는
+reconciliation	화해, 조화
+epidemic	유행병, 유행성
+indigenous	(어떤 지역) 원산의, 토착의
+implicit	암시된, 내포된
+physician	의사, 내과의사
+prominence	중요성, 명성, 유명함
+ephemeral	수명이 짧은, 단명하는
+statehood	국가의 지위, (미국·오스트레일리아 등에서) 주의 지위
+vestige	자취, 흔적
+repudiate	거부하다, 물리치다, 부인하다
+compelling	주목하지 않을 수 없는, 눈을 뗄 수 없는, 강렬한
+hypothesis	가설, 추정
 postulate	(이론 등의 근거로 삼기 위해) 상정하다
-intact	"온전한, 전혀 다치지 않은"
-mortality	"언젠가는 죽어야 함, 사망자, 사망률, 사망"
-stunt	"성장을 방해하다, 곡예"
+intact	온전한, 전혀 다치지 않은
+mortality	언젠가는 죽어야 함, 사망자, 사망률, 사망
+stunt	성장을 방해하다, 곡예
 supposed 	소위 ~라는
-backwater	"(강의 잔잔한) 후미, 벽지"
+backwater	(강의 잔잔한) 후미, 벽지
 Tropic of Cancer	북회귀선
-bureaucracy	"관료, 관료정치, 요식체계"
+bureaucracy	관료, 관료정치, 요식체계
 intractable	아주 다루기 힘든
-ferocious	"흉포한, 맹렬한, 격렬한"
+ferocious	흉포한, 맹렬한, 격렬한
 pessimist	비관주의자
 monopolize	독점하다
 lay claim to	~에 대한 권리를 주장하다
-acclaim	"칭송하다, 찬사"
-derive 	"끌어내다, 얻다"
+acclaim	칭송하다, 찬사
+derive 	끌어내다, 얻다
 adamantly	단호하게
-pacifism	"평화주의, 반전주의"
+pacifism	평화주의, 반전주의
 deplorable	개탄스러운
-probation	"보호 관찰, 수습 기간"
+probation	보호 관찰, 수습 기간
 to date	지금까지
-disregard	"무시하다, 무시, 소홀히 하다"
+disregard	무시하다, 무시, 소홀히 하다
 forgo	(하고·갖고 싶은 것을) 포기하다
-spectacle	"구경거리, 장관"
-concise	"간결한, 축약된"
+spectacle	구경거리, 장관
+concise	간결한, 축약된
 sophistry	궤변
-clandestinely	"비밀리에, 남몰래"
-keen	"날카로운, 강한, 예민한, 열심인"
-reconcile	"조화시키다, 화해시키다, 받아들이다"
+clandestinely	비밀리에, 남몰래
+keen	날카로운, 강한, 예민한, 열심인
+reconcile	조화시키다, 화해시키다, 받아들이다
 domestication	가축화
-confer	"상의하다, 수여하다, 부여하다"
-incorporate	"포함하다, 설립하다"
-fare	"가다, 여행하다, 지내다, 일이 되어가다"
-mold	"(=mould) 만들다, 주조하다, 강한 영향을 주다, 거푸집"
-lopsided	"한쪽이 처진, 한쪽으로 치우친"
-inexorable	"멈출 수 없는, 변경할 수 없는, 거침없는"
-innate	"타고난, 선천적인"
-inborn	"타고난, 선천적인"
-rebuttal	"반박, 논박"
+confer	상의하다, 수여하다, 부여하다
+incorporate	포함하다, 설립하다
+fare	가다, 여행하다, 지내다, 일이 되어가다
+mold	(=mould) 만들다, 주조하다, 강한 영향을 주다, 거푸집
+lopsided	한쪽이 처진, 한쪽으로 치우친
+inexorable	멈출 수 없는, 변경할 수 없는, 거침없는
+innate	타고난, 선천적인
+inborn	타고난, 선천적인
+rebuttal	반박, 논박
 underclass	최하층 계급
 biogeography	생물 지리학
-shelve	"보류하다, 선반에 얹다"
+shelve	보류하다, 선반에 얹다
 molecular	분자의
-outset	"착수, 시초, 발단"
-fanatical	"광신적인, 광적인, 열광적인"
-exquisite	"매우 아름다운, 정교한, 강렬한"
-delicate	"연약한, 허약한, 섬세한"
-delineate	"(상세하게) 기술하다, 그리다, 설명하다"
-fervent	"열렬한, 강렬한"
-succinct	"간단명료한, 간결한"
-colic	"배앓이, 산통"
-backslide	"(원래의 악습으로) 되돌아가다, 타락하다"
+outset	착수, 시초, 발단
+fanatical	광신적인, 광적인, 열광적인
+exquisite	매우 아름다운, 정교한, 강렬한
+delicate	연약한, 허약한, 섬세한
+delineate	(상세하게) 기술하다, 그리다, 설명하다
+fervent	열렬한, 강렬한
+succinct	간단명료한, 간결한
+colic	배앓이, 산통
+backslide	(원래의 악습으로) 되돌아가다, 타락하다
 heterosexual	이성애자
 in jest	농담으로
-oppressive	"억압하는, 답답한"
+oppressive	억압하는, 답답한
 nip in the bud	미연에 방지하다
-unforeseen	"예측하지 못한, 뜻밖의"
-lump	"A와 B를 함께 묶다, 덩어리"
-constellation	"별자리, 성좌, 무리, 기라성"
-conversely	"정반대로, 역으로"
-mores	"풍습, 관습"
+unforeseen	예측하지 못한, 뜻밖의
+lump	A와 B를 함께 묶다, 덩어리
+constellation	별자리, 성좌, 무리, 기라성
+conversely	정반대로, 역으로
+mores	풍습, 관습
 by contrast	대조적으로
-belatedly	"늦게, 뒤늦게, 시대에 뒤지게"
-long-haul	"장거리의, 후유증이 오래가는"
-in question	"문제의, 의심스러운"
-de novo	"처음부터, 새로, 다시"
-egalitarian	"평등주의의, 평등주의자의, 평등주의자"
+belatedly	늦게, 뒤늦게, 시대에 뒤지게
+long-haul	장거리의, 후유증이 오래가는
+in question	문제의, 의심스러운
+de novo	처음부터, 새로, 다시
+egalitarian	평등주의의, 평등주의자의, 평등주의자
 indigenously	토착하여
-furnish	"(가구를)비치하다, 제공하다"
-culmination	"정점, 최고조"
-eccentric	"괴짜인, 별난, 기이한"
+furnish	(가구를)비치하다, 제공하다
+culmination	정점, 최고조
+eccentric	괴짜인, 별난, 기이한
 misanthrope	사람을 싫어하는 사람
-seditionist	"폭동 선동, 난동 교사"
+seditionist	폭동 선동, 난동 교사
 unprovoked	정당한 이유 없는
-adverse	"부정적인, 불리한"
-innuendo	"빗대어 하는 말, 빈정거림"
+adverse	부정적인, 불리한
+innuendo	빗대어 하는 말, 빈정거림
 insecurity	불안감
 Pleistocene	홍적세(洪積世)
-gloss over	"얼버무리고 넘어가다, 둘러대다"
-confinement	"갇힘, 얽매임, 분만"
-crudest	"대충의, 대강의"
-flake	"조각, (얇게 조각조각) 벗겨지다, 포를 뜨다"
+gloss over	얼버무리고 넘어가다, 둘러대다
+confinement	갇힘, 얽매임, 분만
+crudest	대충의, 대강의
+flake	조각, (얇게 조각조각) 벗겨지다, 포를 뜨다
 zoology	동물학
-recur	"되풀이 되다, 다시 일어나다"
-purport	"(사실이 아닐 수도 있는 것을) 주장하다, 칭하다"
-reputation	"평판, 명성"
+recur	되풀이 되다, 다시 일어나다
+purport	(사실이 아닐 수도 있는 것을) 주장하다, 칭하다
+reputation	평판, 명성
 thought police	사상경찰(사람들의 사상을 통제하는 경찰)
 dub	별명을 붙이다
-proliferate	"급증하다, 확산되다"
-summarily	"약식으로, 즉결로"
-naivete	"소박, 단순"
-prevail	"만연하다, 승리하다"
-divulge	"알려주다, 누설하다"
-retort	"쏘아붙이다, 응수하다"
-abet	"사주하다, 교사하다"
+proliferate	급증하다, 확산되다
+summarily	약식으로, 즉결로
+naivete	소박, 단순
+prevail	만연하다, 승리하다
+divulge	알려주다, 누설하다
+retort	쏘아붙이다, 응수하다
+abet	사주하다, 교사하다
 falcon	매
-contemporary	"동시대의, 동년배, 현대의"
+contemporary	동시대의, 동년배, 현대의
 awl	송곳
-rein	"고삐, 고삐를 매다, 고삐로 조정하다"
+rein	고삐, 고삐를 매다, 고삐로 조정하다
 roughshod over	~를 거칠게 다루다
 in tow	(사람을) 뒤에 데리고
-que sera sera	"케세라세라, 될 대로 되라, 어떻게든 되겠지"
+que sera sera	케세라세라, 될 대로 되라, 어떻게든 되겠지
 pragmatism	실용주의
-prodigiously	"유별나게, 막대하게, 엄청나게"
+prodigiously	유별나게, 막대하게, 엄청나게
 lemur	(마다가스카르산) 여우원숭이
-protohuman	"원인, 원시인"
+protohuman	원인, 원시인
 succumb	굴복하다
-profusion	"다량, 풍성함"
-trivial	"사소한, 하찮은"
-feat	"위업, (뛰어난) 솜씨"
+profusion	다량, 풍성함
+trivial	사소한, 하찮은
+feat	위업, (뛰어난) 솜씨
 forage	먹이를 찾다
-magnanimous	"도량이 넓은, 너그러운"
+magnanimous	도량이 넓은, 너그러운
 hotheaded	성급한
-gaudy	"화려한, 야한, 천박한"
+gaudy	화려한, 야한, 천박한
 avarice	탐욕
-invaluable	"매우 유용한, 귀중한"
-flashy	"호화로운, 현란한"
+invaluable	매우 유용한, 귀중한
+flashy	호화로운, 현란한
 know the drill	어떻게 하는지 알다
 christen	세례를 주다
 out of whack	제대로 안 돌아가는
-bad blood	"증오, 불화, 악감정"
-snub	"모욕하다, 무시하다"
-mutineer	"반란자, 폭도"
+bad blood	증오, 불화, 악감정
+snub	모욕하다, 무시하다
+mutineer	반란자, 폭도
 unquestioned	의심할 수 없는
-paddle	"노, 노를 젓다"
+paddle	노, 노를 젓다
 sloth	나무늘보
 paleontologist	고생물학자
-hearth	"난로, 가정(생활)"
-sublimate	"바람직한 방향으로 돌리다, 승화시키다"
+hearth	난로, 가정(생활)
+sublimate	바람직한 방향으로 돌리다, 승화시키다
 quite a few	상당수
-unequivocally 	"모호하지 않게, 명백히"
-watercraft	"수상 기술, 배, 선박"
-hitherto	"지금까지, 그때까지"
-en masse	"(보통 많은 수가) 집단으로, 일제히"
-indiscriminately	"무차별적으로, 마구잡이로"
-befall	"(안 좋은 일이)닥치다"
-elevation	"승진, 승격, 고도"
-seafaring	"항해의, 선원의, 해양 관련업의"
+unequivocally 	모호하지 않게, 명백히
+watercraft	수상 기술, 배, 선박
+hitherto	지금까지, 그때까지
+en masse	(보통 많은 수가) 집단으로, 일제히
+indiscriminately	무차별적으로, 마구잡이로
+befall	(안 좋은 일이)닥치다
+elevation	승진, 승격, 고도
+seafaring	항해의, 선원의, 해양 관련업의
 revert	되돌아가다
 castrate	거세하다
-prodigious	"엄청난, 굉장한"
-reprisal	"보복, 앙갚음"
-supremacy	"패권, 우위, 지상주의"
+prodigious	엄청난, 굉장한
+reprisal	보복, 앙갚음
+supremacy	패권, 우위, 지상주의
 empty nester	(장성한 자녀가 집을 떠난 뒤) 빈 둥지에 남게 된 부모
 hives	두두러기
-assertive	"적극적인, 확신에 찬"
-hereditary	"유전적인, 세습되는"
-gamut	"전체, 전반"
-stratify	"층을 이루게 하다, 계층화하다"
+assertive	적극적인, 확신에 찬
+hereditary	유전적인, 세습되는
+gamut	전체, 전반
+stratify	층을 이루게 하다, 계층화하다
 subsistence	최저생활
 slash-and-burn	화전식의
 self-sufficient	자급자족하는
-commoner	"평민, 서민"
-temperate	"온화한, 차분한"
-marginal	"미미한, 중요하지 않은, 주변부의"
+commoner	평민, 서민
+temperate	온화한, 차분한
+marginal	미미한, 중요하지 않은, 주변부의
 atoll	환상 산호도(가운데 해수 호수가 있는 고리 모양의 산호섬)
 reef	암초
 lagoon	석호
-terrain	"지형, 지역"
-rolling	"완만하게 경사진, 구릉으로 된"
-archipelago	"다도해, 군도"
-facet	"측면, 양상"
+terrain	지형, 지역
+rolling	완만하게 경사진, 구릉으로 된
+archipelago	다도해, 군도
+facet	측면, 양상
 valet	종자(남자 상전의 개인 수발을 드는 하인)
 entourage	(주요 인물의) 수행단
 parable	우화
-resentment	"분함, 억울함, 분개"
-regrettably	"유감스럽게, 애석하게"
-dupe	"속이다, 사기를 치다"
-retain	"유지하다, 보유하다"
-fallow	"놀리는, 휴경"
-elaborate	"정교하게 만들어 내다, 정교한"
+resentment	분함, 억울함, 분개
+regrettably	유감스럽게, 애석하게
+dupe	속이다, 사기를 치다
+retain	유지하다, 보유하다
+fallow	놀리는, 휴경
+elaborate	정교하게 만들어 내다, 정교한
 aquaculture	수경재배
 arable	곡식을 경작하는
 preclude	못하게 하다
-zenith	"천정, 정점, 절정 "
-saline	"소금이 든, 염분이 함유된"
-encroach	"침해하다, 잠식하다"
-prostrate	"엎드리다, 엎드린"
-approximate	"거의 정확한, 근사치인, 비슷하다"
-requisition	"요청, 징발하다"
-jockey	"기수, 다투다"
+zenith	천정, 정점, 절정 
+saline	소금이 든, 염분이 함유된
+encroach	침해하다, 잠식하다
+prostrate	엎드리다, 엎드린
+approximate	거의 정확한, 근사치인, 비슷하다
+requisition	요청, 징발하다
+jockey	기수, 다투다
 adze	자귀(나무 다듬는 도구)
 no mean feat	상당한 공적
 coalesce	(더 큰 덩어리로) 합치다
-postdate	"보다 뒤에 발생하다, (수표에) 날짜를 늦춰 적다"
-repertoire	"(한 사람이 할 수 있는) 모든 것, 목록, 연주곡목"
-commandant	"사령관, (군사학교의) 교장"
-flame	"불꽃, 격정"
+postdate	보다 뒤에 발생하다, (수표에) 날짜를 늦춰 적다
+repertoire	(한 사람이 할 수 있는) 모든 것, 목록, 연주곡목
+commandant	사령관, (군사학교의) 교장
+flame	불꽃, 격정
 strike a nerve	신경을 건드리다
-closeted	"은밀히 행하는, 비밀의"
-elicit	"끌어내다, 유도해 내다"
+closeted	은밀히 행하는, 비밀의
+elicit	끌어내다, 유도해 내다
 on your person	몸에 지니고
-strait	"해엽, 궁핍"
-infer	"추론하다, 암시하다, 뜻하다"
-sole	"유일한, 단 하나의, 혼자의"
-Norse	"고대 스칸디나비아 사람, (고대) 노르웨이 사람"
+strait	해엽, 궁핍
+infer	추론하다, 암시하다, 뜻하다
+sole	유일한, 단 하나의, 혼자의
+Norse	고대 스칸디나비아 사람, (고대) 노르웨이 사람
 conquistador	정복자(16세기에 멕시코나 페루를 정복한 스페인 사람)
 ragtag	오합지졸이 모인 듯한
-set eyes on	"~를 처음보다, (남과) 만나다"
+set eyes on	~를 처음보다, (남과) 만나다
 renege	(약속·합의 등을) 어기다
-infinitely	"대단히, 엄청, 무한히"
+infinitely	대단히, 엄청, 무한히
 unmolested	방해 받지 않는
-formidable	"가공할, 어마어마한"
-excerpt	"발췌, 인용"
+formidable	가공할, 어마어마한
+excerpt	발췌, 인용
 relive	(특히 상상 속에서) 다시 체험하다
-weave	"(옷감 등을) 짜다, 엮다, (이야기 등을) 엮다"
+weave	(옷감 등을) 짜다, 엮다, (이야기 등을) 엮다
 fortitude	불굴의 용기
 perilous	아주 위험한
 Spaniard	스페인 사람
 invincible	천하무적의
 infidel	신앙심 없는 자
-heathen	"비종교인, 이교도"
+heathen	비종교인, 이교도
 clime	기후가 ~한 국가
-prolixity	"장황함, 지루함"
-Governor 	"(식민지의) 총독, (미국에서) 주지사"
+prolixity	장황함, 지루함
+Governor 	(식민지의) 총독, (미국에서) 주지사
 soever	설혹 ~이라도
-homage	"경의, 존경의 표시"
+homage	경의, 존경의 표시
 desecrate	(신성한 것을) 훼손하다
-trigger-happy	"걸핏하면 총질을 하려 드는, 폭력적인"
-able-bodied	"신체가 튼튼한, 몸이 건강한"
+trigger-happy	걸핏하면 총질을 하려 드는, 폭력적인
+able-bodied	신체가 튼튼한, 몸이 건강한
 pan out	(특정 방식으로) 전개되다
-cavalry	"(과거의) 기사, (현대의) 기갑 부대"
-artillery	"대포, 포병대"
-squadron	"비행 중대, 소함대"
-livery	"상징 색, 제복"
-litter	"쓰레기, 깔개, 짚"
-beseech	"간청하다, 애원하다"
+cavalry	(과거의) 기사, (현대의) 기갑 부대
+artillery	대포, 포병대
+squadron	비행 중대, 소함대
+livery	상징 색, 제복
+litter	쓰레기, 깔개, 짚
+beseech	간청하다, 애원하다
 servile	굽실거리는
-absolve	"무죄임을 선언하다, (죄를) 용서하다"
-sally	"기습 공격, 재치 있는 농담"
-dominion	"지배, 지배권, 영토, 영지"
+absolve	무죄임을 선언하다, (죄를) 용서하다
+sally	기습 공격, 재치 있는 농담
+dominion	지배, 지배권, 영토, 영지
 vassal	봉신(봉건 군주에게서 봉토를 받은 신하)
 bestial	짐승 같은
-antecedent	"선행 사건, 선조, 선행딘"
+antecedent	선행 사건, 선조, 선행딘
 mace	전곤(戰棍: 끝에 못 같은 게 박힌 곤봉 모양의 옛날 무기)
 regrettable	유감스러운
-recount	"이야기하다, 말하다"
-novelty	"새로움, 참신함, 신기함"
-armament	"군비, (대형) 무기"
+recount	이야기하다, 말하다
+novelty	새로움, 참신함, 신기함
+armament	군비, (대형) 무기
 harquebus	화승총
 precipitate	(특히 나쁜 일을) 촉발시키다
 aptly	적절하게
-cleanse	"세척하다, 죄책감을 씻어 주다"
-vice	"(섹스·마약이 관련된) 범죄, 악, 비행"
-clandestine	"비밀리에 하는, 은밀한"
+cleanse	세척하다, 죄책감을 씻어 주다
+vice	(섹스·마약이 관련된) 범죄, 악, 비행
+clandestine	비밀리에 하는, 은밀한
 antagonistic	적대적인
-assume	"추정하다, (권력·책임을) 맡다, (특질·양상을) 띠다"
+assume	추정하다, (권력·책임을) 맡다, (특질·양상을) 띠다
 irrevocable	변경할 수 없는
 irretrievably	되돌릴 수 없게
-adversely	"불리하게, 반대로"
+adversely	불리하게, 반대로
 comparatively	비교적
 to the extent	어느 정도로
-provocation	"도발, 자극"
+provocation	도발, 자극
 populous	인구가 많은
-bent on	"열중하고 있는, 결심하고 있는"
-grossly	"지독히, 극도로"
-heir	"상속인, (왕위·작위의) 계승자"
+bent on	열중하고 있는, 결심하고 있는
+grossly	지독히, 극도로
+heir	상속인, (왕위·작위의) 계승자
 literacy	글을 읽고 쓸 줄 아는 능력
-gulf	"(사고·생활 방식 등의 큰) 격차, 만"
-proximate	"가장 가까운, 근접한"
-shorthand	"약칭, 속기"
-nepotism	"친족 등용, 족벌주의, 정실 인사"
-prerogative	"특권, 특혜"
-anyone's guess	"예측할 수 없는, 불확실한 것"
+gulf	(사고·생활 방식 등의 큰) 격차, 만
+proximate	가장 가까운, 근접한
+shorthand	약칭, 속기
+nepotism	친족 등용, 족벌주의, 정실 인사
+prerogative	특권, 특혜
+anyone's guess	예측할 수 없는, 불확실한 것
 cardiovascular	심혈관의
 congregant	(집회 등에) 모이는 사람
-uncalled-for	"부적절한, 부당한"
+uncalled-for	부적절한, 부당한
 saloon	(과거 미국 서부·캐나다에서) 술집
-farmhand	"농장 노동자, 농장 일꾼"
-coarse 	"거친, 굵은"
-disintegrate	"해체되다, 분해되다"
+farmhand	농장 노동자, 농장 일꾼
+coarse 	거친, 굵은
+disintegrate	해체되다, 분해되다
 prerequisite	전제 조건
-dispossess	"(재산을) 빼앗다, 몰수하다"
+dispossess	(재산을) 빼앗다, 몰수하다
 bark	나무껍질
 rhinoceros	코뿔소
 reindeer	순록
-derision	"조롱, 조소"
-contempt	"경멸, 멸시"
+derision	조롱, 조소
+contempt	경멸, 멸시
 elope	눈이 맞아 함께 달아나다
 chanson	샹송
 ode	(특정한 사람·사물·사건에 부치는)시
-paltry	"보잘것없는, 쥐꼬리만한"
+paltry	보잘것없는, 쥐꼬리만한
 gorge	협곡
 irreducible	더 이상 줄일 수 없는
 bonkers	완전히 제정신이 아닌
-pushover	"식은 죽 먹기, 만만한 사람"
+pushover	식은 죽 먹기, 만만한 사람
 mammal	포유동물
 till	(논밭을) 갈다
-sod	"떼, 뗏장"
+sod	떼, 뗏장
 upland	고지대
-sedentary	"주로 앉아서 하는, 정주(定住)하는"
+sedentary	주로 앉아서 하는, 정주(定住)하는
 lactational amenorrhea	수유 무월경
 chiefdom	chief의 지위
-nascent	"초기의, 발생기의"
-flax	"아마, 아마섬유"
-notably	"특히, 현저히, 뚜렷이"
-hemp	"삼, 대마"
+nascent	초기의, 발생기의
+flax	아마, 아마섬유
+notably	특히, 현저히, 뚜렷이
+hemp	삼, 대마
 gourd	(식물) 박
-yoke	"멍에, 멍에를 씌우다"
+yoke	멍에, 멍에를 씌우다
 stirrup	(말 안장 양쪽에 달린) 등자
-supplant	"(특히 낡거나 구식이 된 것을) 대신하다, 대체하다"
+supplant	(특히 낡거나 구식이 된 것을) 대신하다, 대체하다
 pampas	팜파스(남미의 대초원 지대)
 reciprocal	상호간의
-reinstate	"복귀시키다, 회복시키다"
+reinstate	복귀시키다, 회복시키다
 on the mend	회복중인
-STI	"sexually transmitted infection, 성병"
+STI	sexually transmitted infection, 성병
 cuss	욕하다
 subequatorial	아(亞)적도대(특유)의
-ecological	"생태계의, 생태학의"
+ecological	생태계의, 생태학의
 breadbasket	곡창 지대
 cataclysmic	격변하는
-unequivocal	"명백한, 분명한"
+unequivocal	명백한, 분명한
 morphologically	형태(학)상으로
-putative	"추정되는, 추정상의"
+putative	추정되는, 추정상의
 morphological	형태학의
 chromosomal	염색체의
-diverge	"갈라지다, 분기하다"
-retribution	"(강력한) 응징, 징벌"
+diverge	갈라지다, 분기하다
+retribution	(강력한) 응징, 징벌
 tormentor	괴롭히는 사람
 unacknowledged	(마땅히 받아야 할) 감사(칭찬)를 받지 못한
-judicial	"사법의, 재판의"
-prompt	"촉발하다, 유도하다, 즉각적인"
-bleak	"암울한, 절망적인"
-grim	"엄숙한, 암울한, 음침한"
-settle a score	"원한을 갚다, 보복하다"
-rancor	"(깊은) 원한, 유감, 적의"
-repercussion	"(어떤 사건이 초래한, 보통 좋지 못한, 간접적인) 영향"
-remission	"(병의) 차도, 감형"
-chime in	"맞장구치다, 찬성하다"
-definite	"확실한, 확고한, 분명한"
-skeletal	"뼈대의, 골격의, 해골의"
-shoal	"모래톱, (물고기)떼"
-rehash	"되풀이하다, 재탕하다"
-quagmire	"수렁, 진창"
-admonishment	"admonition, 책망, 경고"
-debase	"(가치·품위를) 저하시키다, 떨어뜨리다"
-pejorative	"경멸적인, 비난투의"
-drawback	"결점, 문제점"
+judicial	사법의, 재판의
+prompt	촉발하다, 유도하다, 즉각적인
+bleak	암울한, 절망적인
+grim	엄숙한, 암울한, 음침한
+settle a score	원한을 갚다, 보복하다
+rancor	(깊은) 원한, 유감, 적의
+repercussion	(어떤 사건이 초래한, 보통 좋지 못한, 간접적인) 영향
+remission	(병의) 차도, 감형
+chime in	맞장구치다, 찬성하다
+definite	확실한, 확고한, 분명한
+skeletal	뼈대의, 골격의, 해골의
+shoal	모래톱, (물고기)떼
+rehash	되풀이하다, 재탕하다
+quagmire	수렁, 진창
+admonishment	admonition, 책망, 경고
+debase	(가치·품위를) 저하시키다, 떨어뜨리다
+pejorative	경멸적인, 비난투의
+drawback	결점, 문제점
 peasant	소작농
-dispense	"나누어 주다, 내놓다"
+dispense	나누어 주다, 내놓다
 inordinately	과도하게
 pasturage	목초지
-dichotomy	"양분(兩分), 이분(二分)"
-foster	"조성하다, 발전시키다"
+dichotomy	양분(兩分), 이분(二分)
+foster	조성하다, 발전시키다
 stepwise	계단식의
 prophecy	예언
 annex	합병하다
-relinquish	"포기하다, 내주다"
-retaliation	"보복, 앙갚음"
-bombardment	"포격, 폭격, 충격"
-appease	"달래다, 요구를 들어주다"
+relinquish	포기하다, 내주다
+retaliation	보복, 앙갚음
+bombardment	포격, 폭격, 충격
+appease	달래다, 요구를 들어주다
 complacently	만족스로운듯이
 be liable to do	~할 것 같다
-heavy-hearted	"마음이 무거운, 침울한, 비탄에 잠긴"
-alter	"변하다, 달라지다, 바꾸다, 고치다"
-demagoguery	"민중 선동, 악선전"
-take?your?cue?from?somebody	~을 보고 힌트를 얻다
+heavy-hearted	마음이 무거운, 침울한, 비탄에 잠긴
+alter	변하다, 달라지다, 바꾸다, 고치다
+demagoguery	민중 선동, 악선전
+take your cue from somebody	~을 보고 힌트를 얻다
 abase	저자세가 되다
 kowtow	굽실거리다
-cave in	"함몰하다 , (口語)항복하다"
-concerted	"합심한, 결연한"
-norm	"표준, 규범, 기준"
-indiscrete	"(따로따로) 나뉘어져 있지 않은, 밀착한, 연속적인"
+cave in	함몰하다 , (口語)항복하다
+concerted	합심한, 결연한
+norm	표준, 규범, 기준
+indiscrete	(따로따로) 나뉘어져 있지 않은, 밀착한, 연속적인
 unbeknownst to	~가 모르는 사이에
 cerebral palsy	뇌성 마비
-piecemeal	"조금씩 하는, 단편적인"
+piecemeal	조금씩 하는, 단편적인
 foraging	수렵 채집
 larder	(특히 옛날 주택의) 식품 저장실
-bag	"동물을 잡다, 동물을 죽이다"
-trinity	"삼위 일체, 3인조"
+bag	동물을 잡다, 동물을 죽이다
+trinity	삼위 일체, 3인조
 porpoise	알락돌고래
-Lucifer	"악마, 사탄"
-impertinent	"무례한, 버릇없는"
+Lucifer	악마, 사탄
+impertinent	무례한, 버릇없는
 incapacitate	정상적인 생활을 하지 못하게 만들다
 thwart	좌절시키다
 squabble	옥신각신하다
-trump	"으뜸패, 으뜸패를 내다, 이기다"
-collegially	"합의제로 , 대학생용으로"
+trump	으뜸패, 으뜸패를 내다, 이기다
+collegially	합의제로 , 대학생용으로
 wayward	다루기 힘든
-tutelage	"지도, 교육, 보호"
+tutelage	지도, 교육, 보호
 egregious	지독한
 nitwit	멍청이
-dalliance	"시간 낭비, (성적으로) 놀아남"
-side piece	"(보통 기혼 남자의) 정부, mistress"
+dalliance	시간 낭비, (성적으로) 놀아남
+side piece	(보통 기혼 남자의) 정부, mistress
 cement	A와 B를 접합시키다
-slab	"평판, 판, (두껍고 반듯한) 조각"
+slab	평판, 판, (두껍고 반듯한) 조각
 impel	~해야만 하게 하다
-affinity	"친밀감, 관련성"
+affinity	친밀감, 관련성
 tarn	(산속의 작은) 호수
 shroud	수의(壽衣)
 disparage	폄하하다
-anachronistic	"시대착오의, 시대에 뒤진"
-vindictive	"앙심을 품은, 보복을 하려는"
+anachronistic	시대착오의, 시대에 뒤진
+vindictive	앙심을 품은, 보복을 하려는
 sojourn	체류
 downfall	몰락
-harangue	"장광설을 늘어놓다, 장광설"
-shrew	"성질 더러운 여자, 뾰족뒤쥐"
-proviso	"단서, 조건"
+harangue	장광설을 늘어놓다, 장광설
+shrew	성질 더러운 여자, 뾰족뒤쥐
+proviso	단서, 조건
 disingenuous	솔직하지 못한
-Incidentally	"그런데, 그건 그렇고, 부수적으로, 우연히"
-jaded	"물린, 싫증난"
+Incidentally	그런데, 그건 그렇고, 부수적으로, 우연히
+jaded	물린, 싫증난
 progeny	자손
 agronomist	농학자
-defecate	"배변하다, 대변을 보다"
-germinate	"싹트다, 시작되다"
+defecate	배변하다, 대변을 보다
+germinate	싹트다, 시작되다
 squeamish	비위가 약한
 latrine	(야영지 등에서 특히 땅에 구덩이를 파서 만든) 변소
-pluck	"(머리카락눈썹 등을) 뽑다, 빼내다"
+pluck	(머리카락눈썹 등을) 뽑다, 빼내다
 proposition	(특히 사업상의) 제의
-squeak	"끽 하는 소리를 내다, 간신히 해내다"
+squeak	끽 하는 소리를 내다, 간신히 해내다
 stand up against	~에 저항하다
 dishearten	낙심하게 하다
-indiscretion	"무분별한 행동, 경솔한 행동"
+indiscretion	무분별한 행동, 경솔한 행동
 toiletries	세면도구
-waver	"흔들리다, 주저하다"
-By all means	"아무렴, 좋고 말고"
-caregiver	"간병인, carer"
+waver	흔들리다, 주저하다
+By all means	아무렴, 좋고 말고
+caregiver	간병인, carer
 see eye to eye	의견을 같이하다
 criterion	기준
-lint	"보풀, 린트(붕대용으로 쓰는 부드러운 면직물의 일종)"
+lint	보풀, 린트(붕대용으로 쓰는 부드러운 면직물의 일종)
 flax 	아마
-antiquity	"고대(특히 그리스· 로마시대), (고대) 유물"
-progenitor	"조상, 창시자"
-calamity	"재앙, 재난"
-utter	"완전한, 순전한, (소리를)내다"
+antiquity	고대(특히 그리스· 로마시대), (고대) 유물
+progenitor	조상, 창시자
+calamity	재앙, 재난
+utter	완전한, 순전한, (소리를)내다
 pod	(콩이 들어 있는) 꼬투리
-propagate	"전파하다, 번식시키다"
+propagate	전파하다, 번식시키다
 seedling	묘목
 trial and error	시행착오
-consign	"(무엇을 없애기 위해 어디에) 놓다, 처하게 만들다"
-swinger	"성생활이 자유분방한 사람, 세련된 사교가"
-prolific	"다작하는, 다산하는"
+consign	(무엇을 없애기 위해 어디에) 놓다, 처하게 만들다
+swinger	성생활이 자유분방한 사람, 세련된 사교가
+prolific	다작하는, 다산하는
 iconoclasm	우상파괴
-canonical	"(성경이) 정본에 속하는, (문학 작품이) 고전으로 여겨지는"
+canonical	(성경이) 정본에 속하는, (문학 작품이) 고전으로 여겨지는
 pollinate	수분하다
-hybridize	"잡종이 되다, 잡종을 만들다"
-graft	"접목, 접붙이기"
+hybridize	잡종이 되다, 잡종을 만들다
+graft	접목, 접붙이기
 sorghum	수수
-pulses	"두류, 콩류"
-lurid	"야한, 충격적인"
-admonition	"책망, 경고"
-malady	"심각한 문제, 병폐"
-macabre	"섬뜩한, 으스스한"
-leach	"침출되다, 침출시키다"
+pulses	두류, 콩류
+lurid	야한, 충격적인
+admonition	책망, 경고
+malady	심각한 문제, 병폐
+macabre	섬뜩한, 으스스한
+leach	침출되다, 침출시키다
 thrush	개똥지빠귀
 botany	식물학
 horticultural	원예의
-indictment 	"(제도·사회 등의) 폐단의 흔적, 고발장, 기소장"
+indictment 	(제도·사회 등의) 폐단의 흔적, 고발장, 기소장
 awry	빗나간
-momentous	"중대한, historic"
+momentous	중대한, historic
 circumscribe	제한하다
-benign	"상냥한, 유순한, 양성의"
+benign	상냥한, 유순한, 양성의
 suffice	충분하다
-flagrant	"노골적인, 명백한"
-thence	"거기에서, 그 뒤에"
+flagrant	노골적인, 명백한
+thence	거기에서, 그 뒤에
 male chauvinist	남성 우월주의자
-imposition	"(새로운 법률·세금 등의) 시행, 폐, 부담"
+imposition	(새로운 법률·세금 등의) 시행, 폐, 부담
 take heat	책임 추궁을 당하다
 husbandry	농사(특히 세심하게 잘 짓는 농사를 가리킴)
 selfer 	자기복귀유전자
 tabulate	(자료를) 표로 만들다
-topography	"지형, 지형학"
-mockery	"조롱, 조소"
+topography	지형, 지형학
+mockery	조롱, 조소
 persuasive	설득력 있는
 demagogy	민중 선동
-predispose	"하게 만들다, 하는 성향을 갖게 하다"
+predispose	하게 만들다, 하는 성향을 갖게 하다
 ethnobiology	민족 생물학
 acculturate	다른 문화에 성공적으로 동화되다
-indiscriminate	"무분별한, 지각없는"
-preposterous	"말도 안 되는, 터무니없는"
-allegory	"우화, 풍자"
+indiscriminate	무분별한, 지각없는
+preposterous	말도 안 되는, 터무니없는
+allegory	우화, 풍자
 demagogue	선동 정치가
-frivolously	"경박하게, 장난삼아"
-qualm	"거리낌, 꺼림칙함"
+frivolously	경박하게, 장난삼아
+qualm	거리낌, 꺼림칙함
 ignoramus	무식한 사람
-unpalatable	"불쾌한, 입에 안 맞는"
+unpalatable	불쾌한, 입에 안 맞는
 morphology	형태학
-preceding	"이전의, 앞선"
-perennial	"다년생의, 지속되는"
-palatability	"입에 맞음 , 맛이 좋음"
-subsist	"근근이 살아가다, 존속되다"
-dearth	"부족, 결핍"
-biota	"생물군, 생물상"
-well-endowed	"가슴이 큰, 성기가 큰"
-a priori	"(라틴어)선험적인, 연역적인"
-florescence	"개화, 번성기"
+preceding	이전의, 앞선
+perennial	다년생의, 지속되는
+palatability	입에 맞음 , 맛이 좋음
+subsist	근근이 살아가다, 존속되다
+dearth	부족, 결핍
+biota	생물군, 생물상
+well-endowed	가슴이 큰, 성기가 큰
+a priori	(라틴어)선험적인, 연역적인
+florescence	개화, 번성기
 alimony	이혼 수당
-reclusive	"은둔한, 세상을 버린"
+reclusive	은둔한, 세상을 버린
 denigrate	폄하하다
-caveat	"통고, 경고"
+caveat	통고, 경고
 fallacy	틀린 생각
-propagation	"번식, 증식, 선전"
+propagation	번식, 증식, 선전
 legacy	유산
 condone	용납하다
-engagingly	"호감이 가는, 매력적인"
+engagingly	호감이 가는, 매력적인
 parabola	포물선
-defer	"미루다, 연기하다"
-covenant	"약속, 계약"
-paranoia	"편집증, 피해망상"
-hermetic	"밀폐된, 밀봉된"
-sentinel	"보초병, 감시병"
+defer	미루다, 연기하다
+covenant	약속, 계약
+paranoia	편집증, 피해망상
+hermetic	밀폐된, 밀봉된
+sentinel	보초병, 감시병
 ferret	흰담비
 feral	돌아다니며 사는
 instigate	선동하다
-long-winded	"길고 지루한, 장황한"
+long-winded	길고 지루한, 장황한
 penchant	애호
 commendable	칭찬받을 만한
 discrepancy	차이
-succinctly	"간단명료하게, 간결하게"
-residue	"잔여물, 잔여유산"
-rigorous	"철저한, 엄격한"
+succinctly	간단명료하게, 간결하게
+residue	잔여물, 잔여유산
+rigorous	철저한, 엄격한
 insuperable	극복할 수 없는
 mammalian	포유류의
 attest	증명하다
 ovulate	배란하다
-disposition	"기질, 성격"
+disposition	기질, 성격
 prostate	전립선
 chalk up to	~탓으로 돌리다
 counterproductive	역효과를 낳는
@@ -735,74 +733,74 @@ diminutive	아주 작은
 self-starter	자발적으로 행동하는 사람
 clam up	입을 꼭 다물다
 dissident	반체제 인사
-consent	"동의, 동의하다"
+consent	동의, 동의하다
 ineptitude	기량 부족
-secretariat	"사무국, 비서과 직원, 비서의 직, 비서실"
-preempt	"선매권에 의하여 획득하다, 먼저 차지하다"
-precept	"수칙, 계율"
+secretariat	사무국, 비서과 직원, 비서의 직, 비서실
+preempt	선매권에 의하여 획득하다, 먼저 차지하다
+precept	수칙, 계율
 regimented	엄격한
 imbibe	(특히 술을) 마시다
-wouldn't you know	"생각했던 대로, 역시"
-topsy-turvy	"뒤죽박죽, 엉망진창인"
+wouldn't you know	생각했던 대로, 역시
+topsy-turvy	뒤죽박죽, 엉망진창인
 Woe betide	~는 화를 당할지니라(경고의 뜻으로 하는 말)
-introspection	"자기성찰, 내성"
+introspection	자기성찰, 내성
 drove	무리
-contemporaneous	"동시에 발생하는, 동시에 존재하는"
+contemporaneous	동시에 발생하는, 동시에 존재하는
 hodgepodge	뒤범벅
 decimation	다수의 인명을 앗음
-raging	"격렬한, 맹렬한, 극심한"
+raging	격렬한, 맹렬한, 극심한
 negate	무효화하다
 encephalopathy	뇌병증
-duck out	"책임을 피하다, 도망치다"
-salient	"가장 중요한, 핵심적인"
+duck out	책임을 피하다, 도망치다
+salient	가장 중요한, 핵심적인
 loquaciously	말이 많은
-morph	"변하다, 바뀌다"
+morph	변하다, 바뀌다
 limp along	절름거리며 걷다
 go cold turkey	마약을 갑자기 끊다
-destitute	"극빈한, 궁핍한"
-gallant	"용감한, 정중한"
+destitute	극빈한, 궁핍한
+gallant	용감한, 정중한
 petulant	심술을 부리는
-fastidious	"세심한, 꼼꼼한"
+fastidious	세심한, 꼼꼼한
 magnanimity	포용
-leniency	"너그러움, 관대함"
-decorum	"점잖음, 예의"
+leniency	너그러움, 관대함
+decorum	점잖음, 예의
 sterile	불임의
 heirloom	가보
 memento	(사람·장소를 기억하기 위한) 기념품
-dire	"매우 심각한, 긴급한"
-proclamation	"선언서, 성명서, 선언, 선포"
+dire	매우 심각한, 긴급한
+proclamation	선언서, 성명서, 선언, 선포
 asymptomatic	무증상의
-in one way or another	"어떤 방법으로든, 어떻게든"
+in one way or another	어떤 방법으로든, 어떻게든
 livelihood	생계 (수단)
 microbes	미생물
 enlist	요청하다
-contract	"(병에) 걸리다, 수축하다, 계약서"
+contract	(병에) 걸리다, 수축하다, 계약서
 venereal	성병의
 syphilis	매독
-inoculate	"접종하다, 예방 주사를 놓다"
+inoculate	접종하다, 예방 주사를 놓다
 lesion	병변
-vigorous	"활발한, 격렬한"
+vigorous	활발한, 격렬한
 excrete	배변하다
 antigen	항원(체내에 들어가 항체(antibodies) 형성을 촉진하는 물질)
-lead?a?sheltered?life	(외부와의 교섭이 없는) 조용한 생활을 하다
-buck	"저항하다, 맞서다"
-on the heels of	"아무의 뒤를 바짝 뒤따라서, ~에 잇따라서"
+lead a sheltered life	(외부와의 교섭이 없는) 조용한 생활을 하다
+buck	저항하다, 맞서다
+on the heels of	아무의 뒤를 바짝 뒤따라서, ~에 잇따라서
 resumption	재개
-uniformity	"균일성, 획일성"
-homogeneity	"동종성, 동질성"
-parochial	"지역주의의, 교구의"
-uncharted	"인적 미답의, 미지의, 잘 알지 못하는"
+uniformity	균일성, 획일성
+homogeneity	동종성, 동질성
+parochial	지역주의의, 교구의
+uncharted	인적 미답의, 미지의, 잘 알지 못하는
 adroit	노련한
 between the Scylla and Charybdis	진퇴양난의
 ramifications	(파생한) 결과
-down-to-earth	"실제적인, 견실한, 현실적인"
+down-to-earth	실제적인, 견실한, 현실적인
 on the sly	은밀히
-pathogen	"병원균, 병원체"
+pathogen	병원균, 병원체
 talk of the town	장안의 화제
-edge off	"서서히 떨어지다, 서서히 멀어지다"
+edge off	서서히 떨어지다, 서서히 멀어지다
 ghostwriting	대필
 go rogue	멋대로 굴다
-alteration	"변화, 개조"
+alteration	변화, 개조
 bicker	(사소한 일로)다투다
 foot the bill	비용을 부담하다
 altruism	이타주의
@@ -810,123 +808,123 @@ long-drawn-out	너무 오래 끄는
 tribelet	소부족
 dysentery	이질
 whence	~한 곳에서
-leprosy	"나병, 문둥병"
-hookworm	"십이지장충, 구충"
+leprosy	나병, 문둥병
+hookworm	십이지장충, 구충
 fecal	분변의
-afflict	"괴롭히다, 피해를 입히다"
-astute	"약삭빠른, 영악한"
+afflict	괴롭히다, 피해를 입히다
+astute	약삭빠른, 영악한
 perceptive	통찰력 있는
 provocative	도발적인
 byline	필자 이름을 적은 행
-full-on	"최대의, 극도의"
+full-on	최대의, 극도의
 unabashedly	염치없이
 entropy	예측 불허
-senile	"망령난, 노망든"
+senile	망령난, 노망든
 ageism	노인 차별
 embodiment	전형
 olfactory	후각의
 disillusionment	환멸
 tempest in a teapot	사소한 일로 인한 큰 소동
-blow over	"지나가다, 사그라들다"
+blow over	지나가다, 사그라들다
 winnow	키질하다
-annals	"연대기, 연보"
+annals	연대기, 연보
 arthropod	절지동물(곤충·거미·게 등)
 delouse	이(lice)를 없애다
 vector	(질병의) 매개체
-idiosyncrasy	"특이한 성격, 성벽"
+idiosyncrasy	특이한 성격, 성벽
 titular	명목상의
 underprivileged	혜택을 못 받는
 opine	의견을 밝히다
-cordial	"화기애애한, 다정한"
+cordial	화기애애한, 다정한
 embroiled in	~에 휩쓸린
-paucity	"소량, 부족, 결핍"
+paucity	소량, 부족, 결핍
 vest in	~에게 부여하다
-blow a gasket	"버럭 화를 내다, 격노하다"
+blow a gasket	버럭 화를 내다, 격노하다
 volition	자유 의지
-mediation	"조정, 중재"
+mediation	조정, 중재
 judoka	유도 선수
-bulwark	"방어물, 보호자"
+bulwark	방어물, 보호자
 disinformation	허위 정보
-slur	"비방(하는 말), 불분명하게 발음하다"
+slur	비방(하는 말), 불분명하게 발음하다
 conjecture	추측
-savagery	"야만성, 흉포성"
-hallmark	"특징, 특질"
+savagery	야만성, 흉포성
+hallmark	특징, 특질
 hieroglyph	상형문자
-decompose	"분해되다, 부패되다"
-utterance	"(말로) 표현함, 입 밖에 냄"
+decompose	분해되다, 부패되다
+utterance	(말로) 표현함, 입 밖에 냄
 catfishing	연인을 구하기 위해 온라인에서 거짓말을 하는 행위
-unilateral	"일방적인, 단독의"
+unilateral	일방적인, 단독의
 dead set on	~에 전력투구하는
-ingrain	"깊이 배어든, 뿌리 깊은, 타고난"
+ingrain	깊이 배어든, 뿌리 깊은, 타고난
 embark upon	~에 착수하다
 cut ties with	~와의 관계를 끊다
 double down on	~에 전념하다. 몰두하다
 engage with	~와 맞물리게 하다
 degenerate	악화되다
 detriment 	손상
-tempestuous	"열렬한, 격정적인"
-headwind	"맞바람, 역풍"
+tempestuous	열렬한, 격정적인
+headwind	맞바람, 역풍
 hybridity	잡종성
 friendship with benefits	성적인 관계만 갖는 사이
-stylus	"(축음기의) 바늘, 스타일러스(컴퓨터용펜)"
+stylus	(축음기의) 바늘, 스타일러스(컴퓨터용펜)
 hold still for	~을 가만히 참다
-derivative	"파생어, 파생물"
+derivative	파생어, 파생물
 mishmash	뒤죽박죽
-proliferation	"급증, 확산"
-conscientious	"양심적인, 성실한"
+proliferation	급증, 확산
+conscientious	양심적인, 성실한
 autonomy	자치권
 insemination	씨뿌림
 meteorologist	기상학자
 speak off the cuff	즉석에서 연설하다
-monologue	"긴 이야기, 독백"
+monologue	긴 이야기, 독백
 waywardly	자의로
-to the core	"속속들이, 철두철미하게"
-point blank	"단도직입적인, 딱 잘라 말하는"
-annexation	"부가, 첨가, (영토의) 합병"
+to the core	속속들이, 철두철미하게
+point blank	단도직입적인, 딱 잘라 말하는
+annexation	부가, 첨가, (영토의) 합병
 cohabit	동거하다
-reimburse	"배상하다, 변제하다"
+reimburse	배상하다, 변제하다
 munificent	대단히 후한
 critter	생물
 divination	점(占)
 dynastic	왕조의
-incised	"새긴, 조각한"
-oracle	"신탁을 받는 곳, 신탁"
+incised	새긴, 조각한
+oracle	신탁을 받는 곳, 신탁
 auspicious	상서로운
-nimbly	"민첩하게, 재빠르게"
+nimbly	민첩하게, 재빠르게
 co-opt	선임하다
-nebulous	"흐릿한, 모호한"
-legitimacy	"정당성, 타당성"
-unmitigated	"순전한, 완전한(보통 나쁜 것)"
-unprepossessing	"매력 없는, 호감을 주지 못하는"
+nebulous	흐릿한, 모호한
+legitimacy	정당성, 타당성
+unmitigated	순전한, 완전한(보통 나쁜 것)
+unprepossessing	매력 없는, 호감을 주지 못하는
 syllabary	음절 문자 체계
-precocious	"조숙한, 아이 같지 않은"
+precocious	조숙한, 아이 같지 않은
 layperson	비전문가
-unreceptive	"수용력이 없는, 반응이 좋지 않은"
-conform 	"따르다, 집단의 다른 구성원들과 행동을 같이 하다, 순응하다"
-tinker	"땜장이, 어설프게 손보다"
+unreceptive	수용력이 없는, 반응이 좋지 않은
+conform 	따르다, 집단의 다른 구성원들과 행동을 같이 하다, 순응하다
+tinker	땜장이, 어설프게 손보다
 despotism	폭정
-envisage	"예상하다, 상상하다"
+envisage	예상하다, 상상하다
 foodie	식도락가
 cotton gin	면기(면화에서 솜과 씨를 분리하는 기계)
-disperse	"흩어지다, 해산하다"
-terra firma	"육지, 대지"
+disperse	흩어지다, 해산하다
+terra firma	육지, 대지
 have had it up to here	참을 만큼 참았다
 a word of caution	경고의 말
-combustible	"불이 잘 붙는, 가연성인"
-incendiary	"방화의, 불을 지르기 위한"
+combustible	불이 잘 붙는, 가연성인
+incendiary	방화의, 불을 지르기 위한
 cachet	(사람들이 흠모하는) 특징
-prestige	"위신, 명망"
-entrenched	"참호로 둘러싸인; 견고한, 확립된"
+prestige	위신, 명망
+entrenched	참호로 둘러싸인; 견고한, 확립된
 ophthalmologist	안과 의사
 varsity	(대학고등학교의) 대표팀
-lackluster	"광택이 없는, 열기가 없는"
+lackluster	광택이 없는, 열기가 없는
 resuscitate	소생시키다
-passage of time	"시간의 흐름, 시간의 경과"
-preeminence	"발군(拔群), 탁월"
+passage of time	시간의 흐름, 시간의 경과
+preeminence	발군(拔群), 탁월
 heretic	이단자
 incompatible	양립할 수 없는
 exhaust	배기가스. 고갈시키다
-tacitly	"무언으로, 조용하게"
+tacitly	무언으로, 조용하게
 prevalent	일반적인
 rancher	목장 주인
 weir	둑
@@ -934,34 +932,33 @@ mediocracy	평범한 사람에 의한 통치
 aggregation	종합
 compound interest	복리
 apparent	분명한
-appreciate	"진가를 알아보다, 고마워하다"
-transformative	"변화시키는, 변형의"
-fall by the wayside	"도중에 실패하다, 진전을 못 보다"
-latent	"잠재하는, 잠복해 있는"
+appreciate	진가를 알아보다, 고마워하다
+transformative	변화시키는, 변형의
+fall by the wayside	도중에 실패하다, 진전을 못 보다
+latent	잠재하는, 잠복해 있는
 tectonic	구조상의
 entrench	단단히 자리 잡게 하다
-antidote	"해독제, 해결책"
-refinement	"개선, 개량"
-religiously	"세심하게, 어김없이, 종교적으로"
-incongruent	"맞지 않는,  일치하지 않는"
-"embody
-"	"상징하다, 구현하다"
-studious	"공부를 열심히 하는, 학구적인"
+antidote	해독제, 해결책
+refinement	개선, 개량
+religiously	세심하게, 어김없이, 종교적으로
+incongruent	맞지 않는,  일치하지 않는
+embody	상징하다, 구현하다
+studious	공부를 열심히 하는, 학구적인
 one-off	단 한 번의
 the North Star	북극성
-rudder	"? (배의) 키, (항공기의) 방향타"
+rudder	(배의) 키, (항공기의) 방향타
 trigonometry	삼각법
-on reflection	"깊이 생각해 보니, 숙고해 보고"
-at length	"길게, 상세히"
-crop up	"불쑥 나타나다, 발생하다"
-vis-?-vis	"~에 대하여, ~와 비교하여"
-frivolous	"경솔한, 바보 같은, 까부는"
-disciple	"제자, 신봉자"
+on reflection	깊이 생각해 보니, 숙고해 보고
+at length	길게, 상세히
+crop up	불쑥 나타나다, 발생하다
+vis-a-vis	~에 대하여, ~와 비교하여
+frivolous	경솔한, 바보 같은, 까부는
+disciple	제자, 신봉자
 overtly	공공연히
-self-appointed	"자기 혼자 정한, 자칭의"
+self-appointed	자기 혼자 정한, 자칭의
 confer on	~에게 수여하다
-pervade	"만연하다, (구석구석) 스며들다"
-voracious	"게걸스러운, 열렬히 탐하는"
+pervade	만연하다, (구석구석) 스며들다
+voracious	게걸스러운, 열렬히 탐하는
 marginalize	하찮은 존재 같은 기분이 들게 하다
 indenture	(하인·도제의) 고용 계약서
 porcelain	자기(磁器)
@@ -969,242 +966,242 @@ fad	(일시적인) 유행
 gun-toting	(권)총을 휴대하는
 dwarf	왜소해 보이게 만들다
 the upper paleolithic	후기구석기
-catalyze	"~에 촉매 작용을 미치다, 촉진시키다"
+catalyze	~에 촉매 작용을 미치다, 촉진시키다
 truncate	길이를 줄이다
-in a sense	"어떤 의미에서는, 어느 정도(까지는)"
+in a sense	어떤 의미에서는, 어느 정도(까지는)
 pawn off	(-을 없애버리려고 다른 사람에게) 주다
-pigeonhole 	"칸, 함, 분류하다, 밀쳐 두다"
+pigeonhole 	칸, 함, 분류하다, 밀쳐 두다
 complement	보완하다
-cue	"신호, 신호를 주다"
-exhaustive	"철저한, 완전한"
+cue	신호, 신호를 주다
+exhaustive	철저한, 완전한
 irresponsible	무책임한
-presenter	"진행자, 사회자, 발표자"
-impose	"부과하다, 강요하다"
+presenter	진행자, 사회자, 발표자
+impose	부과하다, 강요하다
 attach a stigma to	~에게 오명을 씌우다
 take up on	~을 채택하다
-landmass	"광대한 땅, (특히) 대륙"
-transect	"가로로 쪼개다, 횡단하다"
-gradient	"경사도, 변화도"
-glaring	"확연한, 두드러진"
-slough	"(허물 등을) 벗다, (각질 등을) 벗기다"
-battalion	"대대, 부대"
+landmass	광대한 땅, (특히) 대륙
+transect	가로로 쪼개다, 횡단하다
+gradient	경사도, 변화도
+glaring	확연한, 두드러진
+slough	(허물 등을) 벗다, (각질 등을) 벗기다
+battalion	대대, 부대
 berate	질책하다
 Passover	유월절(이집트 탈출을 기념하는 유대인의 축제)
 antsy	안달하는
-set out	"~을 정리하다, ~을 진열하다"
-game plan	"전략, 작전"
+set out	~을 정리하다, ~을 진열하다
+game plan	전략, 작전
 kleptocracy	도둑 정치(권력자가 막대한 부를 독점하는 정치 체제)
-erstwhile	"이전의, 지금까지의"
-inauspicious	"상서롭지 못한, 불길한"
-renounce	"포기하다, 단념하다"
-demarcation	"경계, 구분"
+erstwhile	이전의, 지금까지의
+inauspicious	상서롭지 못한, 불길한
+renounce	포기하다, 단념하다
+demarcation	경계, 구분
 heterogeneous	다차원적
-stratification	"성층(成層), 계층화"
+stratification	성층(成層), 계층화
 epigraph	비문
 stalemate	교착 상태
-pose	"제기하다,  자세를 취하다"
+pose	제기하다,  자세를 취하다
 grew apart	(~와) 사이가 멀어지다
-profess	"주장하다, 공언하다"
-granted	"인정해, 맞아"
-interlude	"사이, 중간, 막간"
+profess	주장하다, 공언하다
+granted	인정해, 맞아
+interlude	사이, 중간, 막간
 primary care	1차 의료
 embargo 	금수조치
 crisper	냉장고의 야채 보관실
-menial	"하찮은, 천한"
-unswerving	"약해지지 않는, 변함없는"
-Machiavellian	"권모술수에 능한, 마키아벨리 같은"
+menial	하찮은, 천한
+unswerving	약해지지 않는, 변함없는
+Machiavellian	권모술수에 능한, 마키아벨리 같은
 chapter and verse	상세한 내용
-flurry	"소동, 부산"
-upend	"거꾸로 하다, 뒤집다"
-relapse	"재발, 악화, 다시 빠지다"
+flurry	소동, 부산
+upend	거꾸로 하다, 뒤집다
+relapse	재발, 악화, 다시 빠지다
 perseverance	인내(심)
-grit	"모래, 투지, 기개"
+grit	모래, 투지, 기개
 presage	전조가 되다
-covet	"탐내다, 갈망하다"
+covet	탐내다, 갈망하다
 subsume	포함하다
-perquisite	"특전, 특권"
-baron	"남작, 부호"
+perquisite	특전, 특권
+baron	남작, 부호
 benefactor	후원자
 avariciously	욕심 사납게
 rapacity	탐욕
-vindictiveness	"복수심이 강함, 보복적임"
+vindictiveness	복수심이 강함, 보복적임
 wait on somebody hand and foot	~의 손발 노릇을 하다
 commiseration	위로의 표현
-Irresistible	"억누를 수 없는, 거부할 수가 없는"
-hyperpalatable	"(음식이) 소금, 지방, 설탕, 전분을 포함한"
-stimuli	"STIMULUS의 복수, 자극"
-inhibit	"억제하다, 못하게 하다"
-downtrodden	"탄압받은, 짓밟힌"
+Irresistible	억누를 수 없는, 거부할 수가 없는
+hyperpalatable	(음식이) 소금, 지방, 설탕, 전분을 포함한
+stimuli	STIMULUS의 복수, 자극
+inhibit	억제하다, 못하게 하다
+downtrodden	탄압받은, 짓밟힌
 upstart	건방진 놈
 resort to	~에 의지하다
-populace	"대중들, 서민들"
-buttress	"지지대, 지지하다"
-coinage	"동전들, 주화"
-amalgamation	"융합, 연합, 합병"
+populace	대중들, 서민들
+buttress	지지대, 지지하다
+coinage	동전들, 주화
+amalgamation	융합, 연합, 합병
 culminate	(~으로) 끝이 나다
-fervor	"열렬, 열정"
-provost	"학장(영국), 교무 처장(미국)"
-blatant	"노골적인, 뻔한"
+fervor	열렬, 열정
+provost	학장(영국), 교무 처장(미국)
+blatant	노골적인, 뻔한
 emulate	모방하다
-in the picture	"마침 현장에 있는, 사실을 잘 알고 있는"
-homebound	"귀향의, 집에 틀어박힌"
+in the picture	마침 현장에 있는, 사실을 잘 알고 있는
+homebound	귀향의, 집에 틀어박힌
 mantra	만트라(특히 기도·명상 때 외는 주문)
-adamant	"요지부동의, 단호한"
+adamant	요지부동의, 단호한
 atypical	이례적인
-at large	"전체적인, 대체적인"
-legion	"(특히 고대 로마의) 군단, 부대, 많은 사람들"
-unbeknownst	"~가 모르는, unbeknown"
-ruse	"계략, 책략"
+at large	전체적인, 대체적인
+legion	(특히 고대 로마의) 군단, 부대, 많은 사람들
+unbeknownst	~가 모르는, unbeknown
+ruse	계략, 책략
 medallion	(목걸이에 거는) 큰 메달 모양의 보석
 chauvinist	맹목적 애국주의자
 henpecked	공처가의
-purge	"제거하다, 숙청하다"
-lash out	"채찍질하다, 비난하다"
-get to	"~을 시작하다, ~을 착수하다"
+purge	제거하다, 숙청하다
+lash out	채찍질하다, 비난하다
+get to	~을 시작하다, ~을 착수하다
 arousal	자극
-fluidity	"부드러움, 우아함, 유동성"
-stymie	"방해하다, 좌절시키다"
+fluidity	부드러움, 우아함, 유동성
+stymie	방해하다, 좌절시키다
 on end	(어떤 기간 동안) 계속
 nitpick	별것 아닌 트집을 잡다
 jingoist	맹목적 애국주의자
 fledgling	(막 날기 시작한) 어린 새
 dogmatize	독단적인 주장을 하다
 indoctrinate	(사상 등을) 주입하다
-highbrow	"식자층의, 교양 있는"
-lowbrow	"교양 없는, 저속한"
-pathfinder	"길잡이, 선도자"
-pristinely	"최초로,원시적으로"
-ethereal	"지극히 가볍고 여린, 천상의"
-duress	"협박, 압력"
-correlation	"연관성, 상관관계"
-importation 	"import, 수입"
+highbrow	식자층의, 교양 있는
+lowbrow	교양 없는, 저속한
+pathfinder	길잡이, 선도자
+pristinely	최초로,원시적으로
+ethereal	지극히 가볍고 여린, 천상의
+duress	협박, 압력
+correlation	연관성, 상관관계
+importation 	import, 수입
 belt out	힘차게 노래부르다
-rendition	"연주, 공연"
-deter	"단념시키다, 그만두게 하다"
-deterrence	"제지, 저지, 전쟁 억제"
-playbook	"(정치·상업 캠페인 따위의) 계획, 전술"
+rendition	연주, 공연
+deter	단념시키다, 그만두게 하다
+deterrence	제지, 저지, 전쟁 억제
+playbook	(정치·상업 캠페인 따위의) 계획, 전술
 get bogged down	발목을 붙잡히다
-spatial	"공간의, 공간적인"
+spatial	공간의, 공간적인
 proselytize	개종시키려 하다
-dyad	"두 부분으로 이뤄진 것, 한 쌍"
-combatant	"전투원, 전투 부대"
+dyad	두 부분으로 이뤄진 것, 한 쌍
+combatant	전투원, 전투 부대
 truce	휴전
-amalgamate	"합병하다, 연합하다"
-mellow	"부드럽고 풍부한, 그윽한"
+amalgamate	합병하다, 연합하다
+mellow	부드럽고 풍부한, 그윽한
 skillet	frying pan
-keep something at bay	"발생을 막다, 접근을 막다"
+keep something at bay	발생을 막다, 접근을 막다
 principality	공국
 Biblical times	성서 시대
-emporium	"큰 상점, (특정 상품을 파는) 상점"
+emporium	큰 상점, (특정 상품을 파는) 상점
 rapport	(친밀한) 관계
 bust one's ass(butt)	필사적으로 일하는 것
-bulk	"(~의) 대부분, (큰) 규모"
-provision	"공급, 제공, 대비, 준비"
-backwardness	"낙후, 후진성"
-haft	"(칼·무기의) 손잡이, 자루"
+bulk	(~의) 대부분, (큰) 규모
+provision	공급, 제공, 대비, 준비
+backwardness	낙후, 후진성
+haft	(칼·무기의) 손잡이, 자루
 sequester	격리시키다
-sunder	"찢다, 떼어내다"
-epithet	"별칭, 묘사, 욕설"
-INCONSOLABLE	? 슬픔을 가눌 수 없는
-denote	"조짐을 보여주다, 의미하다"
-lapse	"실수, 깜박함, 차츰 약해지다"
-perspire	"땀을 흘리다, 땀이 나다"
-fraternity	"협회, 형제애, 박애"
-egotism	"자기 중심벽, 자만, 이기주의"
+sunder	찢다, 떼어내다
+epithet	별칭, 묘사, 욕설
+INCONSOLABLE	슬픔을 가눌 수 없는
+denote	조짐을 보여주다, 의미하다
+lapse	실수, 깜박함, 차츰 약해지다
+perspire	땀을 흘리다, 땀이 나다
+fraternity	협회, 형제애, 박애
+egotism	자기 중심벽, 자만, 이기주의
 travesty	졸렬한 모방
-squatter	"불법 거주자, 무단 점유자"
+squatter	불법 거주자, 무단 점유자
 stagnant	고여 있는
-suds	"(비눗물 위에 뜬) 비누 거품, 맥주"
-pamper	"소중히 보살피다, 애지중지하다"
+suds	(비눗물 위에 뜬) 비누 거품, 맥주
+pamper	소중히 보살피다, 애지중지하다
 gratification	만족감
-regressive	"퇴행하는, 퇴보하는"
+regressive	퇴행하는, 퇴보하는
 enthuse	열변을 토하다
-unruly	"다루기 힘든, 제멋대로 구는"
-silt	"유사, 토사"
+unruly	다루기 힘든, 제멋대로 구는
+silt	유사, 토사
 tucked away	사람들이 붐비지 않는 곳에 위치하다
-trifling	"하찮은, 사소한"
-pitfall	"(눈에 잘 안 띄는) 위험, 곤란"
+trifling	하찮은, 사소한
+pitfall	(눈에 잘 안 띄는) 위험, 곤란
 curative	치유력이 있는
 polyamorous	다자간 연애
 punitive 	가혹한
-repel	"격퇴하다, 물리치다"
-aggregate	"합계, 총액"
-conduit	"도관, 전선관, 전달자"
+repel	격퇴하다, 물리치다
+aggregate	합계, 총액
+conduit	도관, 전선관, 전달자
 marsupial	유대목 동물(캥거루·코알라처럼 육아낭에 새끼를 넣어 가지고 다니는 동물)
 dingo	딩고(오스트레일리아산 들개)
-mesmeric	"최면을 거는 듯한, 완전 넋을 빼놓는"
+mesmeric	최면을 거는 듯한, 완전 넋을 빼놓는
 kill somebody with kindness	~에 대한 친절이 지나쳐 도리어 화를 입히다
 bad news	[미·속어] 골치 아픈 녀석
-propulsion	"추진, 추진력"
+propulsion	추진, 추진력
 neuroticism	신경증적 성질
 conscientiousness	성실성
 punctuate	간간이 끼어들다
-millet	"수수, 기장"
-aridity	"건조 (상태), 빈약, 무미건조"
+millet	수수, 기장
+aridity	건조 (상태), 빈약, 무미건조
 delusion of grandeur	과대망상
 debunk	틀렸음을 드러내다
-empress	"여자 황제, 여제"
-conspire	"음모를 꾸미다, 공모하다"
+empress	여자 황제, 여제
+conspire	음모를 꾸미다, 공모하다
 intemperate	무절제한
-behest	"명령, 지령"
+behest	명령, 지령
 regression	퇴보
-aphrodisiac	"최음제, 정력제"
+aphrodisiac	최음제, 정력제
 sea cucumber	해삼
 forge	대장간
-attenuate	"약화시키다, 희석시키다"
+attenuate	약화시키다, 희석시키다
 fetter	구속하다
-spurn	"퇴짜 놓다, 일축하다"
-cater?to?somebody	~의 구미에 맞추다
-cut short	"갑자기 끝내다, 가로막다"
-upside	"괜찮은 면,  긍정적인 면"
-pundit	"전문가, 권위자"
+spurn	퇴짜 놓다, 일축하다
+cater to somebody	~의 구미에 맞추다
+cut short	갑자기 끝내다, 가로막다
+upside	괜찮은 면,  긍정적인 면
+pundit	전문가, 권위자
 Tao Te Ching	도덕경(노자)
 supple	(몸이) 유연한
-pliant	"나긋나긋한, 얌전한"
+pliant	나긋나긋한, 얌전한
 hepatitis	간염
 notwithstanding	~에도 불구하고
-pariah	"버림받은 사람,  따돌림 받는 사람"
+pariah	버림받은 사람,  따돌림 받는 사람
 twiddle	(손가락으로)빙빙 돌리다
 herdsmen	목동
 tattle on	~에 대해 고자질하다
-snitch	"고자질하다, 일러바치다"
-rambunctious	"떠들썩한, 활기 넘치는"
+snitch	고자질하다, 일러바치다
+rambunctious	떠들썩한, 활기 넘치는
 impediment	장애
-banal	"지극히 평범한, 따분한, 시시한"
+banal	지극히 평범한, 따분한, 시시한
 enclave	소수 민족 집단 거주지
 archetypal	전형적인
-folklore	"민속, 전통 문화"
+folklore	민속, 전통 문화
 relegate	격하시키다
-bespeak	"보여주다, 시사하다"
+bespeak	보여주다, 시사하다
 bubonic 	임파선종의
 isthmus	지협(地峽)
-smelting	"용해, 제련"
-culminating	"절정에 달하는, 궁극의"
-draconian	"매우 엄격한, 가혹한"
-offshoot	"파생물, 분파"
+smelting	용해, 제련
+culminating	절정에 달하는, 궁극의
+draconian	매우 엄격한, 가혹한
+offshoot	파생물, 분파
 steamroller	강압적으로 밀어붙이다
-relict	"잔존 생물, 나머지"
+relict	잔존 생물, 나머지
 seminal	중대한
-disproportionate	"균형이 안 맞는, 불균형의"
-garner	"모으다, 얻다"
-comparable	"비슷한, 비교할 만한"
-nervy	"불안 초조한, 뻔뻔스러운"
-palatable	"맛있는, 맛좋은, 마음에 드는"
-dispersal	"해산, 분산, 확산"
+disproportionate	균형이 안 맞는, 불균형의
+garner	모으다, 얻다
+comparable	비슷한, 비교할 만한
+nervy	불안 초조한, 뻔뻔스러운
+palatable	맛있는, 맛좋은, 마음에 드는
+dispersal	해산, 분산, 확산
 hilarity	아주 우스움
 dismiss	묵살하다
 brandish	(특히 무기를) 휘두르다
-overrun	"급속히 퍼지다, 초과하다"
-vacillation	"동요, 흔들림"
+overrun	급속히 퍼지다, 초과하다
+vacillation	동요, 흔들림
 foolhardy	무모한
 brash	자신만만한
 unbridled	억제되지 않은
 usurp	(왕좌·권좌 등을) 빼앗다
 soliloquy	독백
-burlesque	"풍자시, 풍자극"
-chivalry	"정중함, 기사도 정신"
-unpractical	"비실용적인, 비실제적인"
-sleaze	"부정직한 행위, 추잡함"
+burlesque	풍자시, 풍자극
+chivalry	정중함, 기사도 정신
+unpractical	비실용적인, 비실제적인
+sleaze	부정직한 행위, 추잡함
 paraphernalia	(특히 특정한 활동에 필요한) 용품
 self-sufficiency	자족
 sleeper agent	슬리퍼 에이전트 (긴급 사태 발생에 대기하고 있는 정보 요원)
@@ -1212,103 +1209,103 @@ schizophrenia	조현병
 obsidian	흑요석
 concomitant	수반되는
 exuberant	활기넘치는
-incorrigible	"고질적인, 구제 불능의"
+incorrigible	고질적인, 구제 불능의
 throw under the bus	이기적인 이유로 다른 사람을 희생시키거나 배신하다
-spat	"승강이, 옥신각신함, 입씨름"
-badgering	"졸라댐, 못살게 굼"
+spat	승강이, 옥신각신함, 입씨름
+badgering	졸라댐, 못살게 굼
 hides	가죽
-Adderall	"치료용 각성제,암페타민"
+Adderall	치료용 각성제,암페타민
 cut off your nose to spite your face	남을 해치려다가 자기도 함께 당하다
 reel from something	~의 영향으로 휘청거리다
 polyglot	여러 언어를 사용하는
-cohesion	"화합, 결합"
+cohesion	화합, 결합
 mnemonic	(기억을 돕는) 연상 기호
-prominent	"중요한, 유명한"
+prominent	중요한, 유명한
 fraudulent	사기를 치는
-analogy	"비유, 유사점"
+analogy	비유, 유사점
 sickle	낫
 impertinence 	무례
-corporal punishment	"체벌, 태형"
+corporal punishment	체벌, 태형
 neuter	거세하다
 hump	성교하다
 spayed female	난소 제거된 여성
-contiguous	"인접한, 근접한"
+contiguous	인접한, 근접한
 mythos	신화
 ethos	(특정 집단·사회의) 기풍
 Founding Fathers	미합중국 헌법 제정자들
 reshoring	국내 복귀
-replenishment	"보충, 보급"
+replenishment	보충, 보급
 optometrist	검안사
-visibly	"눈에 띄게, 분명히"
-flips the script	"To reverse a situation, especially by doing something unexpected."
+visibly	눈에 띄게, 분명히
+flips the script	To reverse a situation, especially by doing something unexpected.
 subsidize	보조금을 주다
-dispossession	"몰아내기, 강탈, 탈취"
-ravine	"산골짜기, 협곡"
+dispossession	몰아내기, 강탈, 탈취
+ravine	산골짜기, 협곡
 moribund	소멸 직전의
-creole	"크리올 사람(특히 서인도 제도에 사는, 유럽인과 흑인의 혼혈인)"
-temperamental	"신경질적인, 괴팍한"
+creole	크리올 사람(특히 서인도 제도에 사는, 유럽인과 흑인의 혼혈인)
+temperamental	신경질적인, 괴팍한
 matriarch	여자 가장
-archaic	"태곳적의, 고대의, 낡은, 폐물이 된"
+archaic	태곳적의, 고대의, 낡은, 폐물이 된
 baboon	개코원숭이
 genus	(생물 분류상의) 속(屬)
 patriarch	(가정의) 가장
 extant	현존하는
-pompous	"젠체하는, 거만한"
+pompous	젠체하는, 거만한
 atrophy	(혈액 부족으로 인한 신체 부위의) 위축
 intricate	복잡한
 primate	영장류 (동물)
-scaffolding	"(건축 공사장의) 비계, 발판"
+scaffolding	(건축 공사장의) 비계, 발판
 cranium	두개골
 earthenware	도기의
 kiln	(벽돌 등을 굽는) 가마
 carrion	(죽은 짐승의) 썩어 가는 고기
 epitome	전형
 anachronism	시대착오적인 사람
-unrepentant	"부끄러워하지 않는, 수치스러운 줄 모르는"
-inclement 	"좋지 못한, 궂은"
-ingest	"삼키다, 먹다"
+unrepentant	부끄러워하지 않는, 수치스러운 줄 모르는
+inclement 	좋지 못한, 궂은
+ingest	삼키다, 먹다
 leonine	사자 같은
 malign	비방하다
 fornicate	간통하다
 aspirant	포부가 큰 사람
 servitude	노예 상태
 flesh-and-blood	(평범한·정상적인) 인간
-autocrat	"전제 군주, 독재자"
-procreation	"출산, 생식"
-sire	"(짐승, 특히 말의) 아비, 종마"
+autocrat	전제 군주, 독재자
+procreation	출산, 생식
+sire	(짐승, 특히 말의) 아비, 종마
 pragmatic 	실용적인
-stratagem	"책략, 술수"
+stratagem	책략, 술수
 pandemonium	대혼란
 monogamous	일부일처제
-forager	"채집가, 약탈자"
-herder	"양치기, 목부"
+forager	채집가, 약탈자
+herder	양치기, 목부
 gorge on	~을 게걸스럽게 먹다
 cornucopia	(좋은 것들이 가득 찬) 보고
 snail mail	(이메일과 대조되는) 재래식 우편 제도
 extrapolate	추정하다
-strenuous	"힘이 많이 드는, 몹시 힘든, 불굴의"
+strenuous	힘이 많이 드는, 몹시 힘든, 불굴의
 rock the boat	평지풍파를 일으키다
 stoop?to?something	(~을 할 정도로) 비열해지다
 mend fences	화해하다
-facetiously	"농담으로, 익살맞게"
-endowed	"천부의, 천부적, 타고난"
-pigment	"색소, 안료"
+facetiously	농담으로, 익살맞게
+endowed	천부의, 천부적, 타고난
+pigment	색소, 안료
 demographic	인구 통계학의
-scourge	"재앙, 골칫거리"
+scourge	재앙, 골칫거리
 euthanasia	안락사
-liability 	"골칫거리, 법적 책임, 부채"
-fiend	"악마 같은 사람, 광"
-humdrum	"단조로운, 따분한"
+liability 	골칫거리, 법적 책임, 부채
+fiend	악마 같은 사람, 광
+humdrum	단조로운, 따분한
 mollify	달래다
-malevolent 	"악의 있는, 악의적인"
-theist	"유신론자, 일신론자"
+malevolent 	악의 있는, 악의적인
+theist	유신론자, 일신론자
 rubric	(책·시험지 등에 제시된) 지시문
 mystic	신비주의자
 heretical	이단적인
 lascivious	음탕한
-prosaic	"평범한, 상상력이 없는"
-inquisition	"(특히 15-17세기 가톨릭의) 종교 재판, 심문"
-pristine	"완전 새 것 같은, 아주 깨끗한"
+prosaic	평범한, 상상력이 없는
+inquisition	(특히 15-17세기 가톨릭의) 종교 재판, 심문
+pristine	완전 새 것 같은, 아주 깨끗한
 pudgy	약간 뚱뚱한
 mythic	신화적인
 frugality	절약
@@ -1317,120 +1314,120 @@ insinuate	암시하다
 tedium	지루함
 scenic	경치가 좋은
 punitive	처벌을 위한
-inconsequential	"중요하지 않은, 하찮은"
-encumbrances	"지장, 짐, 폐"
+inconsequential	중요하지 않은, 하찮은
+encumbrances	지장, 짐, 폐
 resuscitation	소생
-infallible	"결코 틀리지 않는, 틀림없는"
+infallible	결코 틀리지 않는, 틀림없는
 quaint	진기한
-maraud	"약탈하다, 습격하다"
+maraud	약탈하다, 습격하다
 grumpy	성격이 나쁜
-cranky	"짜증을 내는, 기이한"
+cranky	짜증을 내는, 기이한
 disseminate	퍼뜨리다
-pretext	"구실, 핑계"
+pretext	구실, 핑계
 high-functioning alcoholic	사회생활은 유지하는 알코올 중독자
 unsavory	좋지 못한 냄새가 나는
-hunker down	"쪼그리고 앉다, 고수하다"
+hunker down	쪼그리고 앉다, 고수하다
 laden with	이 가득한
 infallibly	영락없이
 lace with	~을 가미하다
 parlay	원금과 그 상금을 다시 다른 말에 걸기
 chillax	진정하다
 subset	부분 집합
-demography	"인구 변동, 인구 통계학"
-palatial	"대궐 같은, 으리으리한"
+demography	인구 변동, 인구 통계학
+palatial	대궐 같은, 으리으리한
 credence	신빙성
 espouse	옹호하다
-tumultuous	"떠들썩한, 격동의"
+tumultuous	떠들썩한, 격동의
 preordained	이미 운명 지워진
-prognosticator	"예언자, 점쟁이"
+prognosticator	예언자, 점쟁이
 crotchety	짜증을 내는
 nefariously	극악무도하게
-trough	"구유, 여물통"
-gainful	? 돈벌이가 되는
-aeon	"영겁, 억겁"
+trough	구유, 여물통
+gainful	돈벌이가 되는
+aeon	영겁, 억겁
 expunge	지우다
 Guilty as Charged	기소된 대로 유죄인
-exonerate	? 무죄임을 밝혀 주다
+exonerate	무죄임을 밝혀 주다
 vagary	예측 불허의 변화
 rub off on	에 영향을 주다
-trepidation	"(앞일에 대한 굉장한) 두려움, 공포"
-derelict	"버려진, 유기된, 부랑자"
-zest	"열정, 열의"
+trepidation	(앞일에 대한 굉장한) 두려움, 공포
+derelict	버려진, 유기된, 부랑자
+zest	열정, 열의
 common denominator	공통분모
-gig	"(특히 임시로 하는) 일, 직장"
-gluttony	"폭식, 과식"
-banish 	"추방하다, 유배를 보내다"
-posit 	"사실로 상정하다, 사실로 받아들이다"
-suffrage 	"투표권, 선거권, 참정권"
+gig	(특히 임시로 하는) 일, 직장
+gluttony	폭식, 과식
+banish 	추방하다, 유배를 보내다
+posit 	사실로 상정하다, 사실로 받아들이다
+suffrage 	투표권, 선거권, 참정권
 predecessor	전임자
-enfranchisement	"참정권 부여, 선거권 부여"
-nothing to sneeze at	"가볍게 볼 수 없는, 만만치 않은"
-piety	"경건함, 독실함"
-kudo	"명성, 영예, 위신, 칭찬"
+enfranchisement	참정권 부여, 선거권 부여
+nothing to sneeze at	가볍게 볼 수 없는, 만만치 않은
+piety	경건함, 독실함
+kudo	명성, 영예, 위신, 칭찬
 smelt	(광석을) 제련하다
 inseminate	수정(受精)시키다
-focal point	"(관심·활동의) 초점, 중심"
-pampered	"방자한, 제멋대로 하는"
+focal point	(관심·활동의) 초점, 중심
+pampered	방자한, 제멋대로 하는
 arthritis	관절염
 omnivorous	잡식성의
-granary	"곡물 저장고, 곡창"
+granary	곡물 저장고, 곡창
 give way to	~에 굽히다
-enamored	"매혹된, 홀딱 반한, 사랑에 빠진"
+enamored	매혹된, 홀딱 반한, 사랑에 빠진
 titillate	(특히 성적으로) 자극하다
-foreclosure	"담보권 행사, 압류"
-permutation	"순열, 치환"
-stilted	"부자연스러운, 지나치게 격식적인"
-submissive	"순종적인, 고분고분한"
+foreclosure	담보권 행사, 압류
+permutation	순열, 치환
+stilted	부자연스러운, 지나치게 격식적인
+submissive	순종적인, 고분고분한
 at somebody's beck and call	~가 명령만 하면 달려가는
 play-by-play	스포츠 실황 중계
-catch?up?with?somebody	결국 ~의 발목을 잡다
-scythe	"큰 낫, 베다"
-wean	"젖을 떼다, 이유를 시작하다"
+catch up with somebody	결국 ~의 발목을 잡다
+scythe	큰 낫, 베다
+wean	젖을 떼다, 이유를 시작하다
 depredation	약탈
-stratum	"(암석 등의) 층, 지층, 단층"
+stratum	(암석 등의) 층, 지층, 단층
 quarry 	채석장
-make?or?break?something	~의 성패를 좌우하다
-collusion	"공모, 결탁"
-charade	"가식, 위장"
+make or break something	~의 성패를 좌우하다
+collusion	공모, 결탁
+charade	가식, 위장
 lacuna	(글·생각·이론 등에서) 빈틈
-dispassionately	"냉정하게, 공정하게"
-arcane	"신비로운, 불가사의한"
+dispassionately	냉정하게, 공정하게
+arcane	신비로운, 불가사의한
 corral	(말이나 소를) 울타리 안으로 몰아넣다
 procreate	아이를 낳다
 castration 	거세
 gouge	(난폭하게) 찌르다
 in lieu of	~대신에
 net worth	순자산
-to the hilt	"최대한, 최대로"
-stave off	"비키다, 피하다, 간신히 모면하다"
+to the hilt	최대한, 최대로
+stave off	비키다, 피하다, 간신히 모면하다
 to taste	입맛에 따라 (필요한 양 만큼)
 swear off	(술·담배 따위)를 맹세하고 끊다
-deciduous	"매년 잎이 떨어지는, 낙엽성의"
+deciduous	매년 잎이 떨어지는, 낙엽성의
 coniferous	침엽수
-profuse	"많은, 다량의"
-partisan	"편파적인, 당파적인, 열렬한 지지자, 게릴라"
+profuse	많은, 다량의
+partisan	편파적인, 당파적인, 열렬한 지지자, 게릴라
 perdition	영원히 계속되는 벌
 symbiosis	공생
 interloper	침입자
 domicile	거주지
 artefact	인공물
-frenetic	"정신없이 바쁘게 돌아가는, 부산한"
+frenetic	정신없이 바쁘게 돌아가는, 부산한
 strife 	갈등
 transpire	알고 보니 ~이다
 altruistic	이타적인
 inextricably	불가분하게
 drudgery 	힘들고 단조로운 일
 flaunt 	과시하다
-faux	"모조의, 가짜의"
+faux	모조의, 가짜의
 debutante	처음 사교계에 나가는 상류층 여성
-incongruity	"어울리지 않음, 부조화"
+incongruity	어울리지 않음, 부조화
 assiduously	부지런히
-purgatory	"연옥, 지옥"
+purgatory	연옥, 지옥
 fiscal soundness	재정 건전성
-yardstick	"기준, 척도"
-shoddy	"조잡한, 부정직한, 부당한"
-tout	"장점을 내세우다, 광고하다"
-ironclad	"이의를 제기할 수 없는, 변경할 수 없는"		
+yardstick	기준, 척도
+shoddy	조잡한, 부정직한, 부당한
+tout	장점을 내세우다, 광고하다
+ironclad	이의를 제기할 수 없는, 변경할 수 없는		
 acquiesce	묵인하다
 bayonet	총검
 take into account	~을 고려하다
@@ -1439,399 +1436,399 @@ equivocation	얼버무리기
 torchbearer	계몽가
 antithesis	반대(되는 것)
 quotient	(나눗셈에서) 몫
-extravagance	"낭비, 사치"
-deleterious	"해로운, 유해한"
-hellacious	"뛰어난, 무서운, 만만치 않은, 심한"
-assuage	"누그러뜨리다, 달래다"
-outlandish 	"이상한, 기이한"
-brittle	"잘 부러지는, 불안정한"
-elusive	"찾기 힘든, 달성하기 힘든"
+extravagance	낭비, 사치
+deleterious	해로운, 유해한
+hellacious	뛰어난, 무서운, 만만치 않은, 심한
+assuage	누그러뜨리다, 달래다
+outlandish 	이상한, 기이한
+brittle	잘 부러지는, 불안정한
+elusive	찾기 힘든, 달성하기 힘든
 linchpin	핵심이 되는 인물(것)
-roadblock	"바리케이드, 장애물"
-hefty	"장대한, 크고 무거운"
-flashpoint	"일촉즉발의 상황, (비유적) 화약고"
+roadblock	바리케이드, 장애물
+hefty	장대한, 크고 무거운
+flashpoint	일촉즉발의 상황, (비유적) 화약고
 porpoise	알락돌고래
 auditory	청각의
-subsequent	"그 다음의, 차후의"
+subsequent	그 다음의, 차후의
 construe	~을 (~으로) 이해하다
 ascribe	~의 탓으로 돌리다
 trapeze	(특히 서커스 곡예용) 공중 그네
 buxom	(가슴이) 풍만한
 affirmative action	(인종·남녀 차별 등으로 인한) 사회적 약자 우대 정책
-illustrious	"저명한, 걸출한"
+illustrious	저명한, 걸출한
 trait	(성격상의) 특성
 likeability	호감도
-moat	"호, 해자(성 주위에 둘러 판 못)"
-corroborate	"제공하다, 입증하다"
-tenuous	"미약한, 보잘것없는"
+moat	호, 해자(성 주위에 둘러 판 못)
+corroborate	제공하다, 입증하다
+tenuous	미약한, 보잘것없는
 entrust	(일을) 맡기다
 chum with a person	친구가 되다
-innocuously	"무해하여, 무독하여"
-bilk	"(특히 돈을) 사취하다, (사람을) 속이다"
+innocuously	무해하여, 무독하여
+bilk	(특히 돈을) 사취하다, (사람을) 속이다
 malign	(공개적으로) 비방하다
 wedlock	결혼
-bellyache	"투덜거리다, 불평을 해대다"
-irregularity	"변칙, 부정, 이상, 부조리"
+bellyache	투덜거리다, 불평을 해대다
+irregularity	변칙, 부정, 이상, 부조리
 anti-graft	뇌물 방지
-illicitly	"위법으로, 무면허로"
-lofty	"아주 높은, 고귀한, 고결한, 오만한"
+illicitly	위법으로, 무면허로
+lofty	아주 높은, 고귀한, 고결한, 오만한
 cuneiform	설형문자
-exalted 	"(지위·계급 등이) 높은, 고위층의"
+exalted 	(지위·계급 등이) 높은, 고위층의
 hieroglyphic	상형 문자
-inexorably	"냉혹하게, 가차없이"
-cane	"회초리로 때리다, (대나무처럼 속이 빈) 줄기"
+inexorably	냉혹하게, 가차없이
+cane	회초리로 때리다, (대나무처럼 속이 빈) 줄기
 toil	힘들게 일하다
 efficacy 	(특히 약이나 치료의) 효험
-rigor	"엄함, 엄격, 준엄"
-pulverize	"가루로 만들다, 분쇄하다"
-banality	"따분함, 시시한 말"
-incognito	"자기 신분을 숨기고, 가명으로"
+rigor	엄함, 엄격, 준엄
+pulverize	가루로 만들다, 분쇄하다
+banality	따분함, 시시한 말
+incognito	자기 신분을 숨기고, 가명으로
 Born and Bred	나고 자란
-provenance	"기원, 출처, 유래"
+provenance	기원, 출처, 유래
 cacophony	불협화음
-prowess	"(절묘한) 기량, 솜씨"
+prowess	(절묘한) 기량, 솜씨
 sow one’s wild oats	난봉을 피우고 다니다
-cadre	"간부단, 핵심 그룹"
+cadre	간부단, 핵심 그룹
 consecrate	축성하다
-indolence 	"게으름, 나태"
-ordain	"(성직자로) 임명하다, 명하다"
-knead	"(반죽·찰흙 등을) 이기다, 치대다"
-dispense with	"~을 필요없이하다, 면제시키다"
+indolence 	게으름, 나태
+ordain	(성직자로) 임명하다, 명하다
+knead	(반죽·찰흙 등을) 이기다, 치대다
+dispense with	~을 필요없이하다, 면제시키다
 acumen	(일에 대한) 감각
 asinine	터무니없는
-encompass	"포함하다, 에워싸다"
-provisional	"임시의, 일시적인, 잠정적인"
-repatriate	"본국으로 송환하다, 본국으로 송금하다"
-ratify	"비준하다, 재가하다"
-celiac	"배의, 복강(腹腔)의"
+encompass	포함하다, 에워싸다
+provisional	임시의, 일시적인, 잠정적인
+repatriate	본국으로 송환하다, 본국으로 송금하다
+ratify	비준하다, 재가하다
+celiac	배의, 복강(腹腔)의
 omnivore	잡식 동물
 elucidate	(더 자세히) 설명하다
 measly	쥐꼬리만한
 subvert 	(체제를) 전복시키다
-perfunctory	"형식적인, 의무적인"
-awash	"물에 뒤덮인, (양이 많아서) 넘쳐 나는"
-gluttonous	"게걸들린, 많이 먹는, 탐욕스러운"
+perfunctory	형식적인, 의무적인
+awash	물에 뒤덮인, (양이 많아서) 넘쳐 나는
+gluttonous	게걸들린, 많이 먹는, 탐욕스러운
 congenitally	선천적으로
-effervescent 	"열광하는, 기운이 넘치는"
-prognosis	"예후(豫後), 예상, 예측"
-lecherous	"색을 밝히는, 호색의"
-primordial	"태고의, 원시 시대부터의, 원시적인, 원초적인"
+effervescent 	열광하는, 기운이 넘치는
+prognosis	예후(豫後), 예상, 예측
+lecherous	색을 밝히는, 호색의
+primordial	태고의, 원시 시대부터의, 원시적인, 원초적인
 forestall	미연에 방지하다
-eunuch	"환관, 거세당한 사람"
+eunuch	환관, 거세당한 사람
 despot	폭군
-salutary	"유익한, 효과가 좋은"
-conformity	"(규칙·관습 등에) 따름, 순응"
+salutary	유익한, 효과가 좋은
+conformity	(규칙·관습 등에) 따름, 순응
 collegiate	대학의
-erode	"침식시키다, 약화시키다"
-expedient	"방편, 처방, 방책, 편리한"
-pious	"경건한, 독실한"
+erode	침식시키다, 약화시키다
+expedient	방편, 처방, 방책, 편리한
+pious	경건한, 독실한
 strike a chord	심금을 울리다
 dissolute	방종한
-asunder	"산산이, 뿔뿔이"
+asunder	산산이, 뿔뿔이
 imperious	고압적인
 aphorism	경구(警句)
-paleontology	"고생물학, 화석학"
+paleontology	고생물학, 화석학
 behemoth	거대 기업
-grille	"(보호·방범용) 창살, 안전망"
+grille	(보호·방범용) 창살, 안전망
 precipice	벼랑
-ilk	"종류, 동류"
-bellicosely	"호전적으로, 투쟁적으로"
+ilk	종류, 동류
+bellicosely	호전적으로, 투쟁적으로
 palliative	일시적인 처방
 ramifications	(파생한) 결과
 platitude	진부한 이야기
-discourse	"담론, 담화"
-effeminacy	"여자 같음, 나약, 연약, 우유부단"
-paragon	"귀감, 모범"
-virility	"(남성의) 정력, 힘, 에너지"
-dreary	"음울한, 따분한"
-laurel	"월계수, 월계관"
-patriarchal	"가부장제의, 가부장적인"
+discourse	담론, 담화
+effeminacy	여자 같음, 나약, 연약, 우유부단
+paragon	귀감, 모범
+virility	(남성의) 정력, 힘, 에너지
+dreary	음울한, 따분한
+laurel	월계수, 월계관
+patriarchal	가부장제의, 가부장적인
 theologian	신학자
 clout	영향력
-syndicate	"신디케이트, 연합체"
-don	"우두머리, 두목"
-misgiving	"의혹, 불안감"
+syndicate	신디케이트, 연합체
+don	우두머리, 두목
+misgiving	의혹, 불안감
 din	(오래 계속되는 크고 불쾌한) 소음
 cloaked in secrecy	비밀로 묻혀있는
 morsel	(특히 음식의) 작은 양
 nonagenarian	(나이가) 90대인 사람
-patron	"후원자, 홍보 대사, 고객"
+patron	후원자, 홍보 대사, 고객
 equestrian	승마의
-mausoleum	"(중요 인물·가문의) 묘, 능"
+mausoleum	(중요 인물·가문의) 묘, 능
 nebula	성운(星雲)
 analogous	유사한
-daunting	"벅찬, 주눅이 들게 하는"
-harrowing	"끔찍한, 참혹한"
+daunting	벅찬, 주눅이 들게 하는
+harrowing	끔찍한, 참혹한
 menagerie	(동물쇼 등을 위해 모아 놓은) 야생 동물들
-malleable	"영향을 잘 받는, 잘 변하는"
+malleable	영향을 잘 받는, 잘 변하는
 geriatric	노인병학
-innocuous	"악의 없는, 무해한, 위험하지 않은"
-instill	"스며들게 하다, 서서히 주입시키다"
+innocuous	악의 없는, 무해한, 위험하지 않은
+instill	스며들게 하다, 서서히 주입시키다
 get back at	~에게 앙갚음하다
-demote	"강등시키다, 좌천시키다"
-complacency	"현 상태에 만족함, 안주"
+demote	강등시키다, 좌천시키다
+complacency	현 상태에 만족함, 안주
 raffle	래플(특정 프로젝트기관의 기금 모금을 위한 복권)
 centrist	중도주의자
 Asset Value	(1주당) 자산 가치
-endemic	"고유의, 고질적인, 풍토적인"
-arduous	"몹시 힘든, 고된"
-contraption	"(기묘한) 기계, 장치"
+endemic	고유의, 고질적인, 풍토적인
+arduous	몹시 힘든, 고된
+contraption	(기묘한) 기계, 장치
 gantry	(기둥 모양의) 갠트리 기중기
-trawl	"대대적으로 조사하다, 샅샅이 훑다"
-when push comes to shove	"어쩔 수 없게 되면, 다른 수가 없게 되면"
+trawl	대대적으로 조사하다, 샅샅이 훑다
+when push comes to shove	어쩔 수 없게 되면, 다른 수가 없게 되면
 patriarchy	가부장제
 nemesis	천벌
 negligible	무시해도 될 정도의
-clemency	"(처벌 대상에 대한) 관용, 관대한 처분"
-empirical	"경험에 의거한, 실증적인"
-ordnance	"포, 대포, 군수품"
+clemency	(처벌 대상에 대한) 관용, 관대한 처분
+empirical	경험에 의거한, 실증적인
+ordnance	포, 대포, 군수품
 snide	(은근히) 헐뜯는
 landlocked	육지에 둘러싸인
 pique	불쾌하게 하다
-amenable	"말을 잘 듣는, ~을 잘 받아들이는"
+amenable	말을 잘 듣는, ~을 잘 받아들이는
 dicker	흥정하다
 extricate	해방되다
 immemorial	태곳적부터의
-minstrel	"(중세의) 음악가, 음유 시인"
-catch-22	"부조리한 상황, 딜레마, 진퇴양난의 상태"
-tripartite	"3부로 된, 3자로 이뤄진"
+minstrel	(중세의) 음악가, 음유 시인
+catch-22	부조리한 상황, 딜레마, 진퇴양난의 상태
+tripartite	3부로 된, 3자로 이뤄진
 face-off	대결
 fraught with	투성이인
-protract	"(시간을) 오래 끌다, 길게 하다, 연장하다"
+protract	(시간을) 오래 끌다, 길게 하다, 연장하다
 smarmy	(진실성은 없이) 지나치게 나긋나긋한
-complicit	"연루된, 공모한"
-revulsion	"혐오감, 역겨움"
-pliable	"유연한, 순응적인"
+complicit	연루된, 공모한
+revulsion	혐오감, 역겨움
+pliable	유연한, 순응적인
 lump sum	일시불(로 지불하는 금액)
-accelerant	"촉진제, 촉매"
+accelerant	촉진제, 촉매
 rove	방랑하다
 hone 	(특히 기술을) 연마하다
-dynamism	"활력, 패기"
-pugnaciously	"싸움을 좋아하여 , 호전적으로"
+dynamism	활력, 패기
+pugnaciously	싸움을 좋아하여 , 호전적으로
 inculcate	심어 주다
-girth	"허리둘레, 둘레 치수"
-lurid	"(색깔이) 야한, 충격적인, 끔찍한"
+girth	허리둘레, 둘레 치수
+lurid	(색깔이) 야한, 충격적인, 끔찍한
 stranglehold	목 조르기
-implicitly	"암암리에, 함축적으로"
-cornerstone	"초석, 초대, 기초"
-tithe	"(과거 교회를 후원하기 위해 내던) 십일조 세금, 십일조 헌금"
-ravenous	"배가 고파 죽을 지경인, 엄청난"
+implicitly	암암리에, 함축적으로
+cornerstone	초석, 초대, 기초
+tithe	(과거 교회를 후원하기 위해 내던) 십일조 세금, 십일조 헌금
+ravenous	배가 고파 죽을 지경인, 엄청난
 besmirch	(평판 등을) 더럽히다
-apogee	"정점, 절정"
-idiosyncrasy	"특이한 성격, 성벽"
+apogee	정점, 절정
+idiosyncrasy	특이한 성격, 성벽
 bottle it	(겁이 나서) 그만두다
 impugn	의문을 제기하다
 lambast	(특히 공개적으로) 맹공격하다
 ineptitude	기량 부족
-virtuous	"도덕적인, 고결한"
+virtuous	도덕적인, 고결한
 hasten	서둘러 하다
-legislation	"제정법, 법률의 제정, 입법 행위"
+legislation	제정법, 법률의 제정, 입법 행위
 vanquish	(경쟁·전쟁 등에서) 완파하다
-paean	"찬가, 승리의 노래"
+paean	찬가, 승리의 노래
 extol	극찬하다
 litigation	소송
 proclivity	성향
-hocus-pocus	"진실을 호도하는 말, 간교한 말장난"
+hocus-pocus	진실을 호도하는 말, 간교한 말장난
 sacrilege	신성 모독
-zilch	"무(無), 영(零)"
-consistent	"한결같은, 일관된"
+zilch	무(無), 영(零)
+consistent	한결같은, 일관된
 arbiter	결정권자
 autocratic	독재적인
-puny	"작고 연약한, 보잘것없는"
-potpourri	"(여러 가지를) 혼합한 것, 포푸리(말린 꽃)"
+puny	작고 연약한, 보잘것없는
+potpourri	(여러 가지를) 혼합한 것, 포푸리(말린 꽃)
 lexicon	(특정 언어·분야·개인·집단에서 사용하는 모든) 어휘
 fizzled out	흐지부지되다
-vicious	"잔인한, 포악한, 악랄한"
+vicious	잔인한, 포악한, 악랄한
 plunder	약탈하다
-posterity	"후세, 후대"
-approbation	"승인, 찬성"
+posterity	후세, 후대
+approbation	승인, 찬성
 presumption	추정
 goad	못살게 굴다
-paltry	"보잘것없는, 쥐꼬리만한"
+paltry	보잘것없는, 쥐꼬리만한
 armistice	휴전
-hold a person accountable for	"~의 책임을 남에게 뒤집어씌우다, 책임이 남에게 있다고 하다"
+hold a person accountable for	~의 책임을 남에게 뒤집어씌우다, 책임이 남에게 있다고 하다
 paralysis	마비
-gross	"총(總), 중대한"
+gross	총(總), 중대한
 net	순(純)
-penal	"처벌의, 형벌의"
+penal	처벌의, 형벌의
 proprietor	(사업체·호텔 등의) 소유주
-catapult	"새총, 투석기, 내던지다"
-surrogate	"대리의, 대용의"
+catapult	새총, 투석기, 내던지다
+surrogate	대리의, 대용의
 squalor	불결한 상태
 bauble	싸구려 보석
-bedeck	"장식하다, 꾸미다"
+bedeck	장식하다, 꾸미다
 strive for	~을 얻으려고 노력하다
-zonk	"(마약·술에) 취하다, 몽롱하다"
+zonk	(마약·술에) 취하다, 몽롱하다
 commiserate	위로를 표하다
 skew	왜곡하다
-armchair	"(책이나 텔레비전 등을 통해) 간접적으로 아는, (실제는 모르는) 탁상공론식의"
+armchair	(책이나 텔레비전 등을 통해) 간접적으로 아는, (실제는 모르는) 탁상공론식의
 mean well	(결과는 좋지 않을지 몰라도) 선의를 지니고 있다
 heal the breach	화해시키다
-crippler	"지체 부자유자 , 불구자"
+crippler	지체 부자유자 , 불구자
 debilitate	약화시키다
 impetus	자극(제)
-canvass	"유세를 하다, (여론·의견을) 조사하다"
-uncouth	"무례한, 상스러운"
-flaccid	"축 늘어진, 탄력 없는"
+canvass	유세를 하다, (여론·의견을) 조사하다
+uncouth	무례한, 상스러운
+flaccid	축 늘어진, 탄력 없는
 flounder	허둥대다
 incarnation	화신
-lingua franca	"국제어, 공통어"
-divest	"(옷을) 벗다, 없애다"
-mutilation	"절단, 불구"
+lingua franca	국제어, 공통어
+divest	(옷을) 벗다, 없애다
+mutilation	절단, 불구
 supranational	초국가적인
-austerity	"내핍 상태, 금욕적임, 엄격함"
+austerity	내핍 상태, 금욕적임, 엄격함
 atonement	속죄
 waterboarding	물고문
 hubris	자만심
 alacrity	아주 기꺼이
-fillip	"자극제, 활력소"
-referendum	"국민 투표, 총선거"
+fillip	자극제, 활력소
+referendum	국민 투표, 총선거
 unleash	촉발시키다
-flatulent	"허풍스런, 배에 가스가 찬"
-viscous	"끈적거리는, 점성이 있는"
-tailwind	"뒤에서 부는 바람, 순풍"
+flatulent	허풍스런, 배에 가스가 찬
+viscous	끈적거리는, 점성이 있는
+tailwind	뒤에서 부는 바람, 순풍
 impervious	~에 영향받지 않는
 howitzer	곡사포
-aficionado	"광(狂), 마니아"
+aficionado	광(狂), 마니아
 compatriot	동포
 interment	(죽은 사람의) 매장
 incite	선동하다
-excrement	"대변, 배설물"
+excrement	대변, 배설물
 insidious 	서서히 퍼지는
-pilfer	"조금씩 빼돌리다, 좀도둑질을 하다"
-excrete	"배설하다, 분비하다"
+pilfer	조금씩 빼돌리다, 좀도둑질을 하다
+excrete	배설하다, 분비하다
 wallow	뒹굴다
-exalt	"승격시키다, 칭찬하다"
-caprice	"갑작스러운 변화, 변덕"
-aegis	"(Zeus 신이 딸 Athena 신에게 주었다는) 방패, 보호"
-animism	"정령 신앙, 우주 만물에 영혼이 있다는 믿음"
+exalt	승격시키다, 칭찬하다
+caprice	갑작스러운 변화, 변덕
+aegis	(Zeus 신이 딸 Athena 신에게 주었다는) 방패, 보호
+animism	정령 신앙, 우주 만물에 영혼이 있다는 믿음
 ewe	암양
-fecundity	"생산력, (동물의 암컷의) 생식력"
-stature	"지명도, 위상"
-cookie-cutter	"별 특징이 없는, 비슷비슷한"
+fecundity	생산력, (동물의 암컷의) 생식력
+stature	지명도, 위상
+cookie-cutter	별 특징이 없는, 비슷비슷한
 matriarchal	모계 중심의
-rogue	"악당, 독자적으로 행동하는"
+rogue	악당, 독자적으로 행동하는
 take a hit	타격을 입다
 celibate	성관계를 안 한
-stall	"멎다, (갑자기) 시동이 꺼지다"
+stall	멎다, (갑자기) 시동이 꺼지다
 cog 	톱니
 mercenary	용병
-furtherance	"발전, 진척"
-ramification	"파문, 영향"
+furtherance	발전, 진척
+ramification	파문, 영향
 transfigure	변모시키다
 congregation	신자들
 pertain to	~와 관계가 있다
-downtime	"한가한 시간, 휴식 시간"
+downtime	한가한 시간, 휴식 시간
 pummel	(특히 주먹으로) 계속 치다
 Idolatry	우상 숭배
-morass	"늪, 난국"
-pantheon	"(한 국가·민족의 모든) 신들, (국가의 위인들을 모신) 사원"
+morass	늪, 난국
+pantheon	(한 국가·민족의 모든) 신들, (국가의 위인들을 모신) 사원
 evangelize	전도하다
 quid pro quo	보상으로 주는 것
-scrupulous	"세심한, 꼼꼼한, 양심적인"
+scrupulous	세심한, 꼼꼼한, 양심적인
 crypt	(특히 과거 묘지로 쓰이던 교회) 지하실
-orthodox	"정통의, 전통적인"
+orthodox	정통의, 전통적인
 interment	(죽은 사람의) 매장
-mausoleum	"(중요 인물·가문의) 묘, 능"
-forge	"구축하다, 대장간"
+mausoleum	(중요 인물·가문의) 묘, 능
+forge	구축하다, 대장간
 cushy	수월한
 acclimate	익숙해지다
 asymptomatic	증상이 없는
 allegiance	충성
-huckster	"강매하는 상인, 행상꾼"
-detente	"긴장 완화, 관계 개선"
+huckster	강매하는 상인, 행상꾼
+detente	긴장 완화, 관계 개선
 invective	욕설
 Zeitenwende	시대의 전환
 tectonic	(지질) 구조상의
 agnostic	불가지론자
 brimstone	유황
-errant	"(행동이) 잘못된, 바람을 피우는"
+errant	(행동이) 잘못된, 바람을 피우는
 impasse	교착 상태
-accrue	"누적되다, 축적되다"
+accrue	누적되다, 축적되다
 avowal	맹세
-saber-rattling	"무력의 과시, 전쟁의 위기"
+saber-rattling	무력의 과시, 전쟁의 위기
 rapprochement	(두 국가·단체 사이의) 화해
 rile	(사람을) 귀찮게 하다
 chastise	꾸짖다
 percolate	스며들다
-figment	"꾸며낸 것, 허구"
+figment	꾸며낸 것, 허구
 bovine	소의
-metamorphosis	"탈바꿈, 변형, 변태"
-forsake	"저버리다, 버리다"
-crucible	"(쇳물을 녹이거나 하는) 도가니, 호된 시련의 장"
+metamorphosis	탈바꿈, 변형, 변태
+forsake	저버리다, 버리다
+crucible	(쇳물을 녹이거나 하는) 도가니, 호된 시련의 장
 nirvana	열반
-fulcrum	"(지렛대의) 받침점, 지렛목, 지주"
+fulcrum	(지렛대의) 받침점, 지렛목, 지주
 aground	배가 좌초되어
 give the third degree	~에게 질문을 퍼붓다
-nefarious	"범죄의, 비도덕적인"
-spurious	"거짓된, 겉으로만 그럴싸한"
-ascension	"예수의 승천, 오름, 승진"
+nefarious	범죄의, 비도덕적인
+spurious	거짓된, 겉으로만 그럴싸한
+ascension	예수의 승천, 오름, 승진
 secularism	세속주의
-theist	"유신론자, 일신론자"
+theist	유신론자, 일신론자
 fervour	열정
-semantic	"의미의, 의미론적인"
-edict	"포고령, 칙령"
-give short shrift to	"~을 지체없이 처치하다, 가차없이 다루다"
-chaplain	"사제, 목사"
+semantic	의미의, 의미론적인
+edict	포고령, 칙령
+give short shrift to	~을 지체없이 처치하다, 가차없이 다루다
+chaplain	사제, 목사
 commissar	(특히 과거 소련 공산당의) 정치 위원
 heresy	이단
 expound	자세히 설명하다
-sanctity	"존엄성, 신성함"
+sanctity	존엄성, 신성함
 reconnaissance	(군사적인 목적의) 정찰
-dependence	"의존, 의지"
+dependence	의존, 의지
 cede	양도하다
 misconstrue	오해하다
 Hindsight Fallacy	사후확신 오류
 adherent	지지자
-esoteric	"소수만 이해하는, 비전(秘傳)의"
-castigate	"크게 책망하다, 혹평하다"
+esoteric	소수만 이해하는, 비전(秘傳)의
+castigate	크게 책망하다, 혹평하다
 grandiose	(너무) 거창한
 estuary	(강이 바다로 흘러들어 가는) 어귀
-optimum	"최고의, 최적의"
-memetic	"관습적인, 전통적인"
-irrespective	"~을 돌아보지 않고, ~을 무시하고"
-disdain	"업신여김, 무시, 무시하다"
-whimsical	"? 엉뚱한, 기발한"
+optimum	최고의, 최적의
+memetic	관습적인, 전통적인
+irrespective	~을 돌아보지 않고, ~을 무시하고
+disdain	업신여김, 무시, 무시하다
+whimsical	? 엉뚱한, 기발한
 societal	사회의
-notably	"특히, 현저히, 뚜렷이"
-jump the gun	"섣불리 행동하다, 경솔하게 행동하다"
+notably	특히, 현저히, 뚜렷이
+jump the gun	섣불리 행동하다, 경솔하게 행동하다
 take the bitter with the sweet	고락을 함께 받아들이다
 heart and soul	열과 성을 다해
-luster	"광택, 윤, 영광"
+luster	광택, 윤, 영광
 arid	매우 건조한
 codex	고문서
 cityscape	도시 경관
-insolvency	"지불 불능, 채무 초과, 파산"
-travail	"고생, 고역"
+insolvency	지불 불능, 채무 초과, 파산
+travail	고생, 고역
 obfuscation	불명료화
-bratty	"건방진, 주제넘은"
-regurgitated	"역류시키다, 반복하다"
+bratty	건방진, 주제넘은
+regurgitated	역류시키다, 반복하다
 pollster	여론 조사 요원
-aforementioned	"앞서 언급한, 전술한"
-in question	"문제의, 의심스러운"
+aforementioned	앞서 언급한, 전술한
+in question	문제의, 의심스러운
 gratuity	팁
-erratic	"불규칙한, 일정치 않은, 변덕스러운"
-languish	"머물다, 겪다"
+erratic	불규칙한, 일정치 않은, 변덕스러운
+languish	머물다, 겪다
 insurrection	반란 사태
-intone	"말하다, 읊조리다"
-at the discretion of	"~의 재량대로, 좋을대로"
+intone	말하다, 읊조리다
+at the discretion of	~의 재량대로, 좋을대로
 suffice to say	~라고만 해도 충분할 것이다
-rudimentary	"가장 기본적인, 기초 적인"
-elixir	"영약, 묘약"
+rudimentary	가장 기본적인, 기초 적인
+elixir	영약, 묘약
 evince	분명히 밝히다
-inaction 	"활동 부족, 무대책"
+inaction 	활동 부족, 무대책
 prude	(성적인 것과 관련해서)내숭을 떠는 사람
-lynchpin	"핵심이 되는 인물, 핵심이 되는 것"
+lynchpin	핵심이 되는 인물, 핵심이 되는 것
 ad-hoc	즉석(에서 마련된)
 ad nauseam	지겹도록
 treasure trove	매장물
-unmet	"충족되지 않는, 채워지지 않는"
+unmet	충족되지 않는, 채워지지 않는
 litigious	소송을 일삼는
-larceny	"절도, 도둑질"
+larceny	절도, 도둑질
 stratosphere	성층권
 deprave	타락하게 만들다
 batten down the hatches	위기에 대비하다
-poshness	"우아함 , 호화로움"
+poshness	우아함 , 호화로움
 reflexive	재귀 용법의
 double-entendre	이중적 의미를 갖는 어구
 ingratiate	환심을 사다
@@ -1840,15 +1837,15 @@ onus	책임
 blather	계속 지껄이다
 purveyor	조달업자
 concur	동의하다
-flaccidity	"연약, 맥없음, 무기력"
-modus operandi	"방식, 절차"
+flaccidity	연약, 맥없음, 무기력
+modus operandi	방식, 절차
 subterfuge	속임수
 all but	거의
-heavy-handed	"가혹한, 냉정한"
-exigent	"위급한, 급박한"
-stakeholder	"이해 당사자, 주주"
-anoint	"성유를 바르다, 성수를 바르다"
-vex	"성가시게하다, 짜증나게하다"
+heavy-handed	가혹한, 냉정한
+exigent	위급한, 급박한
+stakeholder	이해 당사자, 주주
+anoint	성유를 바르다, 성수를 바르다
+vex	성가시게하다, 짜증나게하다
 putrefaction	(특히 시체의) 부패
 quandary	진퇴양난
 diaspora	디아스포라(다른 나라에서 살며 일하기 위한 유대인들의 이동)
@@ -1856,20 +1853,20 @@ dignitary	고위 관리
 epiphany	예수 공현
 reconnoitre	(특히 군사적인 목적으로) 정찰하다
 scurvy	괴혈병
-wussy	"겁쟁이, 여자 같은 남자"
-milquetoast	"대가 약한 남자, 변변치 못한 남자"
-hothouse 	"온실, 온상"
+wussy	겁쟁이, 여자 같은 남자
+milquetoast	대가 약한 남자, 변변치 못한 남자
+hothouse 	온실, 온상
 aegis	(Zeus 신이 딸 Athena 신에게 주었다는) 방패
-usurpation	"강탈, 탈취"
+usurpation	강탈, 탈취
 environs	주변 (지역)
-virulence	"독성, 병독성"
+virulence	독성, 병독성
 dawdle	꾸물거리다
-emissary	"사절, 특사"
-edifice	"(크고 인상적인) 건물, 조직, 체계"
+emissary	사절, 특사
+edifice	(크고 인상적인) 건물, 조직, 체계
 prise	(무엇을 분리시키기 위해 억지로) 비틀다
-wherewithal	"(무엇을 하는 데 필요한) 돈, 수단, 기술"
-colossus	"대단히 중요한 사람(것), 거인"
-regale	"융숭하게 대접하다, 맘껏 즐기게 하다"
+wherewithal	(무엇을 하는 데 필요한) 돈, 수단, 기술
+colossus	대단히 중요한 사람(것), 거인
+regale	융숭하게 대접하다, 맘껏 즐기게 하다
 bronco	(미국 서부의) 야생마
 antipathy	(강한) 반감
 rest on your laurels	이미 성취한 것에 안주하다
@@ -1877,13 +1874,13 @@ fanaticism	광신
 misogyny	여자를 싫어함
 foment	(문제·폭력을) 조장하다
 souse	(액체 속에) 푹 담그다
-stupendous	"엄청나게 큰, 거대한"
-impecunious	"동전 한 푼 없는, 무일푼의"
+stupendous	엄청나게 큰, 거대한
+impecunious	동전 한 푼 없는, 무일푼의
 scullery	부엌방
-neuter	"거세하다, 중성의"
+neuter	거세하다, 중성의
 postpartum	산후의
-in a nutshell	"아주 분명히, 간단명료하게"
-despoil	"(어떤 장소에서 귀중한 것을) 빼앗다, 훼손하다"
-ad infinitum	"끝도 없이, 무한정"
+in a nutshell	아주 분명히, 간단명료하게
+despoil	(어떤 장소에서 귀중한 것을) 빼앗다, 훼손하다
+ad infinitum	끝도 없이, 무한정
 panache	위풍당당
 inculcate	심어 주다
