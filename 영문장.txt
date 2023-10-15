@@ -1,0 +1,545 @@
+나는 학생입니다.  I am a student.  Level1
+우리는 배우입니다.  We are actors.  Level1
+당신은 음악가입니다.  You are a musician.  Level1
+당신들은 사서입니다.  You are librarians.  Level1
+여러분은 사서입니다.  You are librarians.  Level1
+그는 배우입니다.  He is an actor.  Level1
+그녀는 배우입니다.  She is an actress.  Level1
+그들은 가수입니다.  They are singers.  Level1
+나는 의사입니까?  Am I a doctor?  Level1
+우리는 의사입니까?  Are we doctors?  Level1
+당신은 치과의사입니까?  Are you a dentist?  Level2
+당신들은 택시 운전사입니까?  Are you taxi drivers?  Level2
+여러분은 버스 운전사입니까?  Are you bus drivers?  Level2
+그는 군인입니까?  Is he a soldier?  Level2
+그녀는 간호사입니까?  Is she a nurse?  Level2
+그들은 군인입니까?  Are they soldiers?  Level2
+나는 도둑이었습니다.  I was a thief.  Level2
+우리는 도둑이었습니다.  We were thieves.  Level2
+당신은 조정사였습니다.  You were a pilot.  Level2
+당신들은 승무원이었습니다.  You were flight attendants.  Level2
+여러분은 승무원이었습니다.  You were flight attendants.  Level3
+그는 경찰이었습니다.  He was a police officer.  Level3
+그녀는 경찰이었습니다.  She was a police officer.  Level3
+그들은 공무원이었습니다.  They were civil servants.  Level3
+나는 요리사였습니까?  Was I a cook?  Level3
+우리는 모델이었습니까?  Were we models?  Level3
+당신은 요리사였습니까?  Were you a cook?  Level3
+당신들은 여행사 직원이었습니까?  Were you travel agents?  Level3
+여러분은 미용사였습니까?  Were you hairdressers?  Level3
+그는 주방장(요리사)이었습니까?  Was he a chef?  Level3
+그녀는 주방장(요리사)였습니까?  Was she a chef?  Level4
+그들은 기술자였습니까?  Were they engineers?  Level4
+나는 거기에 갑니다.  I go there.  Level4
+우리는 거기에 갑니다.  We go there.  Level4
+당신은 거기에 갑니다.  You go there.  Level4
+당신들은 거기에 갑니다  You go there.  Level4
+여러분은 거기에 갑니다.  You go there.  Level4
+그는 거기에 갑니다.  He goes there.  Level4
+그녀는 거기에 갑니다.  She goes there.  Level4
+그들은 거기에 갑니다.  They go there.  Level4
+나는 거기에 갔습니다.  I went there.  Level5
+우리는 거기에 갔습니다.  We went there.  Level5
+당신은 거기에 갔습니다.  You went there.  Level5
+당신들은 거기에 갔습니다.  You went there.  Level5
+여러분은 거기에 갔습니다.  You went there.  Level5
+그는 거기에 갔습니다.  He went there.  Level5
+그녀는 거기에 갔습니다.  She went there.  Level5
+그들은 거기에 갔습니다.  They went there.  Level5
+나는 거기에 갑니까?  Do I go there?  Level5
+우리는 거기에 갑니까?  Do we go there?  Level5
+당신은 거기에 갑니까?  Do you go there?  Level6
+당신은 거기에 갑니까?  Do you go there?  Level6
+여러분은 거기에 갑니까?  Do you go there?  Level6
+그는 거기에 갑니까?  Does he go there?  Level6
+그녀는 거기에 갑니까?  Does she go there?  Level6
+그들은 거기에 갑니까?  Do they go there?  Level6
+나는 거기에 갔습니까?  Did I go there?  Level6
+우리는 거기에 갔습니까?  Did we go there?  Level6
+당신은 거기에 갔습니까?  Did you go there?  Level6
+당신들은 거기에 갔습니까?  Did you go there?  Level6
+여러분은 거기에 갔습니까?  Did you go there?  Level7
+그는 거기에 갔습니까?  Did he go there?  Level7
+그녀는 거기에 갔습니까?  Did she go there?  Level7
+그들은 거기에 갔습니까?  Did they go there?  Level7
+나는 사서가 아닙니다.  I am not a librarian.  Level7
+그는 군인이 아닙니다.  He is not a soldier.  Level7
+그녀는 농부가 아닙니다.  She is not a farmer.  Level7
+그들은 변호사가 아닙니다.  They are not lawyers.  Level7
+나는 사서가 아니었습니다.  I was not a librarian.  Level7
+그는 변호사가 아니었습니다.  He was not a lawyer.  Level7
+그들은 군인이 아니었습니다.  They were not soldiers.  Level8
+나는 내일 떠날 것이다.  I will leave tomorrow.  Level8
+너는 오늘 저녁에 떠날 것이다.  You will leave tonight.  Level8
+그는 모레 떠날 것이다.  He will leave the day after tomorrow.  Level8
+그들은 오늘 떠날 것이다.  They will leave today.  Level8
+너 내일 거기 갈 거니?  Will you go there tomorrow?  Level8
+그녀가 오늘 올 거니?  Will she come today?  Level8
+그들은 내일 떠날 거니?  Will they leave tomorrow?  Level8
+나는 그것을 할 수 있어.  I can do it.  Level8
+너는 그것을 할 수 있어.  You can do it.  Level8
+그녀는 그것을 할 수 있어.  She can do it.  Level9
+그들은 그것을 할 수 있어.  They can do it.  Level9
+내가 그것을 할 수 있을까?  Can I do it?  Level9
+너 그거 할 수 있니?  Can you do it?  Level9
+그가 그것을 할 수 있을까?  Can he do it?  Level9
+나는 그것을 할 수 없어.  I can't do it.  Level9
+너는 그것을 할 수 없어.  You can't do it.  Level9
+당신들은 그것을 할 수 없어.  You can't do it.  Level9
+그녀는 그것을 할 수 없어.  She can't do it.  Level9
+그들은 그것을 할 수 없어.  They can't do it.  Level9
+나는 그것을 할 수 없었어.  I couldn't do it.  Level10
+그는 그것을 할 수 없었어.  He couldn't do it.  Level10
+그들은 그것을 할 수 없었어.  They couldn't do it.  Level10
+나는 그것을 원해.  I want it.  Level10
+그는 그것을 원해.  He wants it.  Level10
+나는 그것을 원하지 않아.  I don't want it.  Level10
+그는 그것을 원하지 않아.  He doesn't want it.  Level10
+그녀는 그것을 원하니?  Does she want it?  Level10
+그들은 그것을 원하니?  Do they want it?  Level10
+너는 그것을 원하니?  Do you want it?  Level10
+출신이 어디세요?(어느나라에서 왔나요?)  Where are you from?  Level11
+그게 어디에 있어요?  Where is it?  Level11
+몇 살이에요?  How old are you?  Level11
+성이 어떻게 되나요?  What is your last name?  Level11
+언제 떠나세요?  When do you leave?  Level11
+당신의 키는 얼마인가요?  How tall are you?  Level11
+어디서 사세요?  Where do you live?  Level11
+영화가 어땠어요?  How was the movie?  Level11
+여행은 어땠어요?  How was your trip.  Level11
+어디서 일하세요?  Where do you work?  Level11
+무엇을 좋아하세요?  What do you like?  Level12
+누구를 좋아하세요?  Who do you like?  Level12
+너 뭐 하니?(뭐 하고있어요?)  What are you doing?  Level12
+당신은 누구입니까?  Who are you?  Level12
+당신의 아버님은 누구인가요?  Who is your father?  Level12
+가장 좋아하는 가수는 누구인가요?  Who is your favorite singer?  Level12
+누가 사무실에 있습니까?  Who is in the office?  Level12
+이것은 무엇입니까?  What is this?  Level12
+가장 좋아하는 음식은 무엇인가요?  What is your favorite food?  Level12
+언제 거기에 갔어요?  When did you go there?  Level12
+얼마에요?  How much is it?  Level13
+너 운전할수 있니  Can you drive?  Level13
+천천히 말해주세요.  Please speak slowly.  Level13
+뭐라고요?  Pardon?  Level13
+이거 주세요.  This one, please.  Level13
+좋은 하루 되세요.  Have a nice day.  Level13
+처음 뵙겠습니다.(만나서 반갑습니다.)  Nice to meet you.  Level13
+천만에요.  You're welcome.  Level13
+물론이죠.  Of course.  Level13
+저기요.(누군가를 부를때)  Excuse me!  Level13
+전화해!  Call me!  Level14
+가자!  Let's go!  Level14
+마시자!  Let's drink!  Level14
+나는 한국사람입니다.  I am Korean.  Level14
+한국사람이세요?  Are you Korean?  Level14
+언제 태어났나요?  When were you born?  Level14
+언제 결혼 하셨어요?  When did you marry?  Level14
+언제 갈 수 있나요?  When can I go?  Level14
+제 책은 어디에 있나요?  Where is my book?  Level14
+안녕하세요?(어떻게 지내요?)  How are you?  Level14
+거기에 어떻게 가나요?  How can I go there?  Level15
+신경쓰지 마세요.  Never mind.  Level15
+어떤 거요?  Which one?  Level15
+저는 담배 안피워요.  I don't smoke  Level15
+담배 피우세요?  Do you smoke?  Level15
+바쁘세요?  Are you busy?  Level15
+바쁘지 않아요.  I'm not busy.  Level15
+잠시만요  Just a moment.  Level15
+맛이 있어요.  It's delicious.  Level15
+도와 드릴까요?  Can I help you?  Level15
+앉으세요.  Please sit down.  Level16
+지금 몇 시인가요?  What time is it now?  Level16
+더워요.(뜨거워요)  It's hot.  Level16
+매워요.  It's hot.  Level16
+내일 봐요.  See you tomorrow.  Level16
+오늘 밤에 봐요.  See you tonight.  Level16
+해 봐도 되나요?  Can I try?  Level16
+전 그렇게 생각하지 않아요.  I don't think so.  Level16
+난 한국에서 왔어요.(출신이에요)  I'm from Korea.  Level16
+그냥 자요.(저녁에 뭐해요의 대답)  I just sleep.  Level16
+담요가 필요해요.  I need a blanket.  Level17
+좀 도와주시겠어요?  Could you help me?  Level17
+몸이 안 좋은데요.  I feel sick.  Level17
+버스가 있어요.(사물의 존재)  There is a bus.  Level17
+그는 아주 유명해요.  He is very famous.  Level17
+이해하시겠어요?  Do you understand?  Level17
+머리가 아파요.  I have a headache.  Level17
+짜요!  It's salty.  Level17
+너무 달아요.  It's too sweet.  Level17
+배가 불러요.  I'm full.  Level17
+배가 고파요.  I'm hungry.  Level18
+아주 중요해요.  It's very important.  Level18
+영어 공부 하세요?  Do you study English?  Level18
+고향이 어디에요?  Where is your hometown?  Level18
+전 주로 TV를 봐요.  I usually watch TV.  Level18
+전 주로 쇼핑하러 가요.  I usually go shopping.  Level18
+전 주로 책을 읽어요.  I usually read books.  Level18
+어려워요.  It's difficult.  Level18
+재미있어요.  It's fun.  Level18
+쉬워요.  It's easy.  Level18
+여기 있습니다.  Here you are.  Level19
+전 상관없어요.  I don't care  Level19
+조용히 해!  Be quiet!  Level19
+감기 걸렸어요.  I have a cold.  Level19
+비가 오나요?  Is it raining?  Level19
+하지 마세요.  Don't do that.  Level19
+저는 초보자입니다.  I'm a beginner.  Level19
+가능한가요?  Is it possible?  Level19
+저쪽이에요.  It's over there.  Level19
+정말 더워요.  It's really hot.  Level19
+정말 추워요.  It's really cold.  Level20
+그녀는 그것을 원하지 않아요.  She doesn't want it.  Level20
+맞춰봐!  Guess!  Level20
+그녀를 아시나요?  Do you know her?  Level20
+결혼 했어요?  Are you married?  Level20
+들리지 않아요.(전화상 등에서)  I can't hear you.  Level20
+좋은 여행이 되세요.  Have a nice trip.  Level20
+너무 비싸요.  It's too expensive.  Level20
+축구를 정말 좋아해요.  I love soccer.  Level20
+만나서 반가웠어요.  Nice meeting you.  Level20
+저는 영어를 잘해요.  I am good at English.  Level21
+여기 제 전화번호 있습니다.  Here's my number.  Level21
+어디 갔었어요?  Where did you go?  Level21
+잘 거에요.  I'm going to bed.  Level21
+그는 한국에서 아주 유명해요.  He is very famous in Korea.  Level21
+앞으로 똑바로 가세요.  Go straight ahead.  Level21
+아직 준비되지 않았어요.  I am not ready yet.  Level21
+날씨가 어때요?  How's the weather?  Level21
+혼자 왔어요?  Are you here alone?  Level21
+이거 누구 책이에요?  Whose book is this?  Level21
+어디 가세요?  Where are you going?  Level22
+귀찮게 해서 미안해요.  Sorry to bother you.  Level22
+철자가 어떻게 되나요?  How do you spell it?  Level22
+그는 부엌에 있어요.  He is in the kitchen.  Level22
+그녀는 저보다 나이가 많아요.  She is older than me.  Level22
+티슈가 좀 필요해요.  I need some tissues.  Level22
+영어로 말씀해 주세요.  Please speak English.  Level22
+약국은 어디 있나요?  Where is the pharmacy?  Level22
+제발 그만해요!  Please stop!  Level22
+걱정하지 마세요!  Don't worry.  Level22
+천천히 하세요.  Take your time.  Level23
+나는 도서관에서 일합니다.  I work in the library  Level23
+배가 아파요.  I have a stomachache.  Level23
+버스가 있나요?  Is there a bus?  Level23
+나는 이거 사고 싶어.  I want to buy this.  Level23
+뭐가 잘못 되었나요?  What's wrong?  Level23
+조용히 해주세요!  Please be quiet!  Level23
+밖에 비가 오나요?  Is it raining outside?  Level23
+얼마나 멀어요?  How far is it?  Level23
+저는 수학을 잘해요.  I am good at math.  Level23
+요리를 잘하세요?  Are you good at cooking?  Level24
+저는 거기 가 봤어요.  I've been there.  Level24
+여기서 먼가요?  Is it far from here?  Level24
+펜 좀 줘!  Give me the pen.  Level24
+제가 몇 살처럼 보여요?  How old do I look?  Level24
+나중에 봐  See you later.  Level24
+강아지 좋아하세요?  Do you like a dog?  Level24
+오늘은 제 생일이에요.  Today is my birthday.  Level24
+주로 뭘 보세요?  What do you usually watch?  Level24
+그는 멋져 보여요.  He looks nice.  Level24
+저는 영어를 잘 못해요.  I am not good at English.  Level25
+저에게 좀 보여 주세요.  Can you show me.  Level25
+핸드폰을 잃어버렸어요.  I lost my cellphone.  Level25
+여기서 그리 멀지 않아요.  It's not too far.  Level25
+무슨 일이에요?  What's the matter?  Level25
+우리 언제 도착하나요?  When do we arrive?  Level25
+곧 돌아 올게요.  I'll be right back.  Level25
+어떻게 지불하실건가요?  How are you paying?  Level25
+저녁 살게요.  I'll pay for dinner.  Level25
+빠르면 빠를수록  As soon as possible.  Level25
+왜 그러셨어요?  Why did you do that?  Level26
+이건 무슨 의미인가요?  What does this mean?  Level26
+어떤 것이 좋은가요(더 나은가요)?  Which one is better?  Level26
+어느 것을 좋아하세요?  Which do you like?  Level26
+뭘 주로 읽으세요?  What do you usually read?  Level26
+전 영화에 관심이 있어요.  I'm interested in movies.  Level26
+전 책 읽는 걸 즐겨요.  I enjoy reading.  Level26
+어젯밤에 뭐했어요?  What did you do last night?  Level26
+물 좀 주시겠어요?  Can I have some water?  Level26
+목이 마르세요?  Are you thirsty?  Level26
+다른 것 필요한 것 없나요?  Do you need anything else?  Level27
+얼마나 걸려요?(시간,거리)  How long does it take?  Level27
+가장 가까운 역은 어디예요?  Where is the nearest station?  Level27
+먼저하세요.(먼저타세요등, 엘리베이터등 줄에서 뒷사람한테 먼저 타라고 할때)  After you.  Level27
+입어 봐도 되나요?  Can I try it on?  Level27
+돼지고기 먹을 수 있으세요?  Can you eat pork?  Level27
+소고기는 못 먹어요.  I can't eat beef.  Level27
+거기에 가자!  Let's go there!  Level27
+서둘러 주세요!  Please hurry up!  Level27
+이분들은 나의 가족이에요.  This is my family.  Level27
+생일 축하합니다!  Happy birthday to you!  Level28
+난 정말 몰라.  I really don't know  Level28
+무슨 요일인가요?  What day is it?  Level28
+전 스포츠 보는 걸 즐겨요.  I enjoy watching sports.  Level28
+전 소설 읽는 걸 즐겨요.  I enjoy reading novels.  Level28
+난 피아노 칠 수 있어요.  I can play the piano.  Level28
+그것을 왜 좋아하세요?  Why do you like it?  Level28
+매우 흥미로워요.  It's so exciting.  Level28
+아주 지겨워요.  It's so boring.  Level28
+이 사람은 제 친구에요.  This is my friend.  Level28
+너무 많아요.(과해요)  That's too much.  Level29
+그는 곧 올거에요.  He's coming soon.  Level29
+어떻게 거기에 가나요?(go사용안함)  How do I get there?  Level29
+그들은 TV를 보고 있어요.  They are watching TV.  Level29
+거기 가지 말자!  Let's not go there!  Level29
+커피드릴까요, 차드릴까요?  Would you like coffee or tea?  Level29
+런던행 인가요?  Is this for London?  Level29
+커피 한잔 주세요.  Can I have a coffee.  Level29
+늦어서 미안해요.  Sorry I am late.  Level29
+나 갈 준비가 됐어.  I'm ready to go.  Level29
+나 시작할 준비됐어.  I'm ready to start.  Level30
+날씨가 걱정돼.  I'm worried about the weather.  Level30
+무엇을 도와 드릴까요?  What can I do for you.  Level30
+몇 월 며칠이에요?  What date is it?  Level30
+잘 지내고 있어?(친구사이)  How's it going?  Level30
+특별한 일 없지?(친구사이 캐쥬얼한 인사말)  What's up?  Level30
+가족들은 안녕하신가요?  How's your family?  Level30
+여가 시간에 뭐해요?  What do you do in your free time?  Level30
+어떤 음악을 좋아해요?  What kind of music do you like?  Level30
+어떤 스포츠들을 좋아해요?  What sports do you like?  Level30
+사진을 찍어 주시겠어요?  Could you take a picture for me?  Level31
+깍아 주세요.  Could you give me a discount?  Level31
+충분합니다.  That's enough.  Level31
+어디로 가십니까?(택시등에서 줄임형)  Where to?  Level31
+나는 택시를 탈거야.  I will take a taxi.  Level31
+부모님이 걱정돼.  I'm worried about my parents.  Level31
+너의 건강이 걱정돼.  I'm worried about your health.  Level31
+거스름돈은 가지세요.  Keep the change.  Level31
+몇 시에 일어나세요?  What time do you get up?  Level31
+저는 집에서 맏이에요.  I'm the oldest.  Level31
+저는 7시에 일어나요.  I get up at 7.  Level32
+날 아니?  Do I know you.  Level32
+아니요, 전 책을 거의 안 읽어요.  No, I rarely read books.  Level32
+주목해 주세요!  Attention please.  Level32
+제말 오해하지 마세요.  Don't get me wrong.  Level32
+나는 전산과를 전공했어요.  I majored in computer science.  Level32
+그녀는 영어를 유창하게 구사해요.  She speaks English fluently.  Level32
+그녀는 지금 외출중이에요.  She's out right now.  Level32
+어디보자.  Let me see.  Level32
+너 오늘 좋아보인다.  You look great today.  Level32
+예약했는데요.  I made a reservation.  Level33
+동작하지 않아요.  This doesn't work.  Level33
+내일 뭐 할거니?  What will you do tomorrow?  Level33
+불을 켜라!  Turn on the light!  Level33
+불을 꺼라!  Turn off the light!  Level33
+여권 좀 보여주시겠어요?  May I see your passport?  Level33
+입국 목적이 무엇입니까?  What is the purpose of your visit.  Level33
+여행하러요.(방문목적에대한 대답)  For sightseeing.  Level33
+일하러요.(방문목적에대한 대답)  For business.  Level33
+저 다이어트 하는 중이에요.  I'm on a diet.  Level33
+저 쉬는 중이에요.  I'm on a break.  Level34
+난 너에게 관심이 있어.  I'm interested in you.  Level34
+난 그것에 익숙해.  I'm used to it.  Level34
+기분 나쁘게 듣지마.  No offense.  Level34
+기대하고 있어요!  I'm looking forward to it.  Level34
+한 달 남았어요.  One month to go.  Level34
+취미가 뭐예요?  What do you do for fun?  Level34
+일주일에 한번이요.  Once a week.  Level34
+어떻게 지냈어?  How have you been.  Level34
+날 실망시키지마.  Don't let me down.  Level34
+돈은 얼마를 가지고 있나요?  How much money do you have?  Level35
+전부 다 얼마에요?  How much altogether.  Level35
+가는 중이야.  I'm on my way.  Level35
+저는 높은 곳이 무서워요(고소공포증).  I'm afraid of heights.  Level35
+막 떠나려던 참이야.  I'm about to leave.  Level35
+막 집에 가려던 참이야.  I'm about to go home.  Level35
+난 추위에 익숙해.  I'm used to the cold.  Level35
+갈 시간이야.  It's time to go.  Level35
+뭐라고 말했나요?  What did you say?  Level35
+많이 먹어요.  Help yourself.  Level35
+이쪽이야.  This way.  Level36
+직장 일은 어때요?  How are things at work?  Level36
+군침이 돌아.  My mouth is watering.  Level36
+시간이 다 됐어.  Time is up.  Level36
+너는 어때?(어떻게 생각해?)  What about you?  Level36
+버스 온다.(there사용)  There comes a bus.  Level36
+누가 그렇게 말했니?  Who told you that?  Level36
+뭘 어떻게 해야하지?  What should I do?  Level36
+아직까진 괜찮아.  So far, so good.  Level36
+어떻게 생각해?  What do you think.  Level36
+야구 할 줄 아세요?  Do you know how to play baseball?  Level37
+어떤 종류의 영화를 좋아해요?  What kinds of movies do you like?  Level37
+이쪽은 제 동료 탐이에요.  This is my colleague, Tom.  Level37
+스테이크가 레어 이길 원해  I want my steak rare.  Level37
+머리 깎기를 원해  I want my hair cut.  Level37
+점심으로 라면을 먹고 싶어.  I want to eat instant noodles for lunch.  Level37
+난 영어를 배우고 싶어.  I want to study English.  Level37
+나가고 싶지 않아.  I don't want to go out.  Level37
+뭘 원하니?  What do you want?  Level37
+뭘 말하고 싶어?  What do you want to say?  Level37
+뭘 먹고 싶어?  What do you want to eat?  Level38
+뭘 주문 하고 싶어?  What do you want to order?  Level38
+내가 여기 있기를 원하니?  Do you want me to stay here?  Level38
+너는 영리한 거 같지 않아.  I don't think you are smart.  Level38
+그는 부자인 거 같지 않아.  I don't think he is rich.  Level38
+그녀가 내일 올 거 같지 않아.  I don't think she will come tomorrow.  Level38
+너희가 행복한 줄 알았어.  I thought you were happy.  Level38
+그가 담배를 끊은 줄 알았어.  I thought he quit smoking.  Level38
+난 그녀가 서울에 있는 줄 알았어.  I thought she was in Seoul.  Level38
+축하해.  Congratulations  Level38
+얼마나 자주 영화 봐요?  How often do you watch movies?  Level39
+속지마!  Don't fall for it!  Level39
+오랜만이야.  Long time no see.  Level39
+난 취직 할거야.(be동사사용)  I am going to get a job.  Level39
+난 살 뺄거야.(be동사사용)  I am going to lose weight.  Level39
+난 그와 헤어질거야(be동사사용)  I am going to break up with him.  Level39
+난 지하철 탈거야.(be동사사용)  I am going to take the subway.  Level39
+포기하지 않을거야(be동사사용)  I'm not going to give up.  Level39
+나 다시는 늦지 않을거야(be동사사용)  I'm not going to be late again.  Level39
+너 그와 결혼 할거야?(be동사사용)  Are you going to marry him?  Level39
+너 그와 사귈거야?(be동사사용)  Are you going to go out with him?  Level40
+난 주유소를 찾고 있어.  I'm looking for a gas station.  Level40
+난 지하철 역을 찾고 있어.  I'm looking for the subway station.  Level40
+난 핸드폰을 찾고 있어.  I'm looking for my cellphone.  Level40
+난 점점 살찌고 있어.  I'm getting fat.  Level40
+난 점점 나아지고 있어.  I'm getting better.  Level40
+난 점점 지루해지고 있어.  I'm getting bored.  Level40
+점점 어두워지고 있어.  It's getting dark.  Level40
+점점 추워지고 있어.  It's getting cold.  Level40
+점점 나아지고 있어.  It's getting better.  Level40
+함께 영화 보러 가는게 어때요?  How about watching a movie together?  Level41
+당신이 거기에 가길 원해요(갔으면 해요).  I want you to go there.  Level41
+당신이 그녀를 만나길 원해요.(만났으면 해요)  I want you to meet her.  Level41
+거기에 가보셨어요?  Have you been there?  Level41
+서울에 가보셨어요?  Have you been to Seoul?  Level41
+막 너한테 전화하려던 참이야.  I am about to call you.  Level41
+막 자려던 참이야.  I am about to sleep.  Level41
+막 집에 가려던 참이야.  I am about to go home.  Level41
+가능한 거 같아.  I think it is possible.  Level41
+괜찮은 거 같아.  I think it looks nice.  Level41
+그녀가 맞는 거 같아.  I think she is right.  Level42
+여기 둘러보러 왔어요.  I'm here to look around.  Level42
+환불하려고 왔어요.  I'm here to get a refund.  Level42
+너 도와주러 왔어.  I'm here to help you.  Level42
+그와 관계 다 끝났어.  I am done with him.  Level42
+이 책 다 읽었어.(다 끝냈어)  I am done with this book.  Level42
+난 다 했어.  I am done.  Level42
+이거 다 끝냈나요?  Are you done with this?  Level42
+숙제 다 했어?  Are you done with your homework?  Level42
+그사람이랑 끝냈어?  Are you done with him?  Level42
+잘했어!  Good job!  Level43
+진정해.  Take it easy.  Level43
+왜(=why 어째서)?  How come?  Level43
+말도 안돼!  No way!  Level43
+너는 내가 행복하다고 생각하니?  Do you think I am happy?  Level43
+네 차례야.  It's your turn.  Level43
+이것이 효과가 있다고 생각하니?  Do you think this will work?  Level43
+나는 최선을 다할 거야.  I'll try my best.  Level43
+내가 이걸 해야 한다고 생각해?  Do you think I should do this?  Level43
+아버지께 안부 전해주세요.  Say hello to your father.  Level43
+진심이야.  I mean it.  Level44
+조심해(위험한 순간에 외칠때)!  Watch out!  Level44
+발 조심해!(계단 등에서)  Watch your step!  Level44
+별말씀을요.(천만에요. = You're welcome)  It's my pleasure.  Level44
+5킬로 빼고 싶어(살을).  I want to lose 5 kilograms  Level44
+졸업 축하해.  Congratulations on your graduation.  Level44
+결혼 축하해.  Congratulations on your marriage.  Level44
+어떻게 해야 할지 모르겠어.  I don't know how to do.  Level44
+무엇을 해야 할지 모르겠어.  I don't know what to do.  Level44
+어디를 가야 할지 모르겠어.  I don't know where to go.  Level44
+어디에서 버스를 타야 할지 모르겠어.  I don't know where to take the bus.  Level45
+어디에서 사야 할지 모르겠어요.  I don't know where to buy.  Level45
+공부하는거 잊지 마.  Don't forget to study.  Level45
+나한테 전화하는거 잊지 마.  Don't forget to call me.  Level45
+배고파 죽겠어요.   I'm starving.  Level45
+나 미팅했어.(이성간의 만남)  I had a blind date.  Level45
+그책 갖고 오는거 잊지마.  Don't forget to bring the book.  Level45
+무례하게 굴지 마.  Don't be rude.  Level45
+긴장하지 마.  Don't be nervous.  Level45
+철부지처럼 굴지좀 마.  Don't be childish.  Level45
+작별인사 할 시간이에요.  It's time to say good bye.  Level46
+점심먹을 시간이에요.  It's time for lunch.  Level46
+진정해!  Calm down!  Level46
+쉴 시간이에요.  It's time for a break.  Level46
+누워서 떡먹기야!  It's a piece of cake!  Level46
+콧물이 나요.  I have a runny nose.  Level46
+열이 나요.  I have a fever.  Level46
+목이 아파요.  I have a sore throat.  Level46
+허리에 통증이 있어요.  I have some pain in my back.  Level46
+땅콩 알레르기가 있어요.  I'm allergic to peanuts.  Level46
+난 빈털터리야.  I'm broke.  Level47
+저는 모르겠어요.(= I don't know)  I have no idea.  Level47
+또 시작이군.  There you go again.  Level47
+완전히 망쳤어요.  I blew it.  Level47
+잘했어!(= Good job!)  Way to go!  Level47
+그러세요.(상대방의 부탁을 들어줄때)  Be my guest!  Level47
+그냥 둘러보는 거예요.(옷가게 등에서)  I'm just looking around.  Level47
+난 공부를 해야 해.  I have to study.   Level47
+난 일하러 가야 해.  I have to go to work.  Level47
+난 지금 집에 가야 해.  I have to go home now.   Level47
+왜 이렇게 늦었어?  What took you so long?  Level48
+여기가 어디죠?  Where am I?  Level48
+예약하셨어요?  Do you have reservations?  Level48
+가득 채워 주세요.(기름을)  Fill her up, please.  Level48
+문이 잠겨 들어갈 수가 없어요.  I locked myself out.  Level48
+다시 한 번 말씀해 주시겠어요?(Pardon 보다 더 공손)  I beg your pardon?  Level48
+말조심하세요!  Watch your mouth!  Level48
+어디서 버스정류장을 찾을 수 있나요?  Where can I find a bus stop?  Level48
+어디서 기차 표를 살 수 있나요?  Where can I buy a train ticket?  Level48
+어디서 이식당을 찾을 수 있나요?  Where can I find this restaurant?  Level48
+어땠어요?(소감을 물을때)  How was it?  Level49
+밤새 뒤척였어요.  I tossed and turned all night.  Level49
+토할 것 같아요.  I feel like throwing up.  Level49
+제가 알기로는 아니예요.  Not that I know of.  Level49
+그는 혼날만한 짓을 했어요.(자업자득이다)   He had it coming.  Level49
+제 가방 좀 봐주시겠어요?  Could you keep an eye on my bag?  Level49
+이것을 시도해보는 게 어때?  Why don't you try this?  Level49
+그녀에게 얘기해 보는 게 어때?  Why don't you talk to her?  Level49
+휴식을 취해 보는 게 어때?  Why don't you take a break?  Level49
+병원에 가는게(의사를 만나보는게) 어때?  Why don't you see a doctor?  Level49
+손해 볼 것 없잖아요.   You have nothing to lose.  Level50
+어때?(아이디어나 계획을 제안하고 나서 반응을 물어볼때)   How does that sound?  Level50
+좋은데!(좋은 생각이야!, 어떤 제안이 마음에 들때)  That sounds great!  Level50
+무슨 일을 하세요?(직업을 물음)  What do you do?  Level50
+말하자면 길어요.  It’s a long story.  Level50
+당신 탓이에요  It’s your fault.  Level50
+듣고 있으니 얘기해봐!  I’m all ears!  Level50
+너는 어때? (= What about you)  How about you?  Level50
+그사람 어때?  How about him?   Level50
+중국음식은 어때?  How about Chinese food?  Level50
+호랑이도 제 말하면 온다더니  Speak of the devil.  Level51
+사정에 따라 달라요.  It depends  Level51
+너한테 달려있어.  It depends on you  Level51
+줄을 서세요.  Get in the line.  Level51
+꺼져!(당장 꺼져 버려!)  Get lost!  Level51
+조금만 버텨요!(조금만 참아요)  Hang in there!  Level51
+그가 나타나지 않았어요.  He didn't show up.  Level51
+너는 내가 행복하다고 생각하니?  Do you think I am happy?  Level51
+이것이 효과가 있다고 생각하니?  Do you think this will work?   Level51
+내가 이걸 해야 한다고 생각해?  Do you think I should do this?   Level51
+왜(=why, 어째서)?  How come?  Level52
+식욕이 없어요.  I have no appetite.  Level52
+제가 해냈어요!  I made it!  Level52
+내가 맹세할 수 있어요.(내가 맹세컨데)  I swear to God.  Level52
+말이 되네요.  It makes sense.  Level52
+시간이 좀 걸립니다.  It takes time.  Level52
+지금이 절호의 기회입니다.  It's now or never.  Level52
+제가 낼게요.(제가 쏠게요)  It's on me.  Level52
+이것은 주인집에서 써비스.(가게 주인이 공짜로 써비스할때)  It's on the house.  Level52
+고개를 드세요!(기운을 내요)  Keep your chin up!  Level52
+아니 이게 누구야!  Look who's here!  Level53
+내집인양 편하게 계세요.  Make yourself at home.  Level53
+별말씀을요.(천만에요. = You're welcome)  It's my pleasure.  Level53
+저런 (안스러워요, 불쌍해요의 의미)  Poor thing.  Level53
+창피 한줄 아세요.(비난)  Shame on you.  Level53
+좋을대로 하세요.(마음대로 하세요)  Suit yourself.  Level53
+차를 태워다 주어서 고마워요.  Thanks for the ride.  Level53
+공부하는거 잊지 마.  Don't forget to study.   Level53
+나한테 전화하는거 잊지 마.  Don't forget to call me.   Level53
+그책 갖고 오는거 잊지마.  Don't forget to bring the book.  Level53
+우리는 같은 처지예요.  We are in the same boat.  Level54
+여기는 어쩐 일로 오셨어요?  What brings you here?  Level54
+누구시지요? (전화를 받으면서)  Who's calling?  Level54
+당신 말이 옳아요.(지당한 말씀입니다.)  You can say that again.  Level54
+전화를 잘 못 거셨어요.  You have the wrong number.  Level54
+뭐든지 말씀해 보세요.(뭐든지 말만 해!)  You name it.  Level54
+너도 내 입장이 되어봐.  Put yourself in my shoes.  Level54
+무례하게 굴지 마.  Don't be rude.   Level54
+긴장하지 마.   Don't be nervous.  Level54
+철부지처럼 굴지좀 마.  Don't be childish.  Level54
+니가 나한테 어떻게 그럴 수 있니?  How could you do that to me?  Level55
+친구 좋다는 게 뭐야?  What are friends for?  Level55
+남 말 하시네!(사돈 남 말 한다)  Look who's talking!  Level55
+날 믿어도 돼.  You can count on me.  Level55
+누구 차례야?  Whose turn is it?  Level55
