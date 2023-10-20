@@ -10,7 +10,12 @@ def showWords(data, questCol, answCol, dilimCol, timeSel, searchFilter):
             if searchFilter:
                 try:
                     if "-" in searchFilter:
-                        voc = voc[int(searchFilter.split("-")[0])-1:int(searchFilter.split("-")[1])]
+                        start = int(searchFilter.split("-")[0])-1
+                        end = int(searchFilter.split("-")[1])
+                        if start <= len(voc) and end <= len(voc) + 1:
+                            voc = voc[start:end]
+                        else:
+                            st.warning(f'구간이 전체 범위를 초과하였습니다. 다시 설정해 주세요. 최대범위: {len(voc)}')
                     else:
                         vocFilter = []
                         for v in voc:
