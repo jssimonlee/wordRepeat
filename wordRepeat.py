@@ -7,6 +7,7 @@ def showWords(data, questCol, answCol, dilimCol, timeSel, searchFilter):
     try:
         with open(selected_file,'r', encoding='utf-8') as f:
             voc = f.readlines()
+            st.write(searchFilter)
             if searchFilter:
                 vocFilter = []
                 for v in voc:
