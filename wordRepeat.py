@@ -11,7 +11,6 @@ def showWords(data, questCol, answCol, dilimCol, timeSel, searchFilter):
                 try:
                     if "-" in searchFilter:
                         voc = voc[int(searchFilter.split("-")[0])-1:int(searchFilter.split("-")[1])]
-                        st.write(voc[0])
                     else:
                         vocFilter = []
                         for v in voc:
@@ -96,7 +95,7 @@ with tab1:
         with col5:
             timeSel = st.selectbox("시간 간격",[1,2,3,4,5,6,8,10,20,30,60],2)
         with col6:
-            searchFilter = st.text_input("필터")
+            searchFilter = st.text_input("필터/구간(-)")
         submitted = st.form_submit_button("시작")
         if submitted:
             showWords(selected_file, questCol, answCol, dilimCol, timeSel, searchFilter)
