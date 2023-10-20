@@ -104,7 +104,8 @@ with tab1:
         try:
             with open("initFile.ini","r",encoding="utf-8") as f:
                 init_idx = libList.index(f.read())
-        except:
+        except Exception as e:
+            st.warning(e)
             init_idx = 0
         col1,col2,col3,col4,col5,col6 = st.columns([10,4,4,6,4,5])
         with col1:
