@@ -11,7 +11,8 @@ def showWords(data, questCol, answCol, dilimCol, timeSel, searchFilter):
                 try:
                     if "-" in searchFilter:
                         voc = voc[int(searchFilter.split("-")[0]):int(searchFilter.split("-")[0]+1)]
-                except:
+                except as e:
+                    st.write(e)
                     st.warning('구간을 지정하려면 숫자 2개를 중간에 "-"를 넣고 연결하세요(예:1-20)')
                 else:
                     vocFilter = []
