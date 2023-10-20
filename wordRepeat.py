@@ -80,9 +80,9 @@ with tab1:
         with col1:
             selected_file = st.selectbox('파일선택',file_list_wanted)
         with col2:
-            questCol = st.selectbox("질문열 선택",[1,2,3,4]) - 1
+            questCol = st.selectbox("질문열",[1,2,3,4]) - 1
         with col3:
-            answCol = st.selectbox("해답열 선택",[1,2,3,4],1) - 1
+            answCol = st.selectbox("해답열",[1,2,3,4],1) - 1
         with col4:
             dilimCol = st.selectbox("열 구분자",["자동","탭","빈칸1개","빈칸2개","콤마"],0)
         with col5:
