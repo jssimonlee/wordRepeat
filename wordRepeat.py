@@ -91,7 +91,7 @@ with tab1:
             searchFilter = st.text_input("필터")
         submitted = st.form_submit_button("시작")
         if submitted:
-            showWords(selected_file, questCol, answCol, dilimCol, timeSel)
+            showWords(selected_file, questCol, answCol, dilimCol, timeSel, searchFilter)
 
 with tab2:
     # 파일 업로드/내용확인
