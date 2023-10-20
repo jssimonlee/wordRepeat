@@ -62,7 +62,11 @@ def showWords(data, questCol, answCol, dilimCol, timeSel, searchFilter):
             if voc[ranNum].strip() == "":
                 continue
             with placeholder.container():
-                st.success(voc[ranNum].split(dilimCol)[questCol])
+                # 질문이 비어 있으면(가끔 한자가 없고 히라가나만 있을때) 그냥 답항을 질문에 넣는다
+                quesWord = voc[ranNum].split(dilimCol)[questCol]
+                if quesWord == "":
+                    quesWord = voc[ranNum].split(dilimCol)[answCol]
+                st.success(quesWord)
                 st.write(str(ranNum+1) + " / " + str(len(voc)))
                 time.sleep(timeSel)
                 placeholder1 = st.empty()
