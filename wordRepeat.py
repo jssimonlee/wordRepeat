@@ -8,8 +8,11 @@ def showWords(data, questCol, answCol, dilimCol, timeSel, searchFilter):
         with open(selected_file,'r', encoding='utf-8') as f:
             voc = f.readlines()
             if searchFilter:
-                if "-" in searchFilter:
-                    voc = voc[searchFilter.split("-")[0]:searchFilter.split("-")[0]+1]
+                try:
+                    if "-" in searchFilter:
+                        voc = voc[int(searchFilter.split("-")[0]):int(searchFilter.split("-")[0]+1)]
+                except:
+                    st.warning('구간을 지정하려면 숫자 2개를 중간에 "-"를 넣고 연결하세요(예:1-20)')
                 else:
                     vocFilter = []
                     for v in voc:
