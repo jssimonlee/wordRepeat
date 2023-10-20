@@ -3,25 +3,37 @@ import time
 import random
 import os
 
+# 찾는 단어만 들어간 줄만 리스트로 반환해 주는 함수
+def vocFilterFunc(voc, searchFilter):
+    vocFilter = []
+    for v in voc:
+        if searchFilter in v:
+            vocFilter.append(v)
+    return vocFilter
+
+# 구간안의 데이터만 리스트로 반환해 주는 함수
+def inbetween(voc, searchFilter):
+    start = int(searchFilter.split("-")[0])-1
+    end = int(searchFilter.split("-")[1])
+    if start <= len(voc) and end <= len(voc) + 1:
+        return voc[start:end]
+    else:
+        st.warning(f'구간이 전체 범위를 초과하였습니다. 다시 설정해 주세요. 최대범위: {len(voc)}')
+        
 def showWords(data, questCol, answCol, dilimCol, timeSel, searchFilter):
     try:
         with open(selected_file,'r', encoding='utf-8') as f:
             voc = f.readlines()
             if searchFilter:
                 try:
-                    if "-" in searchFilter:
-                        start = int(searchFilter.split("-")[0])-1
-                        end = int(searchFilter.split("-")[1])
-                        if start <= len(voc) and end <= len(voc) + 1:
-                            voc = voc[start:end]
-                        else:
-                            st.warning(f'구간이 전체 범위를 초과하였습니다. 다시 설정해 주세요. 최대범위: {len(voc)}')
+                    if "|" in searchFilter:
+                        voc = vocFilterFunc(voc, searchFilter.split("|")[0])
+                        voc = inbetween(voc, searchFilter.split("|")[1])
                     else:
-                        vocFilter = []
-                        for v in voc:
-                            if searchFilter in v:
-                                vocFilter.append(v)
-                        voc = vocFilter
+                        if "-" in searchFilter:
+                            voc = inbetween(voc, searchFilter)
+                        else:
+                            voc = vocFilterFunc(voc, searchFilter)
                 except Exception as e:
                     st.write(e)
                     st.warning('구간을 지정하려면 숫자 2개를 중간에 "-"를 넣고 연결하세요(예:1-20)')
@@ -107,7 +119,9 @@ with tab1:
 
     on = st.toggle('필터/구간 설명')
     if on:
-        st.write('* 원하는 단어를 입력하면 입력한 단어가 포함된 것만 추출함 \n* 데이터의 일부 번호대를 입력하면(예:1-20) 그 순번 만 나오게 할 수 있다 \n* 단어와 순번을 모두 원하면 단어와 순번을 "|"로 연결한다')
+        st.write('* 원하는 단어를 입력하면 입력한 단어가 포함된 것만 추출함 \n\
+                 * 데이터의 일부 번호대를 입력하면(예:1-20) 그 순번 만 나오게 할 수 있다 \n\
+                 * 단어와 순번을 모두 원하면 단어와 순번을 "|"로(예: N3|1-20) 연결한다')
 
 with tab2:
     # 파일 업로드/내용확인
