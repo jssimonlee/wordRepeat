@@ -12,7 +12,7 @@ def showWords(data, questCol, answCol, dilimCol, timeSel, searchFilter):
                 vocFilter = []
                 for v in voc:
                     if searchFilter in v:
-                        vocFilter.append()
+                        vocFilter.append(v)
                 voc = vocFilter
                 st.write(vocFilter)
                 st.write(voc)
