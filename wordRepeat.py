@@ -103,7 +103,7 @@ with tab1:
         # 초기선택파일을 ini파일에서 읽어옴
         try:
             with open("initFile.ini","r",encoding="utf-8") as f:
-                init_idx = libList.index(f.read())
+                init_idx = file_list_wanted.index(f.read())
         except Exception as e:
             st.warning(e)
             init_idx = 0
