@@ -13,8 +13,8 @@ def showWords(data, questCol, answCol, dilimCol, timeSel, searchFilter):
                     if searchFilter in v:
                         vocFilter.append()
                 voc = vocFilter
-                print(vocFilter)
-                print(voc)
+                st.write(vocFilter)
+                st.write(voc)
     except:
         st.warning("파일을 utf-8로 다시 저장해서 업로드 해주세요.")
     if dilimCol == "자동":
