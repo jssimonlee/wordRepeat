@@ -3,10 +3,16 @@ import time
 import random
 import os
 
-def showWords(data, questCol, answCol, dilimCol, timeSel):
+def showWords(data, questCol, answCol, dilimCol, timeSel, searchFilter):
     try:
         with open(selected_file,'r', encoding='utf-8') as f:
             voc = f.readlines()
+            if searchFilter:
+                vocFilter = []
+                for v in voc:
+                    if searchFilter in v:
+                        vocFilter.append()
+                voc = vocFilter
     except:
         st.warning("파일을 utf-8로 다시 저장해서 업로드 해주세요.")
     if dilimCol == "자동":
@@ -70,7 +76,7 @@ with tab1:
             if extension.replace('.','') in extList:
                 if file != 'requirements.txt':
                     file_list_wanted.append(file)
-        col1,col2,col3,col4,col5 = st.columns([10,4,4,6,4])
+        col1,col2,col3,col4,col5,col6 = st.columns([10,4,4,6,4,5])
         with col1:
             selected_file = st.selectbox('파일선택',file_list_wanted)
         with col2:
@@ -81,6 +87,8 @@ with tab1:
             dilimCol = st.selectbox("열 구분자",["자동","탭","빈칸1개","빈칸2개","콤마"],0)
         with col5:
             timeSel = st.selectbox("시간 간격",[1,2,3,4,5,6,8,10,20,30,60],2)
+        with col6:
+            searchFilter = st.text_input("필터")
         submitted = st.form_submit_button("시작")
         if submitted:
             showWords(selected_file, questCol, answCol, dilimCol, timeSel)
