@@ -19,7 +19,7 @@ def inbetween(voc, searchFilter):
         return voc[start:end]
     else:
         st.warning(f'구간이 전체 범위를 초과하였습니다. 다시 설정해 주세요. 최대범위: {len(voc)}')
-        
+
 def showWords(data, questCol, answCol, dilimCol, timeSel, searchFilter):
     try:
         with open(selected_file,'r', encoding='utf-8') as f:
@@ -119,9 +119,7 @@ with tab1:
 
     on = st.toggle('필터/구간 설명')
     if on:
-        st.write('* 원하는 단어를 입력하면 입력한 단어가 포함된 것만 추출함 \n\
-                 * 데이터의 일부 번호대를 입력하면(예:1-20) 그 순번 만 나오게 할 수 있다 \n\
-                 * 단어와 순번을 모두 원하면 단어와 순번을 "|"로(예: N3|1-20) 연결한다')
+        st.write('* 원하는 단어를 입력하면 입력한 단어가 포함된 것만 추출함 \n* 데이터의 일부 번호대를 입력하면(예:1-20) 그 순번 만 나오게 할 수 있다 \n* 단어와 순번을 모두 원하면 단어와 순번을 "|"로(예: N3|1-20) 연결한다')
 
 with tab2:
     # 파일 업로드/내용확인
