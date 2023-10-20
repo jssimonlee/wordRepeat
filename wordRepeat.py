@@ -7,15 +7,15 @@ def showWords(data, questCol, answCol, dilimCol, timeSel, searchFilter):
     try:
         with open(selected_file,'r', encoding='utf-8') as f:
             voc = f.readlines()
-            st.write(searchFilter)
             if searchFilter:
-                vocFilter = []
-                for v in voc:
-                    if searchFilter in v:
-                        vocFilter.append(v)
-                voc = vocFilter
-                st.write(vocFilter)
-                st.write(voc)
+                if "-" in searchFilter:
+                    voc = voc[searchFilter.split("-")[0]:searchFilter.split("-")[0]+1]
+                else:
+                    vocFilter = []
+                    for v in voc:
+                        if searchFilter in v:
+                            vocFilter.append(v)
+                    voc = vocFilter
     except:
         st.warning("파일을 utf-8로 다시 저장해서 업로드 해주세요.")
     if dilimCol == "자동":
