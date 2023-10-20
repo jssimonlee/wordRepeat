@@ -100,9 +100,15 @@ with tab1:
             if extension.replace('.','') in extList:
                 if file != 'requirements.txt':
                     file_list_wanted.append(file)
+        # 초기선택파일을 ini파일에서 읽어옴
+        try:
+            with open("initFile.ini","r",encoding="utf-8") as f:
+                init_idx = libList.index(f.read())
+        except:
+            init_idx = 0
         col1,col2,col3,col4,col5,col6 = st.columns([10,4,4,6,4,5])
         with col1:
-            selected_file = st.selectbox('파일선택',file_list_wanted)
+            selected_file = st.selectbox('파일선택',file_list_wanted,init_idx)
         with col2:
             questCol = st.selectbox("질문열",[1,2,3,4]) - 1
         with col3:
@@ -115,6 +121,8 @@ with tab1:
             searchFilter = st.text_input("필터/구간")
         submitted = st.form_submit_button("시작")
         if submitted:
+            with open("initFile.ini","w",encoding="utf-8") as f:
+                f.write(selected_file)
             showWords(selected_file, questCol, answCol, dilimCol, timeSel, searchFilter)
 
     on = st.toggle('필터/구간 설명')
