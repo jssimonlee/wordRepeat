@@ -21,6 +21,7 @@ def inbetween(voc, searchFilter):
         st.warning(f'구간이 전체 범위를 초과하였습니다. 다시 설정해 주세요. 최대범위: {len(voc)}')
 
 def showWords(data, questCol, answCol, dilimCol, timeSel, searchFilter):
+    # 순차적으로 할건지 결정하는 Flag
     sequential = False
     try:
         with open(selected_file,'r', encoding='utf-8') as f:
@@ -63,7 +64,7 @@ def showWords(data, questCol, answCol, dilimCol, timeSel, searchFilter):
         ranNum = -1
         while True:
             if sequential:
-                if ranNum == len(voc):
+                if ranNum == len(voc) - 1:
                     ranNum = 0
                 else:
                     ranNum = ranNum + 1
