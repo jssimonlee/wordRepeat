@@ -14,9 +14,10 @@ def vocFilterFunc(voc, searchFilter):
 # 구간안의 데이터만 리스트로 반환해 주는 함수
 def inbetween(voc, searchFilter):
     start = int(searchFilter.split("-")[0])-1
-    end = int(searchFilter.split("-")[1])
-    if end == "":
+    if searchFilter.split("-")[1] == "":
         end = len(voc)
+    else:
+        end = int(searchFilter.split("-")[1])
     if start <= len(voc) and end <= len(voc) + 1:
         return voc[start:end]
     else:
