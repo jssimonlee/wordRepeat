@@ -62,6 +62,20 @@ def showWords(data, questCol, answCol, dilimCol, timeSel, searchFilter):
     elif dilimCol == "빈칸1개": dilimCol = " "
     elif dilimCol == "빈칸2개": dilimCol = "  "
     elif dilimCol == "콤마": dilimCol = ","
+
+    # 밑에 주간식 문항을 만들기위해 voc를 파일로 저장
+    with open("game.db","w",encoding="utf-8") as f:
+        data = []
+        for v in voc:
+            quest = v.split(dilimCol)[questCol]
+            answ = v.split(dilimCol)[answCol]
+            linedata = quest + '\t' + answ + '\n'
+            data.append(linedata)
+            f.write(linedata)
+        # data를 세션에 넣어서 하나씩 데이터를 지우더라도 다시 불러올수 있게한다(그리고 객관식 할때 앞에 전체 표시용)
+        if 'vocSingle' not in st.session_state:
+            st.session_state['vocSingle'] = data
+
     placeholder = st.empty()
     try:
         ranNum = -1
@@ -107,6 +121,16 @@ def showWords(data, questCol, answCol, dilimCol, timeSel, searchFilter):
                 st.warning("설정 값을 확인하고 다시 실행하세요.")
         except:
             st.warning("파일이 정상적이지 않습니다.")
+
+# 주관식 데이터 파일 불러오기
+def fetchData():
+    vocSingle = []
+    with open("game.db","r",encoding="utf-8") as f:
+        vocSingle = f.read().strip().split("\n")
+    quest = [i.split("\t")[0] for i in vocSingle]
+    answ = [i.split("\t")[1] for i in vocSingle]
+    return quest, answ, vocSingle
+
 tab1, tab2, tab3, tab4, tab5, tab6 = st.tabs(['🕹️ 반복학습', "파일 업로드/내용확인", "파일편집", "단어 직접입력/단어찾기", "파일삭제", "파일 다운로드"])
 extList = ['txt']
 
@@ -148,6 +172,29 @@ with tab1:
     on = st.toggle('필터/구간 설명')
     if on:
         st.write('* 원하는 단어를 입력하면 입력한 단어가 포함된 것만 추출함 \n* 데이터의 일부 번호대를 입력하면(예:1-20) 그 순번 만 나오게 할 수 있다, 뒷 번호 생략시 끝까지 \n* 단어와 순번을 모두 원하면 단어와 순번을 "|"로(예: N3|1-20) 연결한다\n* 맨앞에 @를 넣고 시작하면 문제가 순차적으로 나옴')
+    
+    single = st.toggle('주관식')
+    if single:
+        placeholder = st.empty()
+        with st.form("주관식"):
+            quest, answ, vocSingle = fetchData()
+            vocSingleSession = st.session_state["vocSingle"]
+            questSession = [i.split("\t")[0] for i in vocSingleSession]
+            st.success(questSession)
+            st.success(answ)
+            answIn = st.text_input('답을 하나씩 넣으세요')
+            submitted = st.form_submit_button('확인')
+            if (answIn in answ) and submitted:
+                with placeholder.container():
+                    idx = answ.index(answIn)
+                    del vocSingle[idx]
+                    with open("game.db","w",encoding="utf-8") as f:
+                        for v in vocSingle:
+                            f.write(v + "\n")
+            quest, answ, vocSingle = fetchData()
+            st.success(quest)
+                # quest.remove([i.split("\t")[0] for i in vocSingle][idx])
+
 
 with tab2:
     # 파일 업로드/내용확인
