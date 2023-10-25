@@ -63,7 +63,7 @@ def showWords(data, questCol, answCol, dilimCol, timeSel, searchFilter):
     elif dilimCol == "빈칸2개": dilimCol = "  "
     elif dilimCol == "콤마": dilimCol = ","
 
-    # 밑에 주간식 문항을 만들기위해 voc를 파일로 저장
+    # 밑에 주관식 문항을 만들기위해 voc를 파일로 저장
     with open("game.db","w",encoding="utf-8") as f:
         data = []
         for v in voc:
@@ -128,7 +128,7 @@ def fetchData():
     with open("game.db","r",encoding="utf-8") as f:
         vocSingle = f.read().strip().split("\n")
     quest = [i.split("\t")[0] for i in vocSingle]
-    answ = [i.split("\t")[1] for i in vocSingle]
+    answ = [i.split("\t")[1].split(",")[0].replace(" ","") for i in vocSingle]
     return quest, answ, vocSingle
 
 tab1, tab2, tab3, tab4, tab5, tab6 = st.tabs(['🕹️ 반복학습', "파일 업로드/내용확인", "파일편집", "단어 직접입력/단어찾기", "파일삭제", "파일 다운로드"])
@@ -184,14 +184,27 @@ with tab1:
             st.success(answ)
             answIn = st.text_input('답을 하나씩 넣으세요')
             submitted = st.form_submit_button('확인')
-            if (answIn in answ) and submitted:
+            if (answIn.replace(" ","") in answ) and submitted:
                 with placeholder.container():
                     idx = answ.index(answIn)
                     del vocSingle[idx]
-                    with open("game.db","w",encoding="utf-8") as f:
-                        for v in vocSingle:
-                            f.write(v + "\n")
-            quest, answ, vocSingle = fetchData()
+                    if len(vocSingle) == 0:
+                        vocSingle = st.session_state["vocSingle"]
+                        data = "\n".join(vocSingle)
+                        st.write(data)
+                        with open("game.db","w",encoding="utf-8") as f:
+                            f.writelines(data)
+                    else:
+                        del vocSingle[idx]
+                        with open("game.db","w",encoding="utf-8") as f:
+                            for v in vocSingle:
+                                f.write(v + "\n")
+            elif submitted:
+                st.warning("틀렸습니다.")
+            try:
+                quest, answ, vocSingle = fetchData()
+            except:
+                pass
             st.success(quest)
                 # quest.remove([i.split("\t")[0] for i in vocSingle][idx])
 
