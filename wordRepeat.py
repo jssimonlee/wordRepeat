@@ -2,7 +2,28 @@ import streamlit as st
 import time
 import random
 import os
+import re
 
+# 일본어 변환기
+def engToHira(engTxt):
+    jptoRomaji3 = {"pp":"っp","ss":"っs","tt":"っt","kk":"っk","dd":"っd","nn":"ん",
+        "kya":"きゃ","kyu":"きゅ","kyo":"きょ","gya":"ぎゃ","gyu":"ぎゅ","gyo":"ぎょ","sha":"しゃ","shu":"しゅ","sho":"しょ","cha":"ちゃ","chu":"ちゅ",
+        "cho":"ちょ","nya":"にゃ","nyu":"にゅ","nyo":"にょ","hya":"ひゃ","hyu":"ひゅ","hyo":"ひょ","bya":"びゃ","byu":"びゅ","byo":"びょ","pya":"ぴゃ",
+        "pyu":"ぴゅ","pyo":"ぴょ","mya":"みゃ","myu":"みゅ","myo":"みょ","rya":"りゃ","ryu":"りゅ","ryo":"りょ","xya":"ゃ","xyu":"ゅ","xtu":"っ",
+        "chi":"ち","tsu":"つ","shi":"し","thi":"てぃ","dhu":"でゅ","dhi":"でぃ","gwi":"ぐぃ"}
+    jptoRomaji2 = {"ka":"か","ki":"き","ku":"く","ke":"け","ko":"こ","ga":"が","gi":"ぎ","gu":"ぐ","ge":"げ","go":"ご",
+        "sa":"さ","si":"し","su":"す","se":"せ","so":"そ","za":"ざ","zi":"じ","ji":"じ","zu":"ず","ze":"ぜ","zo":"ぞ",
+        "ta":"た","ti":"ち","tu":"つ","te":"て","to":"と","da":"だ","di":"ぢ","du":"づ","de":"で","do":"ど",
+        "na":"な","ni":"に","nu":"ぬ","ne":"ね","no":"の","ha":"は","hi":"ひ","hu":"ふ","he":"へ","ho":"ほ",
+        "ba":"ば","bi":"び","bu":"ぶ","be":"べ","bo":"ぼ","pa":"ぱ","pi":"ぴ","pu":"ぷ","pe":"ぺ","po":"ぽ",
+        "ma":"ま","mi":"み","mu":"む","me":"め","mo":"も","ra":"ら","ri":"り","ru":"る","re":"れ","ro":"ろ",
+        "ya":"や","yu":"ゆ","yo":"よ","wa":"わ","fu":"ふ","wo":"を","ja":"じゃ","ju":"じゅ","jo":"じょ","fi":"ふぃ","fo":"ふぉ","fa":"ふぁ","fe":"ふぇ"}
+    jptoRomaji1 = {"a":"あ","i":"い","u":"う","e":"え","o":"お"}
+    hiraTxt = ""
+    for txt in engTxt:
+        if txt in jptoRomaji1:
+            hiraTxt = hiraTxt + jptoRomaji1[txt]
+    return hiraTxt
 # 찾는 단어만 들어간 줄만 리스트로 반환해 주는 함수
 def vocFilterFunc(voc, searchFilter):
     vocFilter = []
@@ -64,17 +85,15 @@ def showWords(data, questCol, answCol, dilimCol, timeSel, searchFilter):
     elif dilimCol == "콤마": dilimCol = ","
 
     # 밑에 주관식 문항을 만들기위해 voc를 파일로 저장
-    with open("game.db","w",encoding="utf-8") as f:
-        data = []
-        for v in voc:
-            quest = v.split(dilimCol)[questCol]
-            answ = v.split(dilimCol)[answCol]
-            linedata = quest + '\t' + answ + '\n'
-            data.append(linedata)
-            f.write(linedata)
-        # data를 세션에 넣어서 하나씩 데이터를 지우더라도 다시 불러올수 있게한다(그리고 객관식 할때 앞에 전체 표시용)
-        if 'vocSingle' not in st.session_state:
-            st.session_state['vocSingle'] = data
+    data = []
+    for v in voc:
+        quest = v.split(dilimCol)[questCol]
+        answ = v.split(dilimCol)[answCol]
+        linedata = quest + '\t' + answ
+        data.append(linedata)
+    # 그냥 data를 대입하면 리스트라 같은 곳을 가리키므로 같이 움직이게 된다 그래서 .copy()를 써서 넣는다
+    st.session_state['vocSingleOriginal'] = data.copy()
+    st.session_state['vocSingle'] = data.copy()
 
     placeholder = st.empty()
     try:
@@ -124,11 +143,12 @@ def showWords(data, questCol, answCol, dilimCol, timeSel, searchFilter):
 
 # 주관식 데이터 파일 불러오기
 def fetchData():
-    vocSingle = []
-    with open("game.db","r",encoding="utf-8") as f:
-        vocSingle = f.read().strip().split("\n")
-    quest = [i.split("\t")[0] for i in vocSingle]
-    answ = [i.split("\t")[1].split(",")[0].replace(" ","") for i in vocSingle]
+    if len(st.session_state['vocSingle']) == 0:
+        st.session_state['vocSingle'] = st.session_state['vocSingleOriginal'].copy()
+    vocSingle = st.session_state['vocSingle']
+    quest = [i.split("\t")[0].strip() for i in vocSingle]
+    answ = [i.split("\t")[1].split(",")[0].replace(" ","").strip() for i in vocSingle]
+    answ = [re.sub(r'\([^)]*\)', '', i.split("\t")[1].split(",")[0].replace(" ","").strip()) for i in vocSingle]
     return quest, answ, vocSingle
 
 tab1, tab2, tab3, tab4, tab5, tab6 = st.tabs(['🕹️ 반복학습', "파일 업로드/내용확인", "파일편집", "단어 직접입력/단어찾기", "파일삭제", "파일 다운로드"])
@@ -178,35 +198,24 @@ with tab1:
         placeholder = st.empty()
         with st.form("주관식"):
             quest, answ, vocSingle = fetchData()
-            vocSingleSession = st.session_state["vocSingle"]
-            questSession = [i.split("\t")[0] for i in vocSingleSession]
-            st.success(questSession)
-            st.success(answ)
-            answIn = st.text_input('답을 하나씩 넣으세요')
+            vocSingleOriginal = st.session_state["vocSingleOriginal"]
+            questOriginal = [i.split("\t")[0] for i in vocSingleOriginal]
+            st.success(questOriginal)
+            # st.success(answ)
+            answIn = st.text_input('답을 하나씩 넣거나, ","를 이용해 여러개를 한번에 넣으세요')
             submitted = st.form_submit_button('확인')
-            if (answIn.replace(" ","") in answ) and submitted:
-                with placeholder.container():
-                    idx = answ.index(answIn)
-                    del vocSingle[idx]
-                    if len(vocSingle) == 0:
-                        vocSingle = st.session_state["vocSingle"]
-                        data = "\n".join(vocSingle)
-                        st.write(data)
-                        with open("game.db","w",encoding="utf-8") as f:
-                            f.writelines(data)
+            if submitted:
+                for word in answIn.split(","):
+                    if word.replace(" ","") in answ:
+                        with placeholder.container():
+                            quest, answ, vocSingle = fetchData()
+                            idx = answ.index(word)
+                            del vocSingle[idx]
+                            st.session_state["vocSingle"] = vocSingle
                     else:
-                        del vocSingle[idx]
-                        with open("game.db","w",encoding="utf-8") as f:
-                            for v in vocSingle:
-                                f.write(v + "\n")
-            elif submitted:
-                st.warning("틀렸습니다.")
-            try:
-                quest, answ, vocSingle = fetchData()
-            except:
-                pass
+                        st.warning("틀렸습니다.")
+            quest, answ, vocSingle = fetchData()
             st.success(quest)
-                # quest.remove([i.split("\t")[0] for i in vocSingle][idx])
 
 
 with tab2:
