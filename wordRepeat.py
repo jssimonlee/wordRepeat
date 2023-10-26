@@ -102,14 +102,14 @@ def showWords(data, questCol, answCol, dilimCol, timeSel, searchFilter):
     elif dilimCol == "빈칸2개": dilimCol = "  "
     elif dilimCol == "콤마": dilimCol = ","
 
-    # 밑에 주관식 문항을 만들기위해 voc를 파일로 저장
+    # 밑에 주관식 문항을 만들기위해 voc를 session에 저장
     data = []
     for v in voc:
         quest = v.split(dilimCol)[questCol]
         answ = v.split(dilimCol)[answCol]
         linedata = quest + '\t' + answ
         data.append(linedata)
-    # 그냥 data를 대입하면 리스트라 같은 곳을 가리키므로 같이 움직이게 된다 그래서 .copy()를 써서 넣는다
+    # 그냥 data를 대입하면 리스트와 같은 곳을 가리키므로 같이 움직이게 된다 그래서 .copy()를 써서 넣는다
     st.session_state['vocSingleOriginal'] = data.copy()
     st.session_state['vocSingle'] = data.copy()
     if 'point' not in st.session_state:
@@ -161,7 +161,7 @@ def showWords(data, questCol, answCol, dilimCol, timeSel, searchFilter):
         except:
             st.warning("파일이 정상적이지 않습니다.")
 
-# 주관식 데이터 파일 불러오기
+# 주관식 데이터 session에서 불러오기
 def fetchData():
     if len(st.session_state['vocSingle']) == 0:
         st.session_state['vocSingle'] = st.session_state['vocSingleOriginal'].copy()
