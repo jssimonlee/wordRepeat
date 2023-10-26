@@ -20,10 +20,28 @@ def engToHira(engTxt):
         "ya":"や","yu":"ゆ","yo":"よ","wa":"わ","fu":"ふ","wo":"を","ja":"じゃ","ju":"じゅ","jo":"じょ","fi":"ふぃ","fo":"ふぉ","fa":"ふぁ","fe":"ふぇ"}
     jptoRomaji1 = {"a":"あ","i":"い","u":"う","e":"え","o":"お"}
     hiraTxt = ""
+    tempTxt = ""
     for txt in engTxt:
-        if txt in jptoRomaji1:
-            hiraTxt = hiraTxt + jptoRomaji1[txt]
+        if len(tempTxt) == 0:
+            tempTxt = txt
+        else:
+            tempTxt = tempTxt + txt
+        if tempTxt in jptoRomaji1:
+            hiraTxt = hiraTxt + jptoRomaji1[tempTxt]
+            tempTxt = ""
+        elif tempTxt in jptoRomaji2:
+            hiraTxt = hiraTxt + jptoRomaji2[tempTxt]
+            tempTxt = ""
+        elif tempTxt in jptoRomaji3:
+            hiraTxt = hiraTxt + jptoRomaji3[tempTxt]
+            if hiraTxt[-1] in ["p","s","t","k","d"]:
+                tempTxt = hiraTxt[-1]
+                hiraTxt = hiraTxt[:-1]
+            else:
+                tempTxt = "" 
+    st.write(hiraTxt)
     return hiraTxt
+
 # 찾는 단어만 들어간 줄만 리스트로 반환해 주는 함수
 def vocFilterFunc(voc, searchFilter):
     vocFilter = []
@@ -94,6 +112,8 @@ def showWords(data, questCol, answCol, dilimCol, timeSel, searchFilter):
     # 그냥 data를 대입하면 리스트라 같은 곳을 가리키므로 같이 움직이게 된다 그래서 .copy()를 써서 넣는다
     st.session_state['vocSingleOriginal'] = data.copy()
     st.session_state['vocSingle'] = data.copy()
+    if 'point' not in st.session_state:
+        st.session_state['point'] = 0
 
     placeholder = st.empty()
     try:
@@ -145,6 +165,7 @@ def showWords(data, questCol, answCol, dilimCol, timeSel, searchFilter):
 def fetchData():
     if len(st.session_state['vocSingle']) == 0:
         st.session_state['vocSingle'] = st.session_state['vocSingleOriginal'].copy()
+        st.info("다 맞추었습니다. 새로 시작합니다.")
     vocSingle = st.session_state['vocSingle']
     quest = [i.split("\t")[0].strip() for i in vocSingle]
     answ = [i.split("\t")[1].split(",")[0].replace(" ","").strip() for i in vocSingle]
@@ -200,22 +221,28 @@ with tab1:
             quest, answ, vocSingle = fetchData()
             vocSingleOriginal = st.session_state["vocSingleOriginal"]
             questOriginal = [i.split("\t")[0] for i in vocSingleOriginal]
-            st.success(questOriginal)
+            # 처음에만 보이게(문제와 전체리스트가 같을때만 보이게)
+            # if st.session_state["vocSingle"] == st.session_state["vocSingleOriginal"]:
+            #     st.success(questOriginal)
             # st.success(answ)
             answIn = st.text_input('답을 하나씩 넣거나, ","를 이용해 여러개를 한번에 넣으세요')
             submitted = st.form_submit_button('확인')
             if submitted:
                 for word in answIn.split(","):
+                    if re.match(r'[ぁ-んァ-ン]', answ[0]):
+                        word = engToHira(word)
                     if word.replace(" ","") in answ:
                         with placeholder.container():
                             quest, answ, vocSingle = fetchData()
-                            idx = answ.index(word)
+                            idx = answ.index(word.replace(" ",""))
                             del vocSingle[idx]
                             st.session_state["vocSingle"] = vocSingle
+                            st.session_state['point'] = st.session_state['point'] + 1
                     else:
                         st.warning("틀렸습니다.")
             quest, answ, vocSingle = fetchData()
             st.success(quest)
+            st.write(f"점수: {st.session_state['point']}")
 
 
 with tab2:
