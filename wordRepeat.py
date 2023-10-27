@@ -3,6 +3,7 @@ import time
 import random
 import os
 import re
+import extra_streamlit_components as stx
 
 # 일본어 변환기
 def engToHira(engTxt):
@@ -193,7 +194,19 @@ with tab1:
         except Exception as e:
             st.warning(e)
             init_idx = 0
-        col1,col2,col3,col4,col5,col6 = st.columns([10,4,4,6,4,5])
+
+        # 쿠키 읽어오기
+        # @st.cache_resource(experimental_allow_widgets=True)
+        # def get_manager():
+        #     return stx.CookieManager()
+        # cookie_manager = get_manager()
+        # cookies = cookie_manager.get_all()
+        # init_idx = 0
+        # value = cookie_manager.get('prevFile')
+        # if value:
+        #     init_idx = file_list_wanted.index(value)
+
+        col1,col2,col3,col4,col5,col6 = st.columns([10,4,4,6,4,6])
         with col1:
             selected_file = st.selectbox('파일선택',file_list_wanted,init_idx)
         with col2:
@@ -210,6 +223,7 @@ with tab1:
         if submitted:
             with open("initFile.ini","w",encoding="utf-8") as f:
                 f.write(selected_file)
+            # cookie_manager.set('prevFile', selected_file)
             showWords(selected_file, questCol, answCol, dilimCol, timeSel, searchFilter)
 
     on = st.toggle('필터/구간 설명')
