@@ -38,8 +38,10 @@ def engToHira(engTxt):
                 tempTxt = hiraTxt[-1]
                 hiraTxt = hiraTxt[:-1]
             else:
-                tempTxt = "" 
-    st.write(hiraTxt)
+                tempTxt = ""
+    # placeholder = st.empty()
+    # with placeholder.container(): 
+    #     st.write(hiraTxt)
     return hiraTxt
 
 # 찾는 단어만 들어간 줄만 리스트로 반환해 주는 함수
@@ -221,16 +223,14 @@ with tab1:
             quest, answ, vocSingle = fetchData()
             vocSingleOriginal = st.session_state["vocSingleOriginal"]
             questOriginal = [i.split("\t")[0] for i in vocSingleOriginal]
-            # 처음에만 보이게(문제와 전체리스트가 같을때만 보이게)
-            # if st.session_state["vocSingle"] == st.session_state["vocSingleOriginal"]:
-            #     st.success(questOriginal)
-            # st.success(answ)
             answIn = st.text_input('답을 하나씩 넣거나, ","를 이용해 여러개를 한번에 넣으세요')
             submitted = st.form_submit_button('확인')
+            japWord = ""
             if submitted:
                 for word in answIn.split(","):
                     if re.match(r'[ぁ-んァ-ン]', answ[0]):
                         word = engToHira(word)
+                        japWord = word
                     if word.replace(" ","") in answ:
                         with placeholder.container():
                             quest, answ, vocSingle = fetchData()
@@ -239,8 +239,10 @@ with tab1:
                             st.session_state["vocSingle"] = vocSingle
                             st.session_state['point'] = st.session_state['point'] + 1
                     else:
-                        st.warning("틀렸습니다.")
+                        st.warning(japWord + " 틀렸습니다.")
             quest, answ, vocSingle = fetchData()
+            if japWord:
+                st.write(word)
             st.success(quest)
             st.write(f"점수: {st.session_state['point']}")
 
