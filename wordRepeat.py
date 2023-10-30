@@ -3,7 +3,7 @@ import time
 import random
 import os
 import re
-import extra_streamlit_components as stx
+# import extra_streamlit_components as stx
 
 # 일본어 변환기
 def engToHira(engTxt):
