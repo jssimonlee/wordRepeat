@@ -48,9 +48,17 @@ def engToHira(engTxt):
 # 찾는 단어만 들어간 줄만 리스트로 반환해 주는 함수
 def vocFilterFunc(voc, searchFilter):
     vocFilter = []
-    for v in voc:
-        if searchFilter in v:
-            vocFilter.append(v)
+    filterList = []
+    if "+" in searchFilter:
+        filterList = searchFilter.split("+")
+        for f in filterList:
+            for v in voc:
+                if f in v:
+                    vocFilter.append(v)
+    else:
+        for v in voc:
+            if searchFilter in v:
+                vocFilter.append(v)
     return vocFilter
 
 # 구간안의 데이터만 리스트로 반환해 주는 함수
@@ -228,7 +236,7 @@ with tab1:
 
     on = st.toggle('필터/구간 설명')
     if on:
-        st.write('* 원하는 단어를 입력하면 입력한 단어가 포함된 것만 추출함 \n* 데이터의 일부 번호대를 입력하면(예:1-20) 그 순번 만 나오게 할 수 있다, 뒷 번호 생략시 끝까지 \n* 단어와 순번을 모두 원하면 단어와 순번을 "|"로(예: N3|1-20) 연결한다\n* 맨앞에 @를 넣고 시작하면 문제가 순차적으로 나옴')
+        st.write('* 원하는 단어를 입력하면 입력한 단어가 포함된 것만 추출함 \n* 여러개의 추출 검색어를 다 나오게 하려면 "+"를 이용해서 연결\n* 데이터의 일부 번호대를 입력하면(예:1-20) 그 순번 만 나오게 할 수 있다, 뒷 번호 생략시 끝까지 \n* 단어와 순번을 모두 원하면 단어와 순번을 "|"로(예: N3|1-20) 연결한다\n* 맨앞에 @를 넣고 시작하면 문제가 순차적으로 나옴')
     
     single = st.toggle('주관식')
     if single:
