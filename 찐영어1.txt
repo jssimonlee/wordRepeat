@@ -31,3 +31,6 @@ creep  살금살금 움직이다, 너무 싫은사람, 아첨꾼
 worn out  매우 지친, 닳아서 못쓰게 된
 yell  소리치다
 bang  쾅하고 치다, 쾅쾅치다
+take one's mind off  ~에서 마음을 돌리다, ~을 잊다
+knock down  때려 부수다
+burp  트림하다
