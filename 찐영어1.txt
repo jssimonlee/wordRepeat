@@ -2,7 +2,7 @@ shore  해변
 cabin  선실
 deck  갑판
 rudder  키, 방향타
-sulk  뿌루뚱하다, 쌜쭉하다
+sulk  뿌루뚱하다
 anchor  닻
 lighthouse  등대
 past  지나서  (전치사)
@@ -27,10 +27,10 @@ crook  사기꾼
 peep  훔쳐보다
 grab  붙잡다
 puff  내뿜다, 뻐끔뻐끔 피우다
-creep  살금살금 움직이다, 너무 싫은사람, 아첨꾼
+creep  살금살금 움직이다, 아첨꾼
 worn out  매우 지친, 닳아서 못쓰게 된
 yell  소리치다
-bang  쾅하고 치다, 쾅쾅치다
+bang  쾅하고 치다
 take one's mind off  ~에서 마음을 돌리다, ~을 잊다
 knock down  때려 부수다
 burp  트림하다
@@ -47,3 +47,12 @@ be covered in  ~로 덮히다
 bandage  붕대, 붕대를 감다
 run off  도망가다
 be told  지시를 받다
+gallop  (말이)전속력으로 달리다.
+bottom  엉덩이
+thumb  엄지손가락
+splinter  쪼개지다
+a sore throat  인후염
+keep ~ing  계속 ~하다
+a few  조금 있는(긍정적)
+few  거의 없는(부정적)
+the more, the better  많으면 많을 수록, 더 좋다
