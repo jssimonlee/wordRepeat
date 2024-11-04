@@ -19,7 +19,6 @@ rubber-ring  고무튜브
 It's on the tip of my tongue  생각이 날 듯 말 듯한데
 after that  그 후
 after all  결국
-creep  살살기어가다  creep-crept-crept
 den  소굴
 swap  바꾸다
 spade  삽
@@ -27,7 +26,7 @@ crook  사기꾼
 peep  훔쳐보다
 grab  붙잡다
 puff  내뿜다, 뻐끔뻐끔 피우다
-creep  살금살금 움직이다, 아첨꾼
+creep  살금살금 움직이다, 아첨꾼  creep-crept-crept
 worn out  매우 지친, 닳아서 못쓰게 된
 yell  소리치다
 bang  쾅하고 치다
