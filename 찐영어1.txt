@@ -21,7 +21,7 @@ after that  그 후
 after all  결국
 creep  살살기어가다  creep-crept-crept
 den  소굴
-swop  바꾸다
+swap  바꾸다
 spade  삽
 crook  사기꾼
 peep  훔쳐보다
@@ -34,7 +34,7 @@ bang  쾅하고 치다, 쾅쾅치다
 take one's mind off  ~에서 마음을 돌리다, ~을 잊다
 knock down  때려 부수다
 burp  트림하다
-duke  군주
+duke  공작
 pendulum  (시계의)추
 parcel  소포
 whirlwind  회오리바람
@@ -46,4 +46,4 @@ surgery  수술
 be covered in  ~로 덮히다
 bandage  붕대, 붕대를 감다
 run off  도망가다
-be told  지시를 받다, 분부를 받다, 명을 받다
+be told  지시를 받다
