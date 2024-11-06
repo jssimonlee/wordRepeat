@@ -55,3 +55,6 @@ keep ~ing  계속 ~하다
 a few  조금 있는(긍정적)
 few  거의 없는(부정적)
 the more, the better  많으면 많을 수록, 더 좋다
+embarrass  당황스럽게 만들다
+sensible  분별있는
+vet  수의사
