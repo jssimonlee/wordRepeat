@@ -1,39 +1,39 @@
-pretend  상상의, 가짜의, ~인 척하다  #1-1
-be about to  곧 ~할거다  #1-1
-groan  신음 소리를 내다  #1-1
-oak  참나무  #1-1
-whisper  속삭이다  #1-1
-ladder  사다리  #1-1
-tuck  밀어넣다, 끼워넣다  #1-1
-teeny  아주 작은  #1-1
-minute  극히 작은  발음주의[마이뉴트]  #1-1
-poke  쑥 내밀다, 쿡 찌르다  #1-1
-be filled with  ~로 가득차다  #1-1
-grip  꽉 잡다  #1-1
-crawl  기다, 기어가다  #1-2
-dusty  먼지투성이인  #1-2
-peer  유심히 보다  #1-2
-in the distance  먼 곳에  #1-2
-frog  개구리  #1-2
-creek  개울  #1-2
-porch  현관, 베란다  #1-2
-shush  쉬, 쉿  #1-2
-be supposed to do  ~하기로 되어 있다  #1-2
-glance  흘낏 보다  #1-2
-own  소유하다, 자신의  #1-2
-castle  성  #1-2
-belong to  ~에 속하다  #1-2
-can't help  어쩔 수 없다  #1-2
-ancient  고대의  #1-2
-reptile  파충류  #1-2
-soar  솟구치다, 급등하다  #1-2
-glide  미끄러지듯 가다, 활공하다  #1-2
-weird  기이한, 이상한  #1-2
-crest  (조류 머리 위의)볏, 관모  #1-2
-beak  (새의)부리  #1-2
-creature  생물  #1-2
-tremble  (몸을)떨다  #1-2
-whistle  휘파람을 불다, 호각  #1-2
-squeeze  짜다, 짠재다  #1-2
-still  가만히 있는, 고요한  #1-2
-slant  기울어지다  #1-2
+pretend  상상의, 가짜의, ~인 척하다  #1.1
+be about to  곧 ~할거다  #1.1
+groan  신음 소리를 내다  #1.1
+oak  참나무  #1.1
+whisper  속삭이다  #1.1
+ladder  사다리  #1.1
+tuck  밀어넣다, 끼워넣다  #1.1
+teeny  아주 작은  #1.1
+minute  극히 작은  발음주의[마이뉴트]  #1.1
+poke  쑥 내밀다, 쿡 찌르다  #1.1
+be filled with  ~로 가득차다  #1.1
+grip  꽉 잡다  #1.1
+crawl  기다, 기어가다  #1.2
+dusty  먼지투성이인  #1.2
+peer  유심히 보다  #1.2
+in the distance  먼 곳에  #1.2
+frog  개구리  #1.2
+creek  개울  #1.2
+porch  현관, 베란다  #1.2
+shush  쉬, 쉿  #1.2
+be supposed to do  ~하기로 되어 있다  #1.2
+glance  흘낏 보다  #1.2
+own  소유하다, 자신의  #1.2
+castle  성  #1.2
+belong to  ~에 속하다  #1.2
+can't help  어쩔 수 없다  #1.2
+ancient  고대의  #1.2
+reptile  파충류  #1.2
+soar  솟구치다, 급등하다  #1.2
+glide  미끄러지듯 가다, 활공하다  #1.2
+weird  기이한, 이상한  #1.2
+crest  (조류 머리 위의)볏, 관모  #1.2
+beak  (새의)부리  #1.2
+creature  생물  #1.2
+tremble  (몸을)떨다  #1.2
+whistle  휘파람을 불다, 호각  #1.2
+squeeze  짜다, 짠재다  #1.2
+still  가만히 있는, 고요한  #1.2
+slant  기울어지다  #1.2
