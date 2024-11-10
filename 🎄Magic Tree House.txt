@@ -50,7 +50,7 @@ make friends with  ~와 친해지다  #1.4
 stroke  쓰다듬다, 타법  #1.4
 examine  조사하다, 검사하다  #1.4
 stare  빤히 쳐다보다, 응시하다  #1.4
-alert  경계하는, 기만한  #1.4
+alert  경계하는, 기민한  #1.4
 snort  코웃음을 치다  #1.4
 cautiously  조심스럽게  #1.4
 brush  비질을 하다  #1.4
@@ -60,3 +60,27 @@ count on  기대하다, ~을 믿다  #1.4
 mutant  돌연변이, 변종  #1.4
 tilt  기울다  #1.4
 lean  ~에 기대다  #1.4
+scramble  재빨리 움직이다  #1.5
+tumble  굴러 떨어지다  #1.5
+pant  헐떡이다  #1.5
+hilltop  언덕꼭대기  #1.5
+rhinoceros  코뿔소(=rhino)  #1.5
+flip  홱 뒤집다  #1.5
+flip through  ~을 훑어보다  #1.5
+weigh  무게가 ~이다  #1.5
+slam  쾅 닫다  #1.5
+shove  (거칠게)떠밀다, 밀치  #1.5
+sling  (느슨하게)매다, 걸다  sling-slung-slung  #1.5
+pet  쓰다듬다, 반려동물  #1.5
+cheerful  발랄한, 쾌활한  #1.5
+kneel  무릎을 꿇다  kneel-knelt-knelt  #1.5
+nudge  쿡 찌르다  #1.5
+ignore  무시하다  #1.5
+tease  놀리다, 장난하다  #1.5
+spot  발견하다  #1.5
+gaze  응시하다  #1.5
+stick out  튀어나오다  #1.5
+lope  천천히 달리다  #1.5
+grunt  투덜거리다, 꿀꿀거리다  #1.5
+glitter  반짝반짝 빛나다  #1.5
+engrave  새기다  #1.5
