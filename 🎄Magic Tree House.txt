@@ -113,3 +113,21 @@ stempede  우르르 몰리다  #1.7
 hop  한 발로 깡충깡충 뛰다  #1.8
 flap  (날개를)퍼덕 거리다  #1.8
 roar  으르렁 거림, 으르렁 거리다  #1.8
+ease down  속도를 줄이다  #1.9
+teeter  불안정하게 서다  #1.9
+steady  균형을 잡다  #1.9
+graze  풀을 뜯다  #1.9
+whoop  와 하고 함성을 지르다  #1.9
+stream  개울  #1.9
+come to a stop  서다  #1.9
+take off  이륙하다, 떠나다  #1.9
+wobbly  흔들리는, 불안정한  #1.9
+bolt  달아나다  #1.9
+aside  한쪽으로, 따로  #1.9
+moan  신음하다, 불평하다  #1.9
+pick up  회복되다, 더 강해지다  #1.9
+dazed  멍한  #1.10
+shrug  (어깨를)으쓱하다  #1.10
+distant  먼, 떨어져 있는  #1.10
+clasp  (꽉)움켜쥐다  #1.10
+tingle  따끔거리다  #1.10
