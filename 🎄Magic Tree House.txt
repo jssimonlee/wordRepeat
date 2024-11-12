@@ -34,7 +34,7 @@ beak  (새의)부리  #1.2
 creature  생물  #1.2
 tremble  (몸을)떨다  #1.2
 whistle  휘파람을 불다, 호각  #1.2
-squeeze  짜다, 짠재다  #1.2
+squeeze  짜다, 짜내다  #1.2
 still  가만히 있는, 고요한  #1.2
 slant  기울어지다  #1.2
 fern  양치식물  #1.3
@@ -99,7 +99,7 @@ let out  (소리 등을)내다  #1.6
 waddle  (오리처럼) 뒤뚱뒤뚱 걷다  #1.6
 barge  밀치고 가다  #1.6
 throw up  토하다  #1.6
-enourmous  거대한  #1.6
+enormous  거대한  #1.6
 plain  평원  #1.6
 dangle  (달랑)매달리다  #1.6
 gleam  (희미하게)빛나다  #1.6
