@@ -84,3 +84,7 @@ lope  천천히 달리다  #1.5
 grunt  투덜거리다, 꿀꿀거리다  #1.5
 glitter  반짝반짝 빛나다  #1.5
 engrave  새기다  #1.5
+pay attention to  ~에 유의하다  #1.6
+mutter  중얼거리다  #1.6
+shriek  소리를 지르다  #1..6
+bellow  고함치다  #1.6
