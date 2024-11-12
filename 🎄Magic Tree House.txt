@@ -69,7 +69,7 @@ flip  홱 뒤집다  #1.5
 flip through  ~을 훑어보다  #1.5
 weigh  무게가 ~이다  #1.5
 slam  쾅 닫다  #1.5
-shove  (거칠게)떠밀다, 밀치  #1.5
+shove  (거칠게)떠밀다, 밀치다  #1.5
 sling  (느슨하게)매다, 걸다  sling-slung-slung  #1.5
 pet  쓰다듬다, 반려동물  #1.5
 cheerful  발랄한, 쾌활한  #1.5
