@@ -1,133 +1,241 @@
-pretend  상상의, 가짜의, ~인 척하다  #1.1
-be about to  곧 ~할거다  #1.1
-groan  신음 소리를 내다  #1.1
-oak  참나무  #1.1
-whisper  속삭이다  #1.1
-ladder  사다리  #1.1
-tuck  밀어넣다, 끼워넣다  #1.1
-teeny  아주 작은  #1.1
-minute  극히 작은  발음주의[마이뉴트]  #1.1
-poke  쑥 내밀다, 쿡 찌르다  #1.1
-be filled with  ~로 가득차다  #1.1
-grip  꽉 잡다  #1.1
-crawl  기다, 기어가다  #1.2
-dusty  먼지투성이인  #1.2
-peer  유심히 보다  #1.2
-in the distance  먼 곳에  #1.2
-frog  개구리  #1.2
-creek  개울  #1.2
-porch  현관, 베란다  #1.2
-shush  쉬, 쉿  #1.2
-be supposed to do  ~하기로 되어 있다  #1.2
-glance  흘낏 보다  #1.2
-own  소유하다, 자신의  #1.2
-castle  성  #1.2
-belong to  ~에 속하다  #1.2
-can't help  어쩔 수 없다  #1.2
-ancient  고대의  #1.2
-reptile  파충류  #1.2
-soar  솟구치다, 급등하다  #1.2
-glide  미끄러지듯 가다, 활공하다  #1.2
-weird  기이한, 이상한  #1.2
-crest  (조류 머리 위의)볏, 관모  #1.2
-beak  (새의)부리  #1.2
-creature  생물  #1.2
-tremble  (몸을)떨다  #1.2
-whistle  휘파람을 불다, 호각  #1.2
-squeeze  짜다, 짜내다  #1.2
-still  가만히 있는, 고요한  #1.2
-slant  기울어지다  #1.2
-fern  양치식물  #1.3
-winding  구불구불한  발음주의[와인딩]  #1.3
-slope  경사지, 경사지다  #1.3
-stammer  말을 더듬다  #1.3
-coast  관성으로 움직이다, 부드럽게 움직이다  #1.3
-nuts  미친  #1.3
-bold  대담한, 용감한  #1.3
-boldly  대담하게  #1.3
-gasp  숨이 턱 막히다  #1.4
-make friends with  ~와 친해지다  #1.4
-stroke  쓰다듬다, 타법  #1.4
-examine  조사하다, 검사하다  #1.4
-stare  빤히 쳐다보다, 응시하다  #1.4
-alert  경계하는, 기민한  #1.4
-snort  코웃음을 치다  #1.4
-cautiously  조심스럽게  #1.4
-brush  비질을 하다  #1.4
-fuzz  솜털  #1.4
-bony  뼈 같은, 뼈의  #1.4
-count on  기대하다, ~을 믿다  #1.4
-mutant  돌연변이, 변종  #1.4
-tilt  기울다  #1.4
-lean  ~에 기대다  #1.4
-scramble  재빨리 움직이다  #1.5
-tumble  굴러 떨어지다  #1.5
-pant  헐떡이다  #1.5
-hilltop  언덕꼭대기  #1.5
-rhinoceros  코뿔소(=rhino)  #1.5
-flip  홱 뒤집다  #1.5
-flip through  ~을 훑어보다  #1.5
-weigh  무게가 ~이다  #1.5
-slam  쾅 닫다  #1.5
-shove  (거칠게)떠밀다, 밀치다  #1.5
-sling  (느슨하게)매다, 걸다  sling-slung-slung  #1.5
-pet  쓰다듬다, 반려동물  #1.5
-cheerful  발랄한, 쾌활한  #1.5
-kneel  무릎을 꿇다  kneel-knelt-knelt  #1.5
-nudge  쿡 찌르다  #1.5
-ignore  무시하다  #1.5
-tease  놀리다, 장난하다  #1.5
-spot  발견하다  #1.5
-gaze  응시하다  #1.5
-stick out  튀어나오다  #1.5
-lope  천천히 달리다  #1.5
-grunt  투덜거리다, 꿀꿀거리다  #1.5
-glitter  반짝반짝 빛나다  #1.5
-engrave  새기다  #1.5
-pay attention to  ~에 유의하다  #1.6
-mutter  중얼거리다  #1.6
-shriek  소리를 지르다  #1..6
-bellow  고함치다  #1.6
-vally  계곡, 골짜기  #1.6
-nest  둥지  #1.6
-crouch  쭈그리다  #1.6
-clutch  움켜잡다(=grip)  #1.6
-bow  절하다, (고개를)숙이다  #1.6
-chew  씹다  #1.6
-mean  못된, 인색한  #1.6
-let out  (소리 등을)내다  #1.6
-waddle  (오리처럼) 뒤뚱뒤뚱 걷다  #1.6
-barge  밀치고 가다  #1.6
-throw up  토하다  #1.6
-enormous  거대한  #1.6
-plain  평원  #1.6
-dangle  (달랑)매달리다  #1.6
-gleam  (희미하게)빛나다  #1.6
-dash  서둘러 가다  #1.7
-leap  뛰다, 뛰어오르다  #1.7
-wander  (이리저리)거닐다  #1.7
-hunch  구부리다  #1.7
-make a wish  소원을 빌다  #1.7
-scoop  (숟갈로)뜨다, 재빨리 들어올리다  #1.7
-stempede  우르르 몰리다  #1.7
-hop  한 발로 깡충깡충 뛰다  #1.8
-flap  (날개를)퍼덕 거리다  #1.8
-roar  으르렁 거림, 으르렁 거리다  #1.8
-ease down  속도를 줄이다  #1.9
-teeter  불안정하게 서다  #1.9
-steady  균형을 잡다  #1.9
-graze  풀을 뜯다  #1.9
-whoop  와 하고 함성을 지르다  #1.9
-stream  개울  #1.9
-come to a stop  서다  #1.9
-take off  이륙하다, 떠나다  #1.9
-wobbly  흔들리는, 불안정한  #1.9
-bolt  달아나다  #1.9
-aside  한쪽으로, 따로  #1.9
-moan  신음하다, 불평하다  #1.9
-pick up  회복되다, 더 강해지다  #1.9
-dazed  멍한  #1.10
-shrug  (어깨를)으쓱하다  #1.10
-distant  먼, 떨어져 있는  #1.10
-clasp  (꽉)움켜쥐다  #1.10
-tingle  따끔거리다  #1.10
+pretend  상상의, 가짜의, ~인 척하다  #01.01
+be about to  곧 ~할거다  #01.01
+groan  신음 소리를 내다  #01.01
+oak  참나무  #01.01
+whisper  속삭이다  #01.01
+ladder  사다리  #01.01
+tuck  밀어넣다, 끼워넣다  #01.01
+teeny  아주 작은  #01.01
+minute  극히 작은(발음:마이뉴트)  #01.01
+poke  쑥 내밀다, 쿡 찌르다  #01.01
+be filled with  ~로 가득차다  #01.01
+grip  꽉 잡다  #01.01
+crawl  기다, 기어가다  #01.02
+dusty  먼지투성이인  #01.02
+peer  유심히 보다  #01.02
+in the distance  먼 곳에  #01.02
+frog  개구리  #01.02
+creek  개울  #01.02
+porch  현관, 베란다  #01.02
+shush  쉬, 쉿  #01.02
+be supposed to do  ~하기로 되어 있다  #01.02
+glance  흘낏 보다  #01.02
+own  소유하다, 자신의  #01.02
+castle  성  #01.02
+belong to  ~에 속하다  #01.02
+can't help  어쩔 수 없다  #01.02
+ancient  고대의  #01.02
+reptile  파충류  #01.02
+soar  솟구치다, 급등하다  #01.02
+glide  미끄러지듯 가다, 활공하다  #01.02
+weird  기이한, 이상한  #01.02
+crest  (조류 머리 위의)볏, 관모  #01.02
+beak  (새의)부리  #01.02
+creature  생물  #01.02
+tremble  (몸을)떨다  #01.02
+whistle  휘파람을 불다, 호각  #01.02
+squeeze  짜다, 짜내다  #01.02
+still  가만히 있는, 고요한  #01.02
+slant  기울어지다  #01.02
+fern  양치식물  #01.03
+winding  구불구불한(발음:와인딩)  #01.03
+slope  경사지, 경사지다  #01.03
+stammer  말을 더듬다  #01.03
+coast  관성으로 움직이다, 부드럽게 움직이다  #01.03
+nuts  미친  #01.03
+bold  대담한, 용감한  #01.03
+boldly  대담하게  #01.03
+gasp  숨이 턱 막히다  #01.04
+make friends with  ~와 친해지다  #01.04
+stroke  쓰다듬다, 타법  #01.04
+examine  조사하다, 검사하다  #01.04
+stare  빤히 쳐다보다, 응시하다  #01.04
+alert  경계하는, 기민한  #01.04
+snort  코웃음을 치다  #01.04
+cautiously  조심스럽게  #01.04
+brush  비질을 하다  #01.04
+fuzz  솜털  #01.04
+bony  뼈 같은, 뼈의  #01.04
+count on  기대하다, ~을 믿다  #01.04
+mutant  돌연변이, 변종  #01.04
+tilt  기울다  #01.04
+lean  ~에 기대다  #01.04
+scramble  재빨리 움직이다  #01.05
+tumble  굴러 떨어지다  #01.05
+pant  헐떡이다  #01.05
+hilltop  언덕꼭대기  #01.05
+rhinoceros  코뿔소(=rhino)  #01.05
+flip  홱 뒤집다  #01.05
+flip through  ~을 훑어보다  #01.05
+weigh  무게가 ~이다  #01.05
+slam  쾅 닫다  #01.05
+shove  (거칠게)떠밀다, 밀치다  #01.05
+sling  (느슨하게)매다, 걸다(sling-slung-slung)  #01.05
+pet  쓰다듬다, 반려동물  #01.05
+cheerful  발랄한, 쾌활한  #01.05
+kneel  무릎을 꿇다(kneel-knelt-knelt)  #01.05
+nudge  쿡 찌르다  #01.05
+ignore  무시하다  #01.05
+tease  놀리다, 장난하다  #01.05
+spot  발견하다  #01.05
+gaze  응시하다  #01.05
+stick out  튀어나오다  #01.05
+lope  천천히 달리다  #01.05
+grunt  투덜거리다, 꿀꿀거리다  #01.05
+glitter  반짝반짝 빛나다  #01.05
+engrave  새기다  #01.05
+pay attention to  ~에 유의하다  #01.06
+mutter  중얼거리다  #01.06
+shriek  소리를 지르다  #01.06
+bellow  고함치다  #01.06
+vally  계곡, 골짜기  #01.06
+nest  둥지  #01.06
+crouch  쭈그리다  #01.06
+clutch  움켜잡다(=grip)  #01.06
+bow  절하다, (고개를)숙이다  #01.06
+chew  씹다  #01.06
+mean  못된, 인색한  #01.06
+let out  (소리 등을)내다  #01.06
+waddle  (오리처럼) 뒤뚱뒤뚱 걷다  #01.06
+barge  밀치고 가다  #01.06
+throw up  토하다  #01.06
+enormous  거대한  #01.06
+plain  평원  #01.06
+dangle  (달랑)매달리다  #01.06
+gleam  (희미하게)빛나다  #01.06
+dash  서둘러 가다  #01.07
+leap  뛰다, 뛰어오르다  #01.07
+wander  (이리저리)거닐다  #01.07
+hunch  구부리다  #01.07
+make a wish  소원을 빌다  #01.07
+scoop  (숟갈로)뜨다, 재빨리 들어올리다  #01.07
+stempede  우르르 몰리다  #01.07
+hop  한 발로 깡충깡충 뛰다  #01.08
+flap  (날개를)퍼덕 거리다  #01.08
+roar  으르렁 거림, 으르렁 거리다  #01.08
+ease down  속도를 줄이다  #01.09
+teeter  불안정하게 서다  #01.09
+steady  균형을 잡다  #01.09
+graze  풀을 뜯다  #01.09
+whoop  와 하고 함성을 지르다  #01.09
+stream  개울  #01.09
+come to a stop  서다  #01.09
+take off  이륙하다, 떠나다  #01.09
+wobbly  흔들리는, 불안정한  #01.09
+bolt  달아나다  #01.09
+aside  한쪽으로, 따로  #01.09
+moan  신음하다, 불평하다  #01.09
+pick up  회복되다, 더 강해지다  #01.09
+daze  멍한 상태, 멍하게 하다  #01.10
+shrug  (어깨를)으쓱하다  #01.10
+distant  먼, 떨어져 있는  #01.10
+clasp  (꽉)움켜쥐다  #01.10
+tingle  따끔거리다  #01.10
+figure out  계산해 내다, 생각해 내다  #02.01
+nope  아니(=no)  #02.01
+for sure  확실히  #02.01
+sigh  한숨을 쉬다  #02.01
+get dressed  옷을 입다  #02.01
+tiptoe  발끝으로 살금살금 걷다  #02.01
+sweatshirt  운동복 상의, 추리닝 상의  #02.01
+creep  (살살)기다(=crawl, creep-crept-crept)  #02.01
+wand  (마술사의)지팡이  #02.01
+cricket  귀뚜라미  #02.01
+chirp  짹짹거리다  #02.01
+hold one's breath  숨을 참다  #02.01
+Gotcha!  잡았다!, 알았다!  #02.01
+frown  얼굴을 찡그리다  #02.01
+Cut it out!  그만둬!  #02.01
+glare  노려보다  #02.01
+shine  빛나다, 비추다  #02.01
+scatter  (흩)뿌리다  #02.02
+knight  (중세의)기사  #02.02
+for real  진짜의, 진심의  #02.02
+neigh  (말이 히이잉 하고)울다  #02.02
+shiver  (몸을)떨다  #02.02
+damp  축축한  #02.02
+whinny  (조용히)울다  #02.02
+loom  어렴풋이 보이다  #02.02
+yank  홱 잡아당기다  #02.02
+peek  훔쳐보다  #02.02
+take a peek  몰래 엿보다(=peek)  #02.02
+scoot  서둘러 가다  #02.02
+misty  안개가 낀  #02.02
+feast  연회  #02.03
+windmill  풍차  #02.03
+pierce  뚫다  #02.03
+shriek  소리를 지르다  #02.03
+split  나누다  #02.03
+hawk  매  #02.03
+ward  ~실, 병동  #02.03
+fanfare  팡파레  #02.03
+peacock  공작새  #02.03
+vanish  사라지다  #02.03
+plank  널빤지  #02.04
+creak  삐걱거리다  #02.04
+halt  멈추다  #02.04
+courtyard  뜰, 마당  #02.04
+clop  따가닥따가닥 걷다  #02.04
+stable  마구간  #02.04
+tiptoe  발끝으로 살금살금 걷다  #02.04
+awe  경외감  #02.04
+blaze  활활타다  #02.04
+antler  (사슴의 가지진)뿔  #02.04
+rug  깔개, 양탄자  #02.04
+cape  망토  #02.04
+whirl  빙그르르 돌다  #02.04
+squeak  끽 하는 소리를 내다  #02.04
+dimly  어둑하게  #02.04
+stumble  발이 걸리다, 비틀거리다  #02.05
+flick  (손가락으로)튀기다, 털다  #02.05
+armory  무기고  #02.05
+visor  (헬멧의)얼굴 가리개, (모자의)챙  #02.05
+chamber  (폐쇄된)공간, 회의실  #02.05
+struggle  몸부림치다, 투쟁하다  #02.05
+clatter  달가닥하는 소리를 내다  #02.05
+fiery  불타는 듯한, 불같은  #02.05
+squint  눈을 가늘게 뜨고 보다, 사시이다  #02.06
+mustache  콧수염  #02.06
+dummy  멍청이, 모조품  #02.06
+frantic  정신없는  #02.06
+clammy  축축한  #02.06
+dungeon  지하 감옥  #02.06
+filthy  아주 더러운  #02.06
+ceiling  천장  #02.06
+puddle  물웅덩이  #02.06
+Duke  공작  #02.06
+sputter  펑펑 하는 소리를 내다  #02.06
+wipe out  ~을 완전히 파괴하다  #02.06
+howl  (길게) 울부짖다  #02.06
+quake  몸을 떨다  #02.06
+sack  자루, 부대  #02.07
+barrel  (대형)통  #02.07
+precipice  벼랑  #02.07
+stamp  (발을) 구르다  #02.07
+loose  헐거워진, 풀린  #02.07
+tug  잡아당기다  #02.07
+thunk  (둔탁한 소리)푹, 탁  #02.07
+latch  걸쇠를 걸다  #02.07
+splash  철퍽 떨어지다, (물을)끼얹다  #02.07
+flail  마구 움직이다  #02.08
+tread  디디다, 밟다  #02.08
+afloat  (물에)뜬  #02.08
+crocodile  악어  #02.08
+slither  스르르 기어가다  #02.08
+embankment  둑, 제방  #02.08
+chatter  딱딱 맞부딪치다, 수다를 떨다  #02.08
+grove  (작은) 숲  #02.08
+part  헤어지다, 갈라지다  #02.08
+tell  구별하다  #02.09
+dismount  내리다  #02.09
+slap  철썩 때리다  #02.09
+rein  고삐  #02.09
+canter  구보로 달리다  #02.09
+moonlit  달빛이 비치는  #02.09
+rock  흔들리다  #02.09
+saddle  안장  #02.09
+steer  조종하다  #02.09
+fumble  더듬거리다  #02.09
+yard  마당  #02.10
+lawn  잔디밭  #02.10
+worn  해진  #02.10
