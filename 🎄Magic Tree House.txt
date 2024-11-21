@@ -6,7 +6,6 @@ whisper  속삭이다  #01.01
 ladder  사다리  #01.01
 tuck  밀어넣다, 끼워넣다  #01.01
 teeny  아주 작은  #01.01
-minute  극히 작은(발음:마이뉴트)  #01.01
 poke  쑥 내밀다, 쿡 찌르다  #01.01
 be filled with  ~로 가득차다  #01.01
 grip  꽉 잡다  #01.01
@@ -239,3 +238,55 @@ fumble  더듬거리다  #02.09
 yard  마당  #02.10
 lawn  잔디밭  #02.10
 worn  해진  #02.10
+clump  무더기, 쿵쾅거리다  #03.01
+stand for  ~을 상징하다  #03.01
+breeze  산들바람  #03.01
+rattle  달가닥 거리다  #03.01
+sled  썰매  #03.01
+sleek  윤이 나는, 매끈한  #03.01
+perch  앉아 있다, 횃대  #03.01
+collar  (윗옷의)칼라, 깃  #03.01
+palm tree  야자수  #03.02
+take place  개최되다  #03.02
+funeral  장례식  #03.02
+coffin  관  #03.02
+oxen  황소(ox의 복수)  #03.02
+mummy  미라  #03.02
+mirage  신기루  #03.02
+swift  신속한(swiftly:신속하게)  #03.04
+tomb  무덤  #03.04
+robber  강도  #03.04
+pleat  주름  #03.04
+in horror  오싹하여  #03.05
+pound  (요란한 소리를 내며)치다  #03.05
+faint  기절하다, 희미한  #03.05
+magic spell  마술 주문  #03.05
+carve  조각하다  #03.05
+squiggly  구불구불한  #03.06
+jug  주전자, 항아리  #03.06
+droop  아래로 처지다  #03.06
+puzzled  어리둥절해하는  #03.06
+rod  막대  #03.06
+float  (물 위나 공중에서)떠가다  #03.07
+goblet  (유리나 금속으로 된)와인잔  #03.07
+woven  weave(옷감을 짜다)의 과거분사  #03.07
+fold  접다  #03.07
+wrap  싸다, 포장하다  #03.08
+glow  빛나다  #03.08
+skull  두개골  #03.08
+wrinkle  주름  #03.08
+squash  짓누르다, 으깨다  #03.08
+wither  시들다  #03.08
+flesh  (사람,동물의)살  #03.08
+hollow  (속이)빈  #03.08
+rot  썩다  #03.08
+shudder  몸을 떨다  #03.08
+calm  침착한  #03.08
+heave a sigh  한숨을 쉬다  #03.08
+rumble  우르르거리는 소리를 내다  #03.08
+budge  약간 움직이다  #03.09
+trap  (궁지, 함정 등에)가두다, 덫  #03.09
+shimmer  희미하게 빛나다  #03.09
+clue  단서  #03.10
+neat  정돈된  #03.10
+prove  증명하다  #03.10
