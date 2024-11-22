@@ -290,3 +290,81 @@ shimmer  희미하게 빛나다  #03.09
 clue  단서  #03.10
 neat  정돈된  #03.10
 prove  증명하다  #03.10
+sway  흔들리다  #04.01
+fling  내던지다  #04.01
+cozy  아늑한  #04.01
+gust  돌풍  #04.01
+squawk  꽥꽥 울다  #04.01
+swoop  급강하하다  #04.02
+wade  헤치며 걷다  #04.02
+pirate  해적  #04.03
+row  노를 젓다  #04.03
+prop  받치다, 지주  #04.03
+glint  반짝거리다  #04.03
+snatch  잡아채다  #04.03
+shore  해변  #04.03
+confusion  혼란  #04.03
+pistol  권총  #04.03
+charge  달려들다  #04.03
+vile  극도로 불쾌한  #04.04
+booty  노획물, 전리품  #04.04
+shaggy  텁수룩한  #04.04
+beard  (턱)수염  #04.04
+patch  안대, 조각, (헝겊 등으로)덧대다  #04.04
+yell  소리치다  #04.04
+rag  해진 천, 누더기  #04.04
+ragged  누더기가 된  #04.04
+growl  으르렁거리다  #04.04
+gleeful  신이 난  #04.04
+glimmer  깜박이는 빛  #04.04
+greedy  탐욕스러운  #04.05
+grin  활짝 웃다, 활짝 웃음  #04.05
+thy  당신의(=your)  #04.05
+doom  죽음, 파멸  #04.05
+pouch  (가죽)주머니  #04.05
+tear  찢다(tear-tore-torn)  #04.05
+pipe up  지껄이기 시작하다  #04.05
+scowl  노려보다  #04.05
+hack  자르다, 베다  #04.05
+brute  짐승  #04.06
+fin  지느러미  #04.06
+alongside  옆에, 나란히  #04.06
+jeer  야유하다, 야유  #04.06
+hoist  들어올리다  #04.06
+haul  (힘들여)끌다, 끌고가다  #04.06
+snap  딱 부러지다  #04.06
+cabin  선실  #04.06
+sour  (맛이)신  #04.06
+shaft  (빛)줄기  #04.06
+deserted  사람이 없는  #04.06
+spout  (액체의)분출  #04.06
+sneak  살금살금 가다  #04.07
+shovel  삽  #04.07
+gale  강풍  #04.07
+chuckle  빙그레 웃다  #04.07
+gulp  꿀꺽꿀꺽 삼키다  #04.07
+nay  그게 아니라, 아니다(=no)  #04.07
+whine  징징거리다  #04.08
+swine  돼지, (기분 나쁜)인간  #04.08
+omen  징조  #04.08
+dreary  음울한  #04.08
+chest  상자, 가슴  #04.08
+stack  무더기  #04.09
+cape  망토  #04.09
+swirl  빙빙 돌다  #04.09
+blur  흐릿한 형체  #04.09
+screech  (날카로운 소리)꽥 하는 소리를 내다  #04.09
+amazed  (대단히)놀란  #04.09
+witch  마녀  #04.10
+librarian  사서  #04.10
+precisely  정확히  #04.10
+besides  ~외에  #04.10
+invisible  보이지 않는  #04.10
+come along  함께 오다, 함께 가다  #04.10
+hook  낚다, 고리  #04.10
+cause  ~을 초래하다  #04.10
+dismay  실망  #04.10
+combination  조합, 결합  #04.10
+forehead  이마  #04.10
+vine  포다나무  #04.10
+a ton of  많은  #04.10
