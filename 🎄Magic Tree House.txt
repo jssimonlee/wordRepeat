@@ -148,6 +148,7 @@ Cut it out!  그만둬!  #02.01
 glare  노려보다  #02.01
 shine  빛나다, 비추다  #02.01
 scatter  (흩)뿌리다  #02.02
+shudder  몸을 떨다  #02.02
 knight  (중세의)기사  #02.02
 for real  진짜의, 진심의  #02.02
 neigh  (말이 히이잉 하고)울다  #02.02
@@ -278,7 +279,6 @@ wither  시들다  #03.08
 flesh  (사람,동물의)살  #03.08
 hollow  (속이)빈  #03.08
 rot  썩다  #03.08
-shudder  몸을 떨다  #03.08
 calm  침착한  #03.08
 heave a sigh  한숨을 쉬다  #03.08
 rumble  우르르거리는 소리를 내다  #03.08
