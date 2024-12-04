@@ -504,3 +504,58 @@ snarl  으르렁거리다  #07.09
 trunk  (코끼리의)코  #07.09
 lumber  느릿느릿 움직이다  #07.09
 rosy  장미빛의, 발그레한  #07.10
+yawn  하품하다  #08.01
+rest  쉬다, 받치다  #08.01
+diagram  도표, 도해  #08.01
+equipment  장비  #08.01
+breathe  숨을 쉬다  #08.01
+astronaut  우주 비행사  #08.01
+wonder  궁굼해하다  #08.02
+spacecraft  우주선  #08.02
+breath   숨, 입김  #08.02
+explore  탐사하다  #08.02
+aside  한쪽으로, (길을)비켜  #08.02
+crater  분화구  #08.02
+sesame  참깨  #08.03
+beside  옆에  #08.03
+trot  빨리 걷다  #08.03
+doorway  출입구  #08.03
+bulky  부피가 큰, 덩치가 큰  #08.03
+clumsy(부사:clumsily)  서투른(부사:서투르게)  #08.03
+radio  무선, 무전기, 라디오  #08.03
+goof off  빈둥거리다  #08.03
+feather  새털, 깃털  #08.04
+land  내려앉다, 착륙하다  #08.04
+gravity  중력  #08.04
+buggy  사륜차, 카트  #08.04
+lurch  휘청하다  #08.04
+keep A from B  A가 B하지 못하게 하다  #08.04
+bump  (도로의) 튀어나온 부분  #08.05
+buck  날뛰다  #08.05
+bronco  야생마  #08.05
+barren  척박한, 황량한  #08.05
+planet  행성  #08.05
+mankind  인류  #08.05
+telescope  망원경  #08.05
+tip over  뒤집어 엎다  #08.06
+stuck  움직일 수 없는, 갇힌  #08.06
+outer  바깥 표명의, 외부의  #08.06
+meteorite  운석  #08.06
+silence  고요, 침묵  #08.07
+spaceman  우주인, 우주 비행사  #08.07
+refrigerator  냉장고  #08.07
+hook up  연결하다  #08.07
+burst  터지다  #08.08
+rub  문지르다  #08.08
+set back on one's heels  놀라게 하다  #08.08
+scurry  종종걸음을 치다  #08.08
+sink(-sank-sank)  가라앉다  #08.08
+constellation  별자리  #08.08
+chant  구호를 외치다  #08.08
+blind  눈이 먼, 눈이 멀게 만들다  #08.08
+free  석방하다, 자유로운  #08.09
+certain  확실한  #08.09
+sniff  코를 훌쩍이다  #08.09
+hoot  부엉부엉하다  #08.10
+galaxy  은하계, 은하수  #08.10
+scoff  비웃다  #08.10
