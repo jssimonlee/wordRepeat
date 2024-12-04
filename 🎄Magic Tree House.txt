@@ -201,6 +201,7 @@ clammy  축축한  #02.06
 dungeon  지하 감옥  #02.06
 filthy  아주 더러운  #02.06
 march  행군하다, 걸어가다  #02.06
+creepy  오싹하게 하는, 으스스한   #02.06
 ceiling  천장  #02.06
 puddle  물웅덩이  #02.06
 Duke  공작  #02.06
