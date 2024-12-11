@@ -214,7 +214,7 @@ with tab1:
         # if value:
         #     init_idx = file_list_wanted.index(value)
 
-        col1,col2,col3,col4,col5,col6 = st.columns([10,4,4,6,4,6])
+        col1,col2,col3,col4,col5,col6 = st.columns([10,4,4,6,5,6])
         with col1:
             selected_file = st.selectbox('파일선택',file_list_wanted,init_idx)
         with col2:
