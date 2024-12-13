@@ -246,7 +246,7 @@ with tab1:
             with open("initFile.ini","w",encoding="utf-8") as f:
                 f.write(selected_file)
             # cookie_manager.set('prevFile', selected_file)
-            showWords(selected_file, questCol, answCol, dilimCol, timeSel, searchFilter)
+            showWords(selected_file, questCol, answCol, dilimCol, timeSel, playWay, searchFilter)
 
     on = st.toggle('필터/구간 설명')
     if on:
