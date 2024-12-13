@@ -88,8 +88,8 @@ def showWords(data, questCol, answCol, dilimCol, timeSel, playWay, searchFilter,
                     #     voc = vocFilterFunc(voc, searchFilter.split("|")[0])
                     #     voc = inbetween(voc, searchFilter.split("|")[1])
                     # else:
-                    if "-" in sectorFilter:
-                        voc = inbetween(voc, sectorFilter)
+                    # if "-" in sectorFilter:
+                    voc = inbetween(voc, sectorFilter)
                 except Exception as e:
                     st.write(e)
                     st.warning('구간을 지정하려면 숫자 2개를 중간에 "-"를 넣고 연결하세요(예:1-20)')
@@ -243,9 +243,9 @@ with tab1:
             # cookie_manager.set('prevFile', selected_file)
             showWords(selected_file, questCol, answCol, dilimCol, timeSel, playWay, searchFilter, sectorFilter)
 
-    on = st.toggle('필터/구간 설명')
+    on = st.toggle(검색어만 필터/구간반복 설명')
     if on:
-        st.write('* 원하는 단어를 입력하면 입력한 단어가 포함된 것만 추출함 \n* 여러개의 추출 검색어를 다 나오게 하려면 "+"를 이용해서 연결\n* 데이터의 일부 번호대를 입력하면(예:1-20) 그 순번 만 나오게 할 수 있다, 뒷 번호 생략시 끝까지 \n* 단어와 순번을 모두 원하면 단어와 순번을 "|"로(예: N3|1-20) 연결한다')
+        st.write('* 검색어에 원하는 단어를 입력하면 입력한 단어가 포함된 것만 추출함 \n* 여러개의 추출 검색어를 다 나오게 하려면 "+"를 이용해서 연결\n* 구간반복에서 데이터의 일부 번호대를 입력하면(예:1-20) 그 순번 만 나오게 할 수 있다, 뒷 번호 생략시 끝까지')
     
     single = st.toggle('주관식')
     if single:
