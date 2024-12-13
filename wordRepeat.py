@@ -224,7 +224,7 @@ with tab1:
         # value = cookie_manager.get('prevFile')
         # if value:
         #     init_idx = file_list_wanted.index(value)
-        c1, c2, c3, C4, C5, C6, C7 = st.columns([14,5,5,7,6,8,8])
+        col1,col2,col3,col4,col5,col6,col7 = st.columns([14,5,5,7,6,8,8])
         with col1:
             selected_file = st.selectbox('파일선택',file_list_wanted,init_idx)
         with col2:
