@@ -237,7 +237,7 @@ with tab1:
         with col5:
             timeSel = st.selectbox("시간 간격",[0.5,1,2,3,4,5,6,8,10,20,30,60],3)
         with col6:
-            playWay = st.selectbox("동작순서",[순차,역순,랜덤],1)
+            playWay = st.selectbox("동작순서",["순차","역순","랜덤"],1)
         with col7:
             searchFilter = st.text_input("필터/구간")
         submitted = st.form_submit_button("시작")
