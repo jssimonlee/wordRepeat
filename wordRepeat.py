@@ -62,12 +62,12 @@ def vocFilterFunc(voc, searchFilter):
     return vocFilter
 
 # 구간안의 데이터만 리스트로 반환해 주는 함수
-def inbetween(voc, searchFilter):
-    start = int(searchFilter.split("-")[0])-1
-    if searchFilter.split("-")[1] == "":
+def inbetween(voc, sectorFilter):
+    start = int(sectorFilter.split("-")[0])-1
+    if sectorFilter.split("-")[1] == "":
         end = len(voc)
     else:
-        end = int(searchFilter.split("-")[1])
+        end = int(sectorFilter.split("-")[1])
     if start <= len(voc) and end <= len(voc) + 1:
         return voc[start:end]
     else:
@@ -84,11 +84,6 @@ def showWords(data, questCol, answCol, dilimCol, timeSel, playWay, searchFilter,
                 voc = vocFilterFunc(voc, searchFilter)
             if sectorFilter:
                 try:
-                    # if "|" in searchFilter:
-                    #     voc = vocFilterFunc(voc, searchFilter.split("|")[0])
-                    #     voc = inbetween(voc, searchFilter.split("|")[1])
-                    # else:
-                    # if "-" in sectorFilter:
                     voc = inbetween(voc, sectorFilter)
                 except Exception as e:
                     st.write(e)
