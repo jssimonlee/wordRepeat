@@ -134,7 +134,7 @@ def showWords(data, questCol, answCol, dilimCol, timeSel, searchFilter):
     try:
         ranNum = -1
         if reverse:
-            ranNum = len(voc) - 1
+            ranNum = len(voc)
         while True:
             if sequential:
                 if ranNum == len(voc) - 1:
