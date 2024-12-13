@@ -133,7 +133,7 @@ def showWords(data, questCol, answCol, dilimCol, timeSel, playWay, searchFilter)
     placeholder = st.empty()
     try:
         ranNum = -1
-        if reverse:
+        if playWay == "역순":
             ranNum = len(voc)
         while True:
             if playWay == "순차":
@@ -141,7 +141,7 @@ def showWords(data, questCol, answCol, dilimCol, timeSel, playWay, searchFilter)
                     ranNum = 0
                 else:
                     ranNum = ranNum + 1
-            if playWay == "역순":
+            elif playWay == "역순":
                 if ranNum == 0:
                     ranNum = len(voc) -1
                 else:
