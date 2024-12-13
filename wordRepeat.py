@@ -66,7 +66,7 @@ def inbetween(voc, sectorFilter):
     if "-" in sectorFilter:
         start = int(sectorFilter.split("-")[0])-1
     else:
-        start = sectorFilter
+        st.warning('"-"부호가 누락되었습니다.')
     if sectorFilter.split("-")[1] == "":
         end = len(voc)
     else:
