@@ -67,6 +67,7 @@ def inbetween(voc, sectorFilter):
         start = int(sectorFilter.split("-")[0])-1
     else:
         st.warning('"-"부호가 누락되었습니다.')
+        return False
     if sectorFilter.split("-")[1] == "":
         end = len(voc)
     else:
@@ -88,6 +89,8 @@ def showWords(data, questCol, answCol, dilimCol, timeSel, playWay, searchFilter,
             if sectorFilter:
                 try:
                     voc = inbetween(voc, sectorFilter)
+                    if not voc:
+                        return
                 except Exception as e:
                     st.write(e)
                     st.warning('구간을 지정하려면 숫자 2개를 중간에 "-"를 넣고 연결하세요(예:1-20)')
