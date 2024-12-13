@@ -85,7 +85,7 @@ def showWords(data, questCol, answCol, dilimCol, timeSel, searchFilter):
                     if "@" == searchFilter[0]:
                         sequential = True
                         searchFilter = searchFilter[1:]
-                    if "%" == searchFilter:
+                    if "%" == searchFilter[0]:
                         reverse = True
                         searchFilter = searchFilter[1:]
                     if "|" in searchFilter:
