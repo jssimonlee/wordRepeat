@@ -224,14 +224,14 @@ with tab1:
         # value = cookie_manager.get('prevFile')
         # if value:
         #     init_idx = file_list_wanted.index(value)
-        col1,col2,col3 = st.columns([14,5,5])
+        col1,col2,col3 = st.columns([16,4,4])
         with col1:
             selected_file = st.selectbox('파일선택',file_list_wanted,init_idx)
         with col2:
             questCol = st.selectbox("질문열",[1,2,3,4]) - 1
         with col3:
             answCol = st.selectbox("해답열",[1,2,3,4],1) - 1
-        col4,col5,col6,col7 = st.columns([7,6,8,8])
+        col4,col5,col6,col7 = st.columns([8,8,8,8])
         # col1,col2,col3,col4,col5,col6,col7 = st.columns([10,4,4,6,5,6,6])
         with col4:
             dilimCol = st.selectbox("열 구분자",["자동","탭","빈칸1개","빈칸2개","콤마"],0)
