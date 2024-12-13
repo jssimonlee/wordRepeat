@@ -76,6 +76,7 @@ def inbetween(voc, searchFilter):
 def showWords(data, questCol, answCol, dilimCol, timeSel, searchFilter):
     # 순차적으로 할건지 결정하는 Flag
     sequential = False
+    reverse = False
     try:
         with open(selected_file,'r', encoding='utf-8') as f:
             voc = f.readlines()
@@ -83,6 +84,9 @@ def showWords(data, questCol, answCol, dilimCol, timeSel, searchFilter):
                 try:
                     if "@" == searchFilter[0]:
                         sequential = True
+                        searchFilter = searchFilter[1:]
+                    if "%" == searchFilter:
+                        reverse = True
                         searchFilter = searchFilter[1:]
                     if "|" in searchFilter:
                         voc = vocFilterFunc(voc, searchFilter.split("|")[0])
@@ -129,12 +133,19 @@ def showWords(data, questCol, answCol, dilimCol, timeSel, searchFilter):
     placeholder = st.empty()
     try:
         ranNum = -1
+        if reverse:
+            ranNum = len(voc) - 1
         while True:
             if sequential:
                 if ranNum == len(voc) - 1:
                     ranNum = 0
                 else:
                     ranNum = ranNum + 1
+            if reverse:
+                if ranNum == -1:
+                    ranNum = len(voc) -1
+                else:
+                    ranNum = ranNum - 1
             else:
                 ranNum = random.randint(0,len(voc)-1)
             # 마지막 빈 공간이 선택되면 그냥 무시하도록
