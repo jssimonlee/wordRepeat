@@ -63,7 +63,10 @@ def vocFilterFunc(voc, searchFilter):
 
 # 구간안의 데이터만 리스트로 반환해 주는 함수
 def inbetween(voc, sectorFilter):
-    start = int(sectorFilter.split("-")[0])-1
+    if "-" in sectorFilter:
+        start = int(sectorFilter.split("-")[0])-1
+    else:
+        start = sectorFilter
     if sectorFilter.split("-")[1] == "":
         end = len(voc)
     else:
