@@ -73,7 +73,7 @@ def inbetween(voc, searchFilter):
     else:
         st.warning(f'구간이 전체 범위를 초과하였습니다. 다시 설정해 주세요. 최대범위: {len(voc)}')
 
-def showWords(data, questCol, answCol, dilimCol, timeSel, playWay, searchFilter):
+def showWords(data, questCol, answCol, dilimCol, timeSel, playWay, searchFilter, sectorFilter):
     # 순차적으로 할건지 결정하는 Flag
     # sequential = False
     # reverse = False
@@ -82,20 +82,14 @@ def showWords(data, questCol, answCol, dilimCol, timeSel, playWay, searchFilter)
             voc = f.readlines()
             if searchFilter:
                 try:
-                    # if playWay == "순차":
-                    #     sequential = True
-                    #     # searchFilter = searchFilter[1:]
-                    # if playWay == "역순":
-                    #     reverse = True
-                    #     # searchFilter = searchFilter[1:]
-                    if "|" in searchFilter:
-                        voc = vocFilterFunc(voc, searchFilter.split("|")[0])
-                        voc = inbetween(voc, searchFilter.split("|")[1])
-                    else:
-                        if "-" in searchFilter:
-                            voc = inbetween(voc, searchFilter)
-                        else:
-                            voc = vocFilterFunc(voc, searchFilter)
+                    # if "|" in searchFilter:
+                    #     voc = vocFilterFunc(voc, searchFilter.split("|")[0])
+                    #     voc = inbetween(voc, searchFilter.split("|")[1])
+                    # else:
+                    if "-" in sectorFilter:
+                        voc = inbetween(voc, sectorFilter)
+                    if searchFilter:
+                        voc = vocFilterFunc(voc, searchFilter)
                 except Exception as e:
                     st.write(e)
                     st.warning('구간을 지정하려면 숫자 2개를 중간에 "-"를 넣고 연결하세요(예:1-20)')
@@ -224,29 +218,30 @@ with tab1:
         # value = cookie_manager.get('prevFile')
         # if value:
         #     init_idx = file_list_wanted.index(value)
-        col1,col2,col3 = st.columns([22,4,4])
+        col1,col2,col3,col4 = st.columns([20,4,4,4])
         with col1:
             selected_file = st.selectbox('파일선택',file_list_wanted,init_idx)
         with col2:
             questCol = st.selectbox("질문열",[1,2,3,4]) - 1
         with col3:
             answCol = st.selectbox("해답열",[1,2,3,4],1) - 1
-        col4,col5,col6,col7 = st.columns([7,7,7,8])
-        # col1,col2,col3,col4,col5,col6,col7 = st.columns([10,4,4,6,5,6,6])
         with col4:
             dilimCol = st.selectbox("열 구분자",["자동","탭","빈칸1개","빈칸2개","콤마"],0)
+        col5,col6,col7,col8 = st.columns([7,7,7,7])
         with col5:
             timeSel = st.selectbox("시간 간격",[0.5,1,2,3,4,5,6,8,10,20,30,60],3)
         with col6:
             playWay = st.selectbox("동작 순서",["순차","역순","랜덤"],1)
         with col7:
-            searchFilter = st.text_input("필터/구간")
+            searchFilter = st.text_input("검색단어만 필터")
+        with col8:
+            sectorFilter = st.text_input("구간반복 (예:10-20)")
         submitted = st.form_submit_button("시작")
         if submitted:
             with open("initFile.ini","w",encoding="utf-8") as f:
                 f.write(selected_file)
             # cookie_manager.set('prevFile', selected_file)
-            showWords(selected_file, questCol, answCol, dilimCol, timeSel, playWay, searchFilter)
+            showWords(selected_file, questCol, answCol, dilimCol, timeSel, playWay, searchFilter, sectorFilter)
 
     on = st.toggle('필터/구간 설명')
     if on:
