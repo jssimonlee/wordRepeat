@@ -142,7 +142,7 @@ def showWords(data, questCol, answCol, dilimCol, timeSel, searchFilter):
                 else:
                     ranNum = ranNum + 1
             if reverse:
-                if ranNum == -1:
+                if ranNum == 0:
                     ranNum = len(voc) -1
                 else:
                     ranNum = ranNum - 1
