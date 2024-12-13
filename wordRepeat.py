@@ -81,6 +81,8 @@ def showWords(data, questCol, answCol, dilimCol, timeSel, playWay, searchFilter,
         with open(selected_file,'r', encoding='utf-8') as f:
             voc = f.readlines()
             if searchFilter:
+                voc = vocFilterFunc(voc, searchFilter)
+            if sectorFilter:
                 try:
                     # if "|" in searchFilter:
                     #     voc = vocFilterFunc(voc, searchFilter.split("|")[0])
@@ -88,8 +90,6 @@ def showWords(data, questCol, answCol, dilimCol, timeSel, playWay, searchFilter,
                     # else:
                     if "-" in sectorFilter:
                         voc = inbetween(voc, sectorFilter)
-                    if searchFilter:
-                        voc = vocFilterFunc(voc, searchFilter)
                 except Exception as e:
                     st.write(e)
                     st.warning('구간을 지정하려면 숫자 2개를 중간에 "-"를 넣고 연결하세요(예:1-20)')
