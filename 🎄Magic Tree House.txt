@@ -560,3 +560,146 @@ sniff  코를 훌쩍이다  #08.09
 hoot  부엉부엉하다  #08.10
 galaxy  은하계, 은하수  #08.10
 scoff  비웃다  #08.10
+exclaim  소리치다  #09.01
+pale  창백한  #09.01
+dawn  새벽, 여명  #09.01
+riddle  수수께끼  #09.01
+scroll  두루마리  #09.01
+let go of  ~을 놓다  #09.01
+point  (손가락 등으로)가리키다  #09.01
+sea gull  갈매기  #09.02
+lap  찰랑거리다  #09.02
+coral  산호  #09.02
+reef  암초  #09.02
+coral reef  산호초  #09.02
+sub(submarine)  잠수함  #09.02
+skeleton  뼈대  #09.02
+bumpy  울퉁불퉁한  #09.02
+vessel  선박  #09.02
+hull  (배의)선체  #09.02
+aboard  탄, 탑승한  #09.02
+hatch  (배, 항공기의)화물 출입구  #09.02
+dive(-dove-dived)  뛰어들다, 다이빙하다  #09.02
+starfish  불가사리  #09.03
+relief  안도  #09.03
+glue  접착제, 붙이다  #09.03
+grass  풀, 잔디  #09.04
+lettuce  상추  #09.04
+tropical  열대 지방의  #09.04
+species  종(種: 생물 분류의 기초 단위)  #09.04
+jellyfish  해파리  #09.04
+sea horse  해마  #09.04
+footstool  (앉아 있을 때) 발을 얹는 받침  #09.04
+clam  조개  #09.04
+log  일지, 통나무  #09.05
+shell  (달걀, 견과류, 고둥)껍데기  #09.05
+defective  결함이 있는  #09.05
+junkyard  폐품 하치장  #09.05
+a school of  무리의  #09.05
+come after  추적하다  #09.05
+sucker  (낙지,오징어)빨판  #09.06
+tend to  ~하는 경향이 있다  #09.06
+get the best of it  이기다  #09.06
+tentacle  촉수  #09.06
+rubber  고무  #09.06
+suction  빨아들이기, 흡입  #09.06
+grasp  꽉 잡다, 움켜잡다  #09.06
+get rid of  제거하다  #09.06
+Beat it!  꺼져!  #09.06
+squirt  찍 짜다, 내뿜다  #09.06
+spurt  뿜어져 나오다  #09.07
+bob  까닥거리다  #09.07
+ankle  발목  #09.07
+calmly  침착하게  #09.07
+the breast stroke  평영  #09.07
+slippery  미끄러운  #09.08
+nuzzle  코를 비비다  #09.09
+flipper  오리발  #09.09
+resist  저항하다  #09.09
+lap  찰랑거리다, 무릎  #09.09
+blurry  흐릿한  #09.09
+soak  흠뻑 적시다  #09.09
+bend(-bent-bent)  굽히다  #09.09
+ridge  산등성이  #09.09
+pearl  진주  #09.09
+grain  곡물, 알갱이  #09.09
+irritate  짜증나게 하다  #09.09
+in this way  이렇게 하여  #09.09
+fade  바래다, 서서히 사라지다  #09.09
+chase  뒤쫓다  #09.10
+make up for  보상하다  #09.10
+sidewalk  인도  #10.01
+odd  이상한, 특이한, 홀수의  #10.01
+prairie  대초원  #10.01
+buzz  윙윙거리다  #10.01
+spooky  으스스한  #10.02
+tombstone  묘비  #10.02
+out of the blue  갑자기  #10.02
+stagecoach  역마차  #10.02
+rest stop  주차장, 휴게소  #10.02
+coil  감다, 휘감다  #10.02
+graveyard  묘지  #10.02
+hinge  경첩  #10.02
+rusty  녹슨  #10.02
+spurt  박차  #10.02
+sneeze  재채기하다  #10.02
+stiff  뻣뻣한  #10.02
+hobble  다리를 절다  #10.02
+limp  다리를 절다  #10.03
+hoof(-hooves)  발굽  #10.03
+herd  (짐승을)몰다  #10.03
+scrunch  더 작게 만들다  #10.03
+come to a halt  정지하다  #10.03
+pinch  꼬집다  #10.03
+choke  숨이 막히다  #10.03
+rise  오르막  #10.03
+rear up  자리를 박차고 일어서다  #10.03
+saddle  안장  #10.03
+mane  (말, 사자 목덜미의)갈기  #10.03
+colt  수망아지  #10.03
+gallop  (말이)전속력으로 달리다  #10.03
+descendant  자손  #10.04
+runaway  달아난  #10.04
+rancher  목장 주인  #10.04
+herder  양치기, 목부  #10.04
+attitude  태도, 자세  #10.04
+praise  칭찬  #10.04
+reward  보상  #10.04
+freeze(-froze-frozen)  얼다  #10.04
+mare  암말  #10.04
+distress  고통, 괴로움  #10.04
+bear  참다, 견디다  #10.04
+huff and puff  헉헉거리다  #10.04
+bond  유대, 끈  #10.05
+rustler  가축 도둑  #10.05
+yonder  저기 있는  #10.05
+for starters  우선 첫째로  #10.05
+reckon  생각하다  #10.05
+knack  재주, 요령  #10.05
+stirrup  (말 안장 양쪽에 달린) 등자  #10.05
+rein  고삐  #10.05
+at stake  위태로운  #10.06
+awkward  (기분이)어색한  #10.06
+boxy  상자 모양의  #10.07
+corral  울타리 안으로 몰아넣다  #10.07
+grassy  풀로 덮인  #10.07
+sore  아픈  #10.07
+flop  털썩 주저앉다  #10.07
+pillow  베개  #10.07
+lonesome  외로운  #10.07
+folk  사람들, 민속의  #10.07
+gal  처녀, 여자  #10.07
+loco  미친  #10.07
+stir   젓다, 약간 움직이다  #10.07
+tin  주석, 통조림, 깡통  #10.08
+canteen  물통, 구내식당  #10.08
+sip  (음료를)조금씩 마시다  #10.08
+bitter  맛이 쓴  #10.08
+playfully  재미있게, 희롱조로  #10.08
+hazy  흐릿한  #10.08
+pal  친구  #10.08
+cup  두 손을 동그랗게 모아 쥐다  #10.08
+dim  어둑한  #10.09
+waft  퍼지다  #10.09
+dedicate  바치다, 헌정하다  #10.10
+moist  촉촉한  #10.10
