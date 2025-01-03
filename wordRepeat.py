@@ -198,7 +198,7 @@ with tab1:
             if extension.replace('.','') in extList:
                 if file != 'requirements.txt':
                     file_list_wanted.append(file)
-        file_list_wanted.sort()
+        file_list_wanted.sort().reverse()
         # 초기선택파일을 ini파일에서 읽어옴
         try:
             with open("initFile.ini","r",encoding="utf-8") as f:
